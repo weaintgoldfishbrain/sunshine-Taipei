@@ -1,0 +1,143 @@
+{
+  "id": "p_c2a14d_f28217",
+  "councilId": "council_c2a14d",
+  "name": "蔡健棠",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "1,873,234",
+    "securities": "89,340",
+    "debt": "7,583,048",
+    "realEstate": "16筆"
+  },
+  "chartData": [
+    1,
+    0,
+    99,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "1,987",
+      "owner": "鄭玉惠",
+      "license": "113 年 11 月28日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "26.47",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區榮富段",
+      "area": "5,982.82",
+      "portion": "100000 分 之266",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區榮富段",
+      "area": "1.69",
+      "portion": "100000 分 之266",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "7",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "16",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "122",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市龜山區半嶺段",
+      "area": "27",
+      "portion": "全部",
+      "owner": "鄭玉惠"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市龜山區半嶺段",
+      "area": "4",
+      "portion": "全部",
+      "owner": "鄭玉惠"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "25.92",
+      "portion": "全部",
+      "owner": "鄭玉惠"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區榮富段",
+      "area": "5,982.82",
+      "portion": "100000 分 之94",
+      "owner": "鄭玉惠"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區榮富段",
+      "area": "1.69",
+      "portion": "100000 分 之94",
+      "owner": "鄭玉惠"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區榮富段",
+      "area": "655.75",
+      "portion": "10000 分之 43",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區榮富段",
+      "area": "116.97 (另附屬建 物 總 面 積:16.68)",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "7",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "16",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣溪湖鎮平和段",
+      "area": "122",
+      "portion": "全部",
+      "owner": "蔡健棠"
+    }
+  ]
+}

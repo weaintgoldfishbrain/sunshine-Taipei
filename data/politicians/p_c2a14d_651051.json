@@ -1,0 +1,155 @@
+{
+  "id": "p_c2a14d_651051",
+  "councilId": "council_c2a14d",
+  "name": "林裔綺",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "12,784,167",
+    "securities": "2,455,570",
+    "debt": "10,029,216",
+    "realEstate": "16筆"
+  },
+  "chartData": [
+    7,
+    1,
+    91,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "SKODA",
+      "cc": "999",
+      "owner": "林裔綺",
+      "license": "108 年 01 月10日"
+    },
+    {
+      "brand": "SKODA",
+      "cc": "1,984",
+      "owner": "林裔綺",
+      "license": "108 年 04 月08日"
+    },
+    {
+      "brand": "MINI",
+      "cc": "1,499",
+      "owner": "林裔綺",
+      "license": "113 年 01 月25日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "宜蘭縣羅東鎮仁愛二段",
+      "area": "2,068.88",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市泰山區同榮段",
+      "area": "2,594.76",
+      "portion": "100000 分 之1042",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市泰山區同榮段",
+      "area": "1.54",
+      "portion": "100000 分 之1042",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市泰山區同榮段",
+      "area": "390.98",
+      "portion": "100000 分 之1042",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市瑞芳區明燈段",
+      "area": "139.81",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市瑞芳區明燈段",
+      "area": "71.20",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "新北市瑞芳區明燈段",
+      "area": "2,112.07",
+      "portion": "100000 分 之2623",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市中正區臨沂段一小段",
+      "area": "5",
+      "portion": "1000 分之 174",
+      "owner": "顏世雄"
+    },
+    {
+      "type": "建物",
+      "location": "宜蘭縣羅東鎮仁愛二段",
+      "area": "555.04 (另附屬建 物 總 面 積:51.83)",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市泰山區同榮段",
+      "area": "91.01 (另附屬建 物 總 面 積:12.34)",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市泰山區同榮段",
+      "area": "4,782.06",
+      "portion": "100000 分 之1056",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市泰山區同榮段",
+      "area": "1,874.99",
+      "portion": "100000 分 之1084",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市瑞芳區明燈段",
+      "area": "204.40",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市瑞芳區明燈段",
+      "area": "111.10",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市瑞芳區明燈段",
+      "area": "157.10 (另附屬建 物 總 面 積:14.73)",
+      "portion": "全部",
+      "owner": "林裔綺"
+    },
+    {
+      "type": "建物",
+      "location": "新北市瑞芳區明燈段",
+      "area": "361.21",
+      "portion": "100000 分",
+      "owner": "林裔綺"
+    }
+  ]
+}

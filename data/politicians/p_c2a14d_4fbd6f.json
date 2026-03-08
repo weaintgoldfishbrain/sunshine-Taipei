@@ -1,0 +1,263 @@
+{
+  "id": "p_c2a14d_4fbd6f",
+  "councilId": "council_c2a14d",
+  "name": "林銘仁",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "13,841,311",
+    "securities": "8,586,495",
+    "debt": "22,096,488",
+    "realEstate": "7筆"
+  },
+  "chartData": [
+    15,
+    9,
+    76,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "16.95",
+      "date": "114年07月18日",
+      "amount": "67,800"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "16.90",
+      "date": "114年07月18日",
+      "amount": "50,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "16.95",
+      "date": "114年07月18日",
+      "amount": "16,950"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "16.95",
+      "date": "114年07月18日",
+      "amount": "16,950"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "16.90",
+      "date": "114年07月18日",
+      "amount": "16,900"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "31,400"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "31,400"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "福懋",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "15.70",
+      "date": "114年08月29日",
+      "amount": "15,700"
+    },
+    {
+      "stock": "華友聯",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "118.50",
+      "date": "114年04月15日",
+      "amount": "118,500"
+    },
+    {
+      "stock": "華友聯",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "71.30",
+      "date": "114年08月29日",
+      "amount": "71,300"
+    },
+    {
+      "stock": "華友聯",
+      "broker": "凱基-土城",
+      "owner": "林銘仁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "65.10",
+      "date": "114年10月14日",
+      "amount": "19,595"
+    },
+    {
+      "stock": "華友聯",
+      "broker": "凱基證券土城分公 司",
+      "owner": "林銘仁",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "71",
+      "date": "114年10月03日",
+      "amount": "21,371"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "LEXUS",
+      "cc": "2,672",
+      "owner": "林銘仁",
+      "license": "106 年 05 月16日"
+    },
+    {
+      "brand": "LEXUS",
+      "cc": "2,487",
+      "owner": "林銘仁",
+      "license": "111 年 12 月27日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,362",
+      "owner": "江孝慈",
+      "license": "109 年 09 月10日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市土城區員和段",
+      "area": "13,535.98",
+      "portion": "100000 分 之227",
+      "owner": "林銘仁"
+    },
+    {
+      "type": "土地",
+      "location": "新北市土城區學成段",
+      "area": "2,476.58",
+      "portion": "100000 分 之896",
+      "owner": "江孝慈"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區員和段",
+      "area": "111.06 (另附屬建 物 總 面 積:14.13)",
+      "portion": "全部",
+      "owner": "林銘仁"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區員和段",
+      "area": "37,658.89",
+      "portion": "1000000 分 之2340",
+      "owner": "林銘仁"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區員和段",
+      "area": "37,658.89",
+      "portion": "1000000 分 之2340",
+      "owner": "林銘仁"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區學成段",
+      "area": "100.39 (另附屬建 物 總 面 積:11.37)",
+      "portion": "全部",
+      "owner": "江孝慈"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區學成段",
+      "area": "5,214.86",
+      "portion": "10000 分之 92",
+      "owner": "江孝慈"
+    }
+  ]
+}

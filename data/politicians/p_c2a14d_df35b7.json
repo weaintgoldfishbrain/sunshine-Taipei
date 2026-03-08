@@ -1,0 +1,371 @@
+{
+  "id": "p_c2a14d_df35b7",
+  "councilId": "council_c2a14d",
+  "name": "陳鴻源",
+  "title": "新北市議會 副議長",
+  "stats": {
+    "deposits": "170,909,648",
+    "securities": "6,869,738",
+    "debt": "4,566,000,000",
+    "realEstate": "47筆"
+  },
+  "chartData": [
+    26,
+    1,
+    73,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "藥祇生醫股份 有限公司",
+      "broker": "元大證券",
+      "owner": "陳鴻源",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10",
+      "date": "114年08月11日",
+      "amount": "2,699,280"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "Mercedes-Benz",
+      "cc": "2,996",
+      "owner": "劉世琪",
+      "license": "107 年 10 月24日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "高雄市路竹區聖母段",
+      "area": "1,550.01",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區圓通段",
+      "area": "3,849.46",
+      "portion": "100000 分 之599",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市永和區保生段",
+      "area": "2,511.54",
+      "portion": "1000000 分 之22100",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市永和區保生段",
+      "area": "87.31",
+      "portion": "8分之3",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "718",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "204",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "39",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "723",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "897",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "689",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區烏塗窟段大格門 小段",
+      "area": "175",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區永業段",
+      "area": "78",
+      "portion": "19212 分之 1131",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區永業段",
+      "area": "78.24",
+      "portion": "38424 分之 2171",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "56",
+      "portion": "10分之2",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "47",
+      "portion": "10分之2",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "21.40",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "104.75",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "20",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "38",
+      "portion": "5分之4",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "5.55",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "429",
+      "portion": "429 分 之",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區圓通段",
+      "area": "56.72 (另附屬建 物 總 面 積:7.93)",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區圓通段",
+      "area": "55.77 (另附屬建 物 總 面 積:7.93)",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市中和區圓通段",
+      "area": "17,909.57",
+      "portion": "100000 分 之346",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市中和區圓通段",
+      "area": "17,909.57",
+      "portion": "100000 分 之348",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市永和區保生段",
+      "area": "179.68 (另附屬建 物 總 面 積:9.58)",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "高雄市岡山區新本洲段",
+      "area": "4,031.03",
+      "portion": "10000 分之 2629",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區圓通段",
+      "area": "3,849.46",
+      "portion": "100000 分 之599",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "21",
+      "portion": "10分之2",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "31",
+      "portion": "10分之2",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "123",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "278",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "61.91",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "42.29",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "365",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "58",
+      "portion": "2分之1",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "13",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "326",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "380",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "215",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "646",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "64",
+      "portion": "5分之4",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "783.79",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "276",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "104",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安城段",
+      "area": "38",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區圓通段",
+      "area": "48.79 (另附屬建 物 總 面 積:7.93)",
+      "portion": "全部",
+      "owner": "陳鴻源"
+    }
+  ]
+}

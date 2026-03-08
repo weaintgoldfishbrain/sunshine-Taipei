@@ -1,0 +1,164 @@
+{
+  "id": "p_efab41_add37c",
+  "councilId": "council_efab41",
+  "name": "陳錦祥",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "227,406",
+    "securities": "1,660",
+    "debt": "142,398,343",
+    "realEstate": "20筆"
+  },
+  "chartData": [
+    0,
+    0,
+    100,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "基隆市安樂區觀音段",
+      "area": "73",
+      "portion": "15分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市信義區光明段",
+      "area": "242",
+      "portion": "全部",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "3,172",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "1,630",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "805",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "5,809",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "394",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "新北市石碇區崩山段崩山小段",
+      "area": "264",
+      "portion": "12分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大安區仁愛段一小段",
+      "area": "353",
+      "portion": "30000 分之 2291",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大安區仁愛段一小段",
+      "area": "5",
+      "portion": "30000 分之 2291",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市內湖區碧山段三小段",
+      "area": "722",
+      "portion": "20分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市內湖區碧山段三小段",
+      "area": "242",
+      "portion": "20分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市內湖區碧山段三小段",
+      "area": "213",
+      "portion": "20分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市內湖區碧山段三小段",
+      "area": "1,157",
+      "portion": "20分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市內湖區碧山段三小段",
+      "area": "113",
+      "portion": "20分之1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區三興段三小段",
+      "area": "3,107.51",
+      "portion": "10000 分之 1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區三興段三小段",
+      "area": "3,107.51",
+      "portion": "10000 分之 1",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市信義區三興段三小段",
+      "area": "1,147",
+      "portion": "10000 分之 28",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區三興段三小段",
+      "area": "1,109.99",
+      "portion": "10000 分之 119",
+      "owner": "陳錦祥"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區三興段三小段",
+      "area": "1,106.75",
+      "portion": "10000 分之 119",
+      "owner": "陳錦祥"
+    }
+  ]
+}

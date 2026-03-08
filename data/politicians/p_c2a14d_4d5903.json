@@ -1,0 +1,101 @@
+{
+  "id": "p_c2a14d_4d5903",
+  "councilId": "council_c2a14d",
+  "name": "林國春",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "11,669,226",
+    "securities": "1,173,900",
+    "debt": "9,232,868",
+    "realEstate": "10筆"
+  },
+  "chartData": [
+    10,
+    1,
+    89,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "VOLKSWAGEN",
+      "cc": "1,984",
+      "owner": "林國春",
+      "license": "113 年 08 月22日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "金門縣烈嶼鄉西方段",
+      "area": "136",
+      "portion": "全部",
+      "owner": "林國春"
+    },
+    {
+      "type": "土地",
+      "location": "金門縣烈嶼鄉西方段",
+      "area": "306",
+      "portion": "4分之1",
+      "owner": "林國春"
+    },
+    {
+      "type": "土地",
+      "location": "金門縣烈嶼鄉東面山測段",
+      "area": "201.16",
+      "portion": "全部",
+      "owner": "林國春"
+    },
+    {
+      "type": "土地",
+      "location": "金門縣烈嶼鄉庵下測段",
+      "area": "179.95",
+      "portion": "全部",
+      "owner": "林國春"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": "1,122",
+      "portion": "10000 分之 74",
+      "owner": "林國春"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": "99.30 (另附屬建 物 總 面 積:4.05)",
+      "portion": "全部",
+      "owner": "林國春"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": "940.86",
+      "portion": "10000 分之 174",
+      "owner": "林國春"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區江子翠段第二崁 小段",
+      "area": "3,412.68",
+      "portion": "10000 分之 22",
+      "owner": "林國春"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區忠翠里文化路 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "119.20",
+      "portion": "全部",
+      "owner": "林國春"
+    },
+    {
+      "type": "建物",
+      "location": "金門縣烈嶼鄉西口村 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "320.30",
+      "portion": "4分之1",
+      "owner": "林國春"
+    }
+  ]
+}

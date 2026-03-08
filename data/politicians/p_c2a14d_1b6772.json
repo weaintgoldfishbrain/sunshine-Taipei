@@ -1,0 +1,65 @@
+{
+  "id": "p_c2a14d_1b6772",
+  "councilId": "council_c2a14d",
+  "name": "彭佳芸",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "85,181,548",
+    "securities": "11,420",
+    "debt": "31,290,000",
+    "realEstate": "4筆"
+  },
+  "chartData": [
+    68,
+    0,
+    32,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "Mercedes-Benz",
+      "cc": "3,498",
+      "owner": "李昆鴻",
+      "license": "104 年 08 月13日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "3,456",
+      "owner": "李昆鴻",
+      "license": "110 年 08 月02日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三重區大仁段",
+      "area": "11,113",
+      "portion": "100000 分 之275",
+      "owner": "李昆鴻"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區大同南段",
+      "area": "1,817.78",
+      "portion": "400000 分 之2113",
+      "owner": "李昆鴻"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區大同南段",
+      "area": "1,732.55",
+      "portion": "400000 分 之2113",
+      "owner": "李昆鴻"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區大仁段",
+      "area": "162.50 (另附屬建 物 總 面 積:17.84)",
+      "portion": "全部",
+      "owner": "李昆鴻"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "p_efab41_aeae91",
+  "councilId": "council_efab41",
+  "name": "汪志冰",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "18,981,587",
+    "securities": "21,356,102",
+    "debt": "0",
+    "realEstate": "5筆"
+  },
+  "chartData": [
+    21,
+    24,
+    55,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "亞德客-KY",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "810",
+      "date": "114年04月07日",
+      "amount": "810,000"
+    },
+    {
+      "stock": "亞德客-KY",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "810",
+      "date": "114年04月07日",
+      "amount": "810,000"
+    },
+    {
+      "stock": "台達電",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "647",
+      "date": "114年08月21日",
+      "amount": "647,000"
+    },
+    {
+      "stock": "台達電",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "846",
+      "date": "114年09月26日",
+      "amount": "846,000"
+    },
+    {
+      "stock": "國巨舊",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "變更面額 轉入(存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "546",
+      "date": "114年08月18日",
+      "amount": "1,583,400"
+    },
+    {
+      "stock": "國巨舊",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "變更面額 轉出(提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "143",
+      "date": "114年08月25日",
+      "amount": "414,700"
+    },
+    {
+      "stock": "國巨",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "495",
+      "date": "114年06月10日",
+      "amount": "495,000"
+    },
+    {
+      "stock": "國巨",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "460",
+      "date": "114年06月20日",
+      "amount": "460,000"
+    },
+    {
+      "stock": "國巨",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "533",
+      "date": "114年07月25日",
+      "amount": "533,000"
+    },
+    {
+      "stock": "國巨",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "變更面額 轉出(提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "546",
+      "date": "114年08月18日",
+      "amount": "1,583,400"
+    },
+    {
+      "stock": "國巨*",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "變更面額 轉入(存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "143",
+      "date": "114年08月25日",
+      "amount": "1,658,800"
+    },
+    {
+      "stock": "國巨*",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "138.50",
+      "date": "114年08月28日",
+      "amount": "277,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "860",
+      "date": "114年04月11日",
+      "amount": "860,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-仁愛",
+      "owner": "汪志冰",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "854",
+      "date": "114年04月11日",
+      "amount": "854,000"
+    },
+    {
+      "stock": "京城銀舊",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "56.60",
+      "date": "114年09月22日",
+      "amount": "1,018,800"
+    },
+    {
+      "stock": "京城銀舊",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "56.60",
+      "date": "114年10月01日",
+      "amount": "1,018,800"
+    },
+    {
+      "stock": "京城銀",
+      "broker": "富邦證券仁愛分公 司",
+      "owner": "汪志冰",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "56.60",
+      "date": "114年09月22日",
+      "amount": "1,018,800"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,998",
+      "owner": "汪志冰",
+      "license": "104 年 03 月04日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三重區中興段",
+      "area": "1,709.18",
+      "portion": "10000 分之 44",
+      "owner": "汪志冰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中興段",
+      "area": "55.12 (另附屬建 物 總 面 積:4.37)",
+      "portion": "全部",
+      "owner": "汪志冰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中興段",
+      "area": "958.57",
+      "portion": "10000 分之 46",
+      "owner": "汪志冰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中興段",
+      "area": "4,039.65",
+      "portion": "10000 分之 49",
+      "owner": "汪志冰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中興段",
+      "area": "92.55",
+      "portion": "10000 分之 689",
+      "owner": "汪志冰"
+    }
+  ]
+}

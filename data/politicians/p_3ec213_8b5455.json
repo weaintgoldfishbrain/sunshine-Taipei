@@ -1,0 +1,30 @@
+{
+  "id": "p_3ec213_8b5455",
+  "councilId": "council_3ec213",
+  "name": "黃柏瑜",
+  "title": "彰化縣議會 議員",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "1★賓士MERCEDE",
+      "cc": "1,496",
+      "owner": "黃倩儀",
+      "license": "111 年 07 月26日"
+    }
+  ],
+  "real_estate": []
+}

@@ -1,0 +1,188 @@
+{
+  "id": "p_efab41_d5b147",
+  "councilId": "council_efab41",
+  "name": "張斯綱",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "24,922,144",
+    "securities": "1,147,821",
+    "debt": "7,776,520",
+    "realEstate": "10筆"
+  },
+  "chartData": [
+    20,
+    1,
+    79,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "金寶",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "20.50",
+      "date": "114年08月18日",
+      "amount": "41,000"
+    },
+    {
+      "stock": "鴻海",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "196.50",
+      "date": "114年08月13日",
+      "amount": "196,500"
+    },
+    {
+      "stock": "鴻海",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "246",
+      "date": "114年10月27日",
+      "amount": "246,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "33.15",
+      "date": "114年10月27日",
+      "amount": "33,150"
+    },
+    {
+      "stock": "燿華",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "23.40",
+      "date": "114年04月15日",
+      "amount": "23,400"
+    },
+    {
+      "stock": "燿華",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "23.40",
+      "date": "114年04月15日",
+      "amount": "23,400"
+    },
+    {
+      "stock": "燿華",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "23.40",
+      "date": "114年04月15日",
+      "amount": "23,400"
+    },
+    {
+      "stock": "鉅祥",
+      "broker": "富邦-內湖",
+      "owner": "張斯綱",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "96.30",
+      "date": "114年10月28日",
+      "amount": "96,300"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "BMW",
+      "cc": "2,720",
+      "owner": "張斯綱",
+      "license": "113 年 10 月15日"
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "cc": "1,498",
+      "owner": "張斯綱",
+      "license": "114 年 07 月04日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市士林區天母段三小段",
+      "area": "1,552",
+      "portion": "10000 分之 150",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區天母段三小段",
+      "area": "107.24 (另附屬建 物 總 面 積:11.04)",
+      "portion": "全部",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區天母段三小段",
+      "area": "3,507.72",
+      "portion": "80分之1",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區天母段三小段",
+      "area": "2,067.34",
+      "portion": "10000 分之 151",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區天母段三小段",
+      "area": "767.79",
+      "portion": "10000 分之 160",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "土地",
+      "location": "1★臺北市士林區天母段三小段",
+      "area": "1,552",
+      "portion": "10000 分之 150",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "1★臺北市士林區天母段三小段",
+      "area": "107.24",
+      "portion": "全部",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "1★臺北市士林區天母段三小段",
+      "area": "3,507.72",
+      "portion": "80分之1",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "1★臺北市士林區天母段三小段",
+      "area": "2,067.34",
+      "portion": "10000 分之 151",
+      "owner": "張斯綱"
+    },
+    {
+      "type": "建物",
+      "location": "1★臺北市士林區天母段三小段",
+      "area": "767.79",
+      "portion": "10000 分之 160",
+      "owner": "張斯綱"
+    }
+  ]
+}

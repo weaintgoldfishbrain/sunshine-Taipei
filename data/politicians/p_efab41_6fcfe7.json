@@ -1,0 +1,59 @@
+{
+  "id": "p_efab41_6fcfe7",
+  "councilId": "council_efab41",
+  "name": "李傅中武",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "9,180,369",
+    "securities": "0",
+    "debt": "31,488,565",
+    "realEstate": "4筆"
+  },
+  "chartData": [
+    19,
+    0,
+    81,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "三陽",
+      "cc": "565",
+      "owner": "李傅中武",
+      "license": "105 年 01 月19日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市大安區通化段六小段",
+      "area": "764",
+      "portion": "10000 分之 514",
+      "owner": "李傅中武"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大安區通化段六小段",
+      "area": "96.30 (另附屬建 物 總 面 積:10.40)",
+      "portion": "全部",
+      "owner": "李傅中武"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大安區通化段六小段",
+      "area": "445.46",
+      "portion": "10000 分之 587",
+      "owner": "李傅中武"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大安區通化段六小段",
+      "area": "101.41 (另附屬建 物 總 面 積:31.90)",
+      "portion": "全部",
+      "owner": "李傅中武"
+    }
+  ]
+}

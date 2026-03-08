@@ -1,0 +1,38 @@
+{
+  "id": "p162",
+  "councilId": "council_1182",
+  "name": "彭一書",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "鴻海",
+      "broker": "元大-土城",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "133",
+      "date": "114年04月22日",
+      "amount": "26,600"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-土城",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "825",
+      "date": "114年04月22日",
+      "amount": "16,500"
+    }
+  ]
+}

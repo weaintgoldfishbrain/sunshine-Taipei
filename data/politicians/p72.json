@@ -1,0 +1,155 @@
+{
+  "id": "p72",
+  "councilId": "council_5529",
+  "name": "簡舒培",
+  "title": "臺北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "975",
+      "date": "114年03月11日",
+      "amount": "975,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "871",
+      "date": "114年04月15日",
+      "amount": "871,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "985",
+      "date": "114年06月04日",
+      "amount": "985,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "120,910"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "92,660"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "12,430"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "3,575.40"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "2,902.80"
+    }
+  ]
+}

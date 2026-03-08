@@ -1,0 +1,237 @@
+{
+  "id": "p_c2a14d_b1741b",
+  "councilId": "council_c2a14d",
+  "name": "邱婷蔚",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "3,193,426",
+    "securities": "18,281,646",
+    "debt": "25,779,437",
+    "realEstate": "5筆"
+  },
+  "chartData": [
+    4,
+    26,
+    70,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "中砂",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "346.50",
+      "date": "114年10月02日",
+      "amount": "693,000"
+    },
+    {
+      "stock": "中砂",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "336.50",
+      "date": "114年10月07日",
+      "amount": "336,500"
+    },
+    {
+      "stock": "中砂",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "338",
+      "date": "114年10月07日",
+      "amount": "338,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "22.45",
+      "date": "114年07月31日",
+      "amount": "112,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "22.30",
+      "date": "114年07月31日",
+      "amount": "111,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "21.80",
+      "date": "114年08月01日",
+      "amount": "109,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "21.75",
+      "date": "114年08月01日",
+      "amount": "108,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "22.35",
+      "date": "114年08月13日",
+      "amount": "111,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "22.35",
+      "date": "114年08月13日",
+      "amount": "111,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "22.40",
+      "date": "114年08月13日",
+      "amount": "112,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "22.40",
+      "date": "114年08月13日",
+      "amount": "112,000"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "22.45",
+      "date": "114年07月28日",
+      "amount": "112,250"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "22.70",
+      "date": "114年07月28日",
+      "amount": "113,500"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "22.65",
+      "date": "114年07月28日",
+      "amount": "113,250"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "24.95",
+      "date": "114年08月01日",
+      "amount": "124,750"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "25",
+      "date": "114年08月01日",
+      "amount": "125,000"
+    },
+    {
+      "stock": "台玻",
+      "broker": "永豐金-三重",
+      "owner": "邱婷蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "24.90",
+      "date": "114年08月01日",
+      "amount": "124,500"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "中華",
+      "cc": "2,378",
+      "owner": "邱婷蔚",
+      "license": "111 年 03 月31日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三重區永德段",
+      "area": "795",
+      "portion": "100000 分 之3068",
+      "owner": "邱婷蔚"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區永德段",
+      "area": "5",
+      "portion": "100000 分 之3068",
+      "owner": "邱婷蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "149.21 (另附屬建 物 總 面 積:16.38)",
+      "portion": "全部",
+      "owner": "邱婷蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "1,497.74",
+      "portion": "100000 分 之1800",
+      "owner": "邱婷蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "778.76",
+      "portion": "100000 分 之3230",
+      "owner": "邱婷蔚"
+    }
+  ]
+}

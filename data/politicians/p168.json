@@ -1,0 +1,65 @@
+{
+  "id": "p168",
+  "councilId": "council_1182",
+  "name": "游輝宂",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台塑",
+      "broker": "元大-雙和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "44.20",
+      "date": "113年11月15日",
+      "amount": "44,200"
+    },
+    {
+      "stock": "台塑",
+      "broker": "元大-雙和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "35",
+      "date": "114年01月02日",
+      "amount": "35,000"
+    },
+    {
+      "stock": "中鋼",
+      "broker": "元大-雙和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "19.90",
+      "date": "113年12月19日",
+      "amount": "19,900"
+    },
+    {
+      "stock": "臺企銀",
+      "broker": "元大-雙和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "15.40",
+      "date": "114年08月19日",
+      "amount": "15,400"
+    },
+    {
+      "stock": "遠雄港",
+      "broker": "元大證券雙和分公 司",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "51.20",
+      "date": "114年08月29日",
+      "amount": "1,024"
+    }
+  ]
+}

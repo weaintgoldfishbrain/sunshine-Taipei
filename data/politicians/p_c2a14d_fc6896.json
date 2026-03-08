@@ -1,0 +1,99 @@
+{
+  "id": "p_c2a14d_fc6896",
+  "councilId": "council_c2a14d",
+  "name": "陳乃瑜",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "2,356,991",
+    "securities": "6,592,385",
+    "debt": "37,239,714",
+    "realEstate": "8筆"
+  },
+  "chartData": [
+    3,
+    7,
+    90,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "日產",
+      "cc": "1,997",
+      "owner": "陳乃瑜",
+      "license": "111 年 12 月08日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "993",
+      "owner": "陳乃瑜",
+      "license": "112 年 09 月19日"
+    },
+    {
+      "brand": "SKODA",
+      "cc": "1,395",
+      "owner": "魏有德",
+      "license": "108 年 08 月30日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市新店區寶強段",
+      "area": "477.44",
+      "portion": "1000000 分 之18205",
+      "owner": "陳乃瑜"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區寶強段",
+      "area": "745.20",
+      "portion": "1000000 分 之18205",
+      "owner": "陳乃瑜"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區立德段",
+      "area": "2,474.79",
+      "portion": "10000 分之 91",
+      "owner": "魏有德"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區寶強段",
+      "area": "124.99 (另附屬建 物 總 面 積:11.01)",
+      "portion": "全部",
+      "owner": "陳乃瑜"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區寶強段",
+      "area": "4,859.85",
+      "portion": "100000 分 之1858",
+      "owner": "陳乃瑜"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區立德段",
+      "area": "127.29 (另附屬建 物 總 面 積:17.64)",
+      "portion": "全部",
+      "owner": "魏有德"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區立德段",
+      "area": "5,291.30",
+      "portion": "100000 分 之921",
+      "owner": "魏有德"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區立德段",
+      "area": "4,980.97",
+      "portion": "135分之1",
+      "owner": "魏有德"
+    }
+  ]
+}

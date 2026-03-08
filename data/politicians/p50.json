@@ -1,0 +1,173 @@
+{
+  "id": "p50",
+  "councilId": "council_5529",
+  "name": "陳重文",
+  "title": "臺北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "168",
+      "date": "114年05月06日",
+      "amount": "336,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "167.50",
+      "date": "114年05月06日",
+      "amount": "167,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "169",
+      "date": "114年05月06日",
+      "amount": "169,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "166.50",
+      "date": "114年05月06日",
+      "amount": "166,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "193.50",
+      "date": "114年05月19日",
+      "amount": "1,741,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "188",
+      "date": "114年05月19日",
+      "amount": "376,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "191",
+      "date": "114年05月19日",
+      "amount": "191,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "185.50",
+      "date": "114年05月19日",
+      "amount": "185,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "189.50",
+      "date": "114年05月19日",
+      "amount": "189,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "190",
+      "date": "114年05月19日",
+      "amount": "190,000"
+    }
+  ]
+}

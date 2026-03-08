@@ -1,0 +1,129 @@
+{
+  "id": "p_c2a14d_2c675d",
+  "councilId": "council_c2a14d",
+  "name": "馬見 Lahuy．Ipin",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "16,750,000",
+    "realEstate": "14筆"
+  },
+  "chartData": [
+    0,
+    0,
+    100,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "LEXUS",
+      "cc": "1,998",
+      "owner": "馬見Lahuy． Ipin",
+      "license": "110 年 07 月16日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市土城區永和段",
+      "area": "1,748.02",
+      "portion": "100000 分 之991",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "2",
+      "portion": "4分之1",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "95",
+      "portion": "4分之1",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區小城段",
+      "area": "68.60",
+      "portion": "全部",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區永和段",
+      "area": "2,143.60",
+      "portion": "100000 分 之1046",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區永和段",
+      "area": "65.06 (另附屬建 物 總 面 積:8.43)",
+      "portion": "全部",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "81.45",
+      "portion": "全部",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區小城段",
+      "area": "162.06 (另附屬建 物 總 面 積:14.85)",
+      "portion": "全部",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市土城區永和段",
+      "area": "1,748.02",
+      "portion": "100000 分 之991",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "2",
+      "portion": "4分之1",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "95",
+      "portion": "4分之1",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區永和段",
+      "area": "2,143.60",
+      "portion": "100000 分 之1046",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市土城區永和段",
+      "area": "65.60 (另附屬建 物 總 面 積:8.43)",
+      "portion": "全部",
+      "owner": "吳湘純"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區江子翠段溪頭小 段",
+      "area": "81.45",
+      "portion": "全部",
+      "owner": "吳湘純"
+    }
+  ]
+}

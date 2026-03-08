@@ -1,0 +1,209 @@
+{
+  "id": "p_efab41_f8c1a4",
+  "councilId": "council_efab41",
+  "name": "侯漢廷",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "327,782",
+    "securities": "950,000",
+    "debt": "994,115",
+    "realEstate": "2筆"
+  },
+  "chartData": [
+    2,
+    4,
+    94,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "1,430,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "314,600"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "286,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "143,000"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "114,400"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "85,800"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    },
+    {
+      "stock": "旺宏",
+      "broker": "元富-松德",
+      "owner": "黃巧嫣",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.60",
+      "date": "114年09月19日",
+      "amount": "57,200"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市板橋區光華段",
+      "area": "132",
+      "portion": "4分之1",
+      "owner": "侯漢廷"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區光華段",
+      "area": "95.69 (另附屬建 物 總 面 積:15.52)",
+      "portion": "全部",
+      "owner": "侯漢廷"
+    }
+  ]
+}

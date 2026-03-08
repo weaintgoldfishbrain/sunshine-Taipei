@@ -1,0 +1,73 @@
+{
+  "id": "p_efab41_1a4848",
+  "councilId": "council_efab41",
+  "name": "許淑華",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "8,338,645",
+    "securities": "10,172,009",
+    "debt": "1,110,851",
+    "realEstate": "7筆"
+  },
+  "chartData": [
+    9,
+    11,
+    79,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "615",
+      "portion": "100000 分 之674",
+      "owner": "許淑華"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "218",
+      "portion": "100000 分 之674",
+      "owner": "許淑華"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "552.52",
+      "portion": "13分之1",
+      "owner": "許淑華"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "35.79 (另附屬建 物 總 面 積:4.27)",
+      "portion": "全部",
+      "owner": "許淑華"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "1,727.18",
+      "portion": "10000 分之 74",
+      "owner": "許淑華"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "1,727.18",
+      "portion": "10000 分之 13",
+      "owner": "許淑華"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市信義區雅祥段四小段",
+      "area": "678.63",
+      "portion": "10000 分之 207",
+      "owner": "許淑華"
+    }
+  ]
+}

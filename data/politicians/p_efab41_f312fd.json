@@ -1,0 +1,340 @@
+{
+  "id": "p_efab41_f312fd",
+  "councilId": "council_efab41",
+  "name": "陳炳甫",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "27,405,729",
+    "securities": "9,829,899",
+    "debt": "70,000,000",
+    "realEstate": "25筆"
+  },
+  "chartData": [
+    10,
+    3,
+    87,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "元太",
+      "broker": "統一",
+      "owner": "陳炳甫",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "287",
+      "date": "114年02月18日",
+      "amount": "1,722,000"
+    },
+    {
+      "stock": "元太",
+      "broker": "統一",
+      "owner": "陳炳甫",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "287",
+      "date": "114年02月18日",
+      "amount": "861,000"
+    },
+    {
+      "stock": "元太",
+      "broker": "統一",
+      "owner": "陳炳甫",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "287",
+      "date": "114年02月18日",
+      "amount": "287,000"
+    },
+    {
+      "stock": "富邦媒",
+      "broker": "統一證券",
+      "owner": "陳炳甫",
+      "type": "A 借貸轉 帳 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "355.50",
+      "date": "114年04月02日",
+      "amount": "3,199,500"
+    },
+    {
+      "stock": "富邦媒",
+      "broker": "統一證券",
+      "owner": "陳炳甫",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "258",
+      "date": "114年10月09日",
+      "amount": "125,130"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "887,000"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "88,700"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "88,700"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "88,700"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "44,350"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "44,350"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "44,350"
+    },
+    {
+      "stock": "中信金",
+      "broker": "台中銀",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "44.35",
+      "date": "114年07月03日",
+      "amount": "44,350"
+    },
+    {
+      "stock": "TPK-KY",
+      "broker": "玉山",
+      "owner": "吳嘉蓁",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "37.15",
+      "date": "114年03月18日",
+      "amount": "37,150"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "1★日本國東京都港區六本木三 丁目",
+      "area": "5,741.22",
+      "portion": "1000000 分 之3022",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區菁山段二小段",
+      "area": "1,977.28",
+      "portion": "40分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區菁山段二小段",
+      "area": "1,651.84",
+      "portion": "40分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區菁山段二小段",
+      "area": "16.33",
+      "portion": "40分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段二小段",
+      "area": "47.56",
+      "portion": "10分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段二小段",
+      "area": "12.27",
+      "portion": "10分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段二小段",
+      "area": "28.87",
+      "portion": "10分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段六小段",
+      "area": "917",
+      "portion": "50000 分之 4004",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段六小段",
+      "area": "550",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段六小段",
+      "area": "331",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段六小段",
+      "area": "514.94",
+      "portion": "5分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段四小段",
+      "area": "363.94",
+      "portion": "3分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段四小段",
+      "area": "1,439.97",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段四小段",
+      "area": "1,205.09",
+      "portion": "40分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市士林區新安段四小段",
+      "area": "2,792.40",
+      "portion": "40分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市中山區金泰段",
+      "area": "494.85",
+      "portion": "10000 分之 1565",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區崇仰段一小段",
+      "area": "159.94",
+      "portion": "150分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區崇仰段一小段",
+      "area": "9.35",
+      "portion": "150分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區崇仰段一小段",
+      "area": "134.24",
+      "portion": "150分之1",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區金泰段",
+      "area": "201.72 (另附屬建 物 總 面 積:32.27)",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區金泰段",
+      "area": "570.65",
+      "portion": "10000 分之 1566",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區金泰段",
+      "area": "190.59",
+      "portion": "14分之2",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "建物",
+      "location": "1★日本國東京都六本木三丁目",
+      "area": "94.01",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "土地",
+      "location": "1★日本國東京都港區六本木三 丁目",
+      "area": "5,741.22",
+      "portion": "1000000 分 之3022",
+      "owner": "陳炳甫"
+    },
+    {
+      "type": "建物",
+      "location": "1★日本國東京都六本木三丁目",
+      "area": "94.01",
+      "portion": "全部",
+      "owner": "陳炳甫"
+    }
+  ]
+}

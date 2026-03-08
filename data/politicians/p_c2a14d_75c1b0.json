@@ -1,0 +1,94 @@
+{
+  "id": "p_c2a14d_75c1b0",
+  "councilId": "council_c2a14d",
+  "name": "陳儀君",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "17,525,315",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "9筆"
+  },
+  "chartData": [
+    16,
+    0,
+    84,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "陳儀君",
+      "license": "110 年 04 月30日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市新店區中正段",
+      "area": "4,790.25",
+      "portion": "100000 分 之469",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區北新段",
+      "area": "608.13",
+      "portion": "10000 分之 222",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區北新段",
+      "area": "18.12",
+      "portion": "10000 分之 222",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區安華段",
+      "area": "1,360",
+      "portion": "100分之10",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區中正段",
+      "area": "123.15 (另附屬建 物 總 面 積:35.89)",
+      "portion": "全部",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區中正段",
+      "area": "1,706.11",
+      "portion": "10000 分之 27",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區中正段",
+      "area": "7,940.74",
+      "portion": "10000 分之 27",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區北新段",
+      "area": "214.93 (另附屬建 物 總 面 積:10.65)",
+      "portion": "3分之1",
+      "owner": "陳儀君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區北新段",
+      "area": "513.78",
+      "portion": "10000 分之 248",
+      "owner": "陳儀君"
+    }
+  ]
+}

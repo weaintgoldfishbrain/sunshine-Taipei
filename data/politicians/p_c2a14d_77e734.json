@@ -1,0 +1,85 @@
+{
+  "id": "p_c2a14d_77e734",
+  "councilId": "council_c2a14d",
+  "name": "黃心華",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "3,306,958",
+    "securities": "232,040",
+    "debt": "0",
+    "realEstate": "6筆"
+  },
+  "chartData": [
+    5,
+    0,
+    94,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "LEXUS-NX200",
+      "cc": "1,987",
+      "owner": "黃心華",
+      "license": "109 年 11 月28日"
+    },
+    {
+      "brand": "中華",
+      "cc": "2,359",
+      "owner": "黃心華",
+      "license": "112 年 02 月02日"
+    },
+    {
+      "brand": "TOYOTA YARIS",
+      "cc": "1,497",
+      "owner": "周怡妤",
+      "license": "98年07月 29日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市土城區南天母段",
+      "area": "213.83",
+      "portion": "2分之1",
+      "owner": "黃心華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市土城區南天母段",
+      "area": "461",
+      "portion": "2分之1",
+      "owner": "黃心華"
+    },
+    {
+      "type": "土地",
+      "location": "彰化縣田中鎮中央段",
+      "area": "570.86",
+      "portion": "10000 分之 432",
+      "owner": "周怡妤"
+    },
+    {
+      "type": "建物",
+      "location": "彰化縣田中鎮中央段",
+      "area": "103.74 (另附屬建 物 總 面 積:12.49)",
+      "portion": "全部",
+      "owner": "周怡妤"
+    },
+    {
+      "type": "建物",
+      "location": "彰化縣田中鎮中央段",
+      "area": "528.63",
+      "portion": "10000 分之 575",
+      "owner": "周怡妤"
+    },
+    {
+      "type": "建物",
+      "location": "彰化縣田中鎮中央段",
+      "area": "265.14",
+      "portion": "10000 分之 405",
+      "owner": "周怡妤"
+    }
+  ]
+}

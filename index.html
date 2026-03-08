@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>廉政專刊第295期 - 財產申報互動儀表板</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
+
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+            background-color: #f8fafc;
+            /* Tailwind slate-50 */
+        }
+
+        /* * Chart Container Styling (Mandatory)
+         * Ensures charts are responsive, contained, and visually balanced.
+         */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        /* Custom scrollbar for tables */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 10px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+    </style>
+
+    <!-- Chosen Palette: Bureaucratic Slate & Trustworthy Teal (Slate-50 bg, Slate-800 text, Teal-600 accents for a clean, government-tech feel) -->
+    <!-- Application Structure Plan: Dashboard Layout. The application uses a split-view dashboard structure. The left sidebar serves as an index (simulating the PDF's Table of Contents) allowing users to select specific public officials. The main content area acts as a dynamic profile, translating dense PDF text into digestible visual components: KPI summaries (deposits, debts), an asset allocation pie chart, and detailed interactive tables for specific declarations like stock transactions. This structure is chosen because property declarations are highly individual-centric; users typically want to look up a specific official and understand their financial footprint quickly. -->
+    <!-- Visualization & Content Choices: 
+         1. KPI Cards -> Goal: Inform -> Viz: Big Numbers with labels -> Interaction: None -> Justification: Quickest way to grasp total wealth/debt. 
+         2. Asset Allocation -> Goal: Proportions -> Viz: Chart.js Doughnut Chart -> Interaction: Hover for exact amounts -> Justification: Shows the balance between real estate, cash, and securities at a glance (Library: Chart.js).
+         3. Transaction Log -> Goal: Detail/Change -> Viz: HTML Table -> Interaction: Scrollable, dynamic population -> Justification: Presents detailed tabular data (like the snippet's stock trades) in a structured, readable format. NO SVG/Mermaid used. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+</head>
+
+<body class="text-slate-800 antialiased h-screen flex flex-col overflow-hidden">
+
+    <!-- Navbar -->
+    <header class="bg-slate-900 text-white shadow-md z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <span class="text-2xl">🏛️</span>
+                <h1 class="text-xl font-bold tracking-wider">陽光法案資料庫 <span
+                        class="text-teal-400 text-sm ml-2 font-normal">廉政專刊第295期 解析雛形</span></h1>
+            </div>
+            <div class="text-sm text-slate-400 hidden sm:block">
+                公職人員財產申報視覺化探索
+            </div>
+        </div>
+    </header>
+
+    <!-- Main App Container -->
+    <div class="flex-1 flex overflow-hidden">
+
+        <!-- Sidebar Navigation -->
+        <aside
+            class="w-64 bg-white border-r border-slate-200 flex flex-col overflow-y-auto custom-scrollbar shadow-sm z-0">
+            <div class="p-4 border-b border-slate-100">
+                <h2 class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">申報目錄 (依機關)</h2>
+                <p class="text-xs text-slate-500 mb-3">點擊下方姓名以載入該公職人員之財產申報視覺化資料。</p>
+                <div class="relative">
+                    <input type="text" id="search-input" placeholder="過濾搜尋姓名..."
+                        class="w-full pl-8 pr-3 py-1.5 bg-slate-50 border border-slate-200 rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-teal-500 focus:border-teal-500 transition-colors">
+                    <span class="absolute left-2.5 top-2 text-slate-400 text-sm">🔍</span>
+                </div>
+            </div>
+
+            <nav class="flex-1 p-2 space-y-1" id="nav-menu">
+                <!-- Navigation populated by JS -->
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="flex-1 overflow-y-auto custom-scrollbar p-6 bg-slate-50 relative" id="main-content">
+
+            <div class="max-w-5xl mx-auto space-y-6">
+
+                <!-- Intro Paragraph -->
+                <section class="bg-white p-6 rounded-xl shadow-sm border border-slate-200">
+                    <h2 class="text-2xl font-bold text-slate-800 mb-2 flex items-center gap-2" id="profile-name">
+                        請由左側選擇申報人
+                    </h2>
+                    <p class="text-teal-600 font-medium mb-4" id="profile-title">機關與職稱</p>
+                    <p class="text-slate-600 leading-relaxed text-sm">
+                        本區域將紙本廉政專刊（第295期）之冗長文字與表格數據，轉換為即時互動的視覺化儀表板。透過此介面，您可以快速掌握該申報人的財產結構、主要資產與負債狀況，並可向下鑽取查閱詳細的交易紀錄。此設計旨在降低民眾閱讀門檻，落實陽光法案之透明監督精神。
+                    </p>
+                </section>
+
+                <!-- KPI Cards Section -->
+                <section>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                        <div
+                            class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-teal-500">
+                            <p class="text-xs text-slate-500 font-semibold mb-1">存款總計 (新台幣)</p>
+                            <h3 class="text-2xl font-bold text-slate-800" id="kpi-deposits">--</h3>
+                        </div>
+                        <div
+                            class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-blue-500">
+                            <p class="text-xs text-slate-500 font-semibold mb-1">有價證券總價額</p>
+                            <h3 class="text-2xl font-bold text-slate-800" id="kpi-securities">--</h3>
+                        </div>
+                        <div
+                            class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-red-400">
+                            <p class="text-xs text-slate-500 font-semibold mb-1">債務總額</p>
+                            <h3 class="text-2xl font-bold text-slate-800" id="kpi-debt">--</h3>
+                        </div>
+                        <div
+                            class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-amber-500">
+                            <p class="text-xs text-slate-500 font-semibold mb-1">不動產筆數 (土地/建物)</p>
+                            <h3 class="text-2xl font-bold text-slate-800" id="kpi-realestate">--</h3>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Visualization & Details Grid -->
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+                    <!-- Chart Section -->
+                    <section
+                        class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 lg:col-span-1 flex flex-col">
+                        <h3 class="text-lg font-bold text-slate-800 mb-2 border-b border-slate-100 pb-2">資產結構比例</h3>
+                        <p class="text-xs text-slate-500 mb-4">
+                            分析申報人各類資產之估算比例分布。圓餅圖提供直觀的財務重心配比，滑鼠懸停可檢視具體占比數值。
+                        </p>
+                        <div class="flex-1 flex items-center justify-center min-h-[300px]">
+                            <!-- Mandatory Chart Container -->
+                            <div class="chart-container">
+                                <canvas id="assetChart"></canvas>
+                            </div>
+                        </div>
+                        <div id="chart-no-data" class="hidden text-center text-slate-400 text-sm mt-4">
+                            該申報人暫無結構化資產比例數據可供圖表化。
+                        </div>
+                    </section>
+
+                    <!-- Table Section (Transactions) -->
+                    <section
+                        class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 lg:col-span-2 flex flex-col">
+                        <div class="flex justify-between items-center border-b border-slate-100 pb-2 mb-4">
+                            <h3 class="text-lg font-bold text-slate-800">財產細目</h3>
+                            <span class="bg-slate-100 text-slate-600 text-xs px-2 py-1 rounded-md">重點摘錄</span>
+                        </div>
+                        <!-- Tabs 區塊 -->
+                        <div class="border-b border-slate-200 mb-4">
+                            <nav class="-mb-px flex space-x-6" id="asset-tabs">
+                                <button
+                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-teal-600 border-teal-500"
+                                    data-target="transactions">
+                                    有價證券交易明細
+                                </button>
+                                <button
+                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 border-transparent hover:text-slate-700 hover:border-slate-300"
+                                    data-target="real_estate">
+                                    不動產(土地/建物)
+                                </button>
+                                <button
+                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 border-transparent hover:text-slate-700 hover:border-slate-300"
+                                    data-target="automobiles">
+                                    汽車/動產
+                                </button>
+                                <button
+                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 border-transparent hover:text-slate-700 hover:border-slate-300"
+                                    data-target="insurance">
+                                    保險單
+                                </button>
+                                <button
+                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 border-transparent hover:text-slate-700 hover:border-slate-300"
+                                    data-target="investments">
+                                    事業投資
+                                </button>
+                            </nav>
+                        </div>
+
+                        <!-- 捲動 Table 的容器 -->
+                        <div
+                            class="overflow-hidden bg-white rounded-lg border border-slate-200 shadow-sm max-h-[500px] overflow-y-auto custom-scrollbar">
+                            <table class="min-w-full divide-y divide-slate-200 text-sm" id="detail-table">
+                                <thead class="bg-slate-50/50 sticky top-0" id="detail-thead">
+                                    <!-- 動態表頭 -->
+                                </thead>
+                                <tbody class="divide-y divide-slate-100 bg-white" id="detail-tbody">
+                                    <tr id="empty-assets-row">
+                                        <td colspan="7" class="px-6 py-12 text-center">
+                                            <div class="text-slate-400 mb-2">📄</div>
+                                            <p class="text-slate-500 text-sm">請自左側選擇欲檢視的公職人員</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Application Logic -->
+    <script>
+        // --- 1. State Management ---
+        let currentChart = null;
+        let selectedPoliticianId = null;
+        let councilsList = [];
+        let politiciansDict = {};
+        window.currentPersonData = null; // Global to store current politician's detailed data
+
+        // --- 2. Initial Data Fetch (Static JSON) ---
+        async function fetchInitialData() {
+            try {
+                // Determine base URL to support GitHub Pages subfolder deployment correctly
+                let pathPrefix = './';
+
+                const [councilsRes, politiciansRes] = await Promise.all([
+                    fetch(pathPrefix + 'data/councils.json'),
+                    fetch(pathPrefix + 'data/politicians_list.json')
+                ]);
+
+                if (!councilsRes.ok) throw new Error("CORS or File Not Found.");
+
+                councilsList = await councilsRes.json();
+                politiciansDict = await politiciansRes.json();
+
+                initNavigation();
+
+                // Select first one by default if available
+                const firstId = Object.keys(politiciansDict)[0];
+                if (firstId) selectPolitician(firstId);
+
+            } catch (err) {
+                console.error(err);
+                document.getElementById('nav-menu').innerHTML = `
+                    <div class="p-4 text-red-500 text-sm">
+                        ⚠️ 錯誤：無法載入資料檔案。<br/><br/>
+                        若在使用本地端測試，請透過終端機執行：<br/> 
+                        <code class="bg-red-50 px-1 py-0.5 rounded text-red-700 mt-2 inline-block">python -m http.server</code><br/> 
+                        來開啟伺服器以避免 CORS 錯誤。
+                    </div>`;
+            }
+        }
+
+        // --- 3. UI Initialization & Navigation Setup ---
+        function initNavigation() {
+            const navMenu = document.getElementById('nav-menu');
+            navMenu.innerHTML = ''; // clear initial content
+
+            councilsList.forEach(council => {
+                const members = Object.values(politiciansDict).filter(p => p.councilId === council.id);
+                if (members.length === 0) return;
+
+                // Create Council Header
+                const councilGroup = document.createElement('div');
+                councilGroup.className = 'mt-4 mb-1 px-3 council-group';
+                councilGroup.innerHTML = `<span class="text-xs font-bold text-slate-800">${council.name}</span>`;
+                navMenu.appendChild(councilGroup);
+
+                members.forEach(member => {
+                    const btn = document.createElement('button');
+                    btn.className = `w-full text-left px-3 py-2 text-sm rounded-md transition-colors duration-150 flex items-center gap-2 nav-btn`;
+                    btn.dataset.id = member.id;
+                    btn.innerHTML = `
+                        <span class="w-1.5 h-1.5 rounded-full bg-slate-300 indicator"></span>
+                        <span class="text-slate-600">${member.name}</span>
+                    `;
+
+                    btn.onclick = () => selectPolitician(member.id);
+                    navMenu.appendChild(btn);
+                });
+            });
+        }
+
+        // --- 4. Core Interaction Handling ---
+        async function selectPolitician(id) {
+            selectedPoliticianId = id;
+
+            // Update Active State in Nav
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                const isActive = btn.dataset.id === id;
+                btn.className = `w-full text-left px-3 py-2 text-sm rounded-md transition-colors duration-150 flex items-center gap-2 nav-btn ${isActive ? 'bg-teal-50 font-medium' : 'hover:bg-slate-50'}`;
+                btn.querySelector('span.indicator').className = `w-1.5 h-1.5 rounded-full indicator ${isActive ? 'bg-teal-500' : 'bg-slate-300'}`;
+                btn.querySelector('span:not(.indicator)').className = isActive ? 'text-teal-700' : 'text-slate-600';
+            });
+
+            // Show Loading states
+            document.getElementById('kpi-deposits').innerText = "...";
+            document.getElementById('kpi-securities').innerText = "...";
+            document.getElementById('kpi-debt').innerText = "...";
+            document.getElementById('kpi-realestate').innerText = "...";
+            document.getElementById('detail-tbody').innerHTML = '<tr><td colspan="7" class="text-center py-4 text-slate-400">正在讀取明細資料...</td></tr>';
+
+
+            try {
+                let pathPrefix = './';
+                const res = await fetch(`${pathPrefix}data/politicians/${id}.json`);
+                if (!res.ok) throw new Error("Failed to load details");
+                const data = await res.json();
+
+                // Update Profile Info
+                document.getElementById('profile-name').innerHTML = `
+                    <span class="text-3xl font-normal text-teal-600 mr-2">👤</span> 
+                    ${data.name} 
+                    <span class="ml-2 px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-600 border border-slate-200">財產申報紀錄</span>
+                `;
+                document.getElementById('profile-title').innerText = data.title;
+
+                const formatVal = (v) => (!v || v === '未列示' || v === '0') ? '無/未列示' : `$${v}`;
+
+                // Update KPIs
+                document.getElementById('kpi-deposits').innerText = formatVal(data.stats.deposits);
+                document.getElementById('kpi-securities').innerText = formatVal(data.stats.securities);
+                document.getElementById('kpi-debt').innerText = formatVal(data.stats.debt);
+                document.getElementById('kpi-realestate').innerText = data.stats.realEstate || '0筆';
+
+                // Update Chart
+                updateChart(data.chartData);
+
+                // 渲染明細資料 (預設有價證券)
+                window.currentPersonData = data; // 存入全域供 tab 切換使用
+
+                // Re-bind click event for tabs
+                document.querySelectorAll('.tab-btn').forEach(btn => {
+                    btn.onclick = (e) => { // Use onclick to avoid multiple listeners if selectPolitician is called again
+                        // Update active styles
+                        document.querySelectorAll('.tab-btn').forEach(b => {
+                            b.className = 'tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 border-transparent hover:text-slate-700 hover:border-slate-300';
+                        });
+                        e.target.className = 'tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-teal-600 border-teal-500';
+
+                        renderAssetTable(e.target.dataset.target);
+                    };
+                });
+
+                // Set first tab active
+                const tabs = document.querySelectorAll('.tab-btn');
+                if (tabs.length > 0) {
+                    tabs[0].click(); // Simulate click on the first tab to render its content
+                }
+
+            } catch (err) {
+                console.error(err);
+                document.getElementById('detail-tbody').innerHTML = '<tr><td colspan="7" class="text-center py-4 text-red-500">載入明細資料失敗。</td></tr>';
+            }
+        }
+
+        // --- 5. Chart.js Implementation ---
+        function updateChart(dataArray) {
+            const ctx = document.getElementById('assetChart').getContext('2d');
+            const noDataMsg = document.getElementById('chart-no-data');
+            const chartContainer = document.querySelector('.chart-container');
+
+            // Handle missing data scenario
+            const sum = (dataArray || []).reduce((a, b) => a + b, 0);
+            if (sum === 0) {
+                if (currentChart) currentChart.destroy();
+                chartContainer.classList.add('hidden');
+                noDataMsg.classList.remove('hidden');
+                return;
+            } else {
+                chartContainer.classList.remove('hidden');
+                noDataMsg.classList.add('hidden');
+            }
+
+            if (currentChart) {
+                currentChart.destroy();
+            }
+
+            currentChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['存款', '有價證券', '不動產估算比重', '其他'],
+                    datasets: [{
+                        data: dataArray,
+                        backgroundColor: [
+                            '#0ea5e9', // light blue
+                            '#10b981', // emerald
+                            '#f59e0b', // amber
+                            '#94a3b8'  // slate
+                        ],
+                        borderWidth: 2,
+                        borderColor: '#ffffff',
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    cutout: '65%',
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                font: { family: "'Noto Sans TC', sans-serif" },
+                                padding: 20,
+                                usePointStyle: true
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function (context) {
+                                    let label = context.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed !== null) {
+                                        label += context.parsed + '%';
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // --- 6. Table Rendering Logic ---
+        function renderAssetTable(tabName) {
+            const data = window.currentPersonData;
+            if (!data) return;
+
+            const thead = document.getElementById('detail-thead');
+            const tbody = document.getElementById('detail-tbody');
+            tbody.innerHTML = '';
+
+            let list = [];
+
+            // Helper function to render owner badge for spouse/children
+            const renderOwnerBadge = (owner) => {
+                if (!owner || owner === data.name || owner.includes('同申報人') || owner.includes('本人')) return '';
+                return `<div class="mt-1 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-50 text-purple-700 border border-purple-100">
+                           <span class="mr-1">👤</span>配偶/未成年子女：${owner.trim()}
+                        </div>`;
+            };
+
+            if (tabName === 'transactions') {
+                thead.innerHTML = `
+                    <tr>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">證券商/名稱</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">買/賣類別</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">變動單價</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">交易時間</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">變動金額</th>
+                    </tr>
+                `;
+                list = data.transactions || [];
+
+                if (list.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500 text-sm">此期無有價證券交易紀錄</td></tr>`;
+                    return;
+                }
+
+                list.forEach(tx => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-slate-50/50 transition-colors';
+                    row.innerHTML = `
+                        <td class="px-4 py-3 text-slate-800">
+                            <div class="font-medium">${tx.stock}</div>
+                            <div class="text-xs text-slate-500">${tx.broker}</div>
+                            ${renderOwnerBadge(tx.owner)}
+                        </td>
+                        <td class="px-4 py-3">
+                            <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${tx.typeColor}">
+                                ${tx.type}
+                            </span>
+                        </td>
+                        <td class="px-4 py-3 text-right text-slate-600">${tx.price}</td>
+                        <td class="px-4 py-3 text-right text-slate-600 text-xs">${tx.date}</td>
+                        <td class="px-4 py-3 text-right font-medium text-slate-800">${tx.amount}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+            } else if (tabName === 'real_estate') {
+                thead.innerHTML = `
+                    <tr>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600 w-16">種類</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600 w-1/2">坐落位置 / 標示</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">面積 (m²)</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">權利範圍</th>
+                    </tr>
+                `;
+                list = data.real_estate || [];
+
+                if (list.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="4" class="px-6 py-8 text-center text-slate-500 text-sm">此期無不動產明細紀錄</td></tr>`;
+                    return;
+                }
+
+                list.forEach(item => {
+                    const row = document.createElement('tr');
+                    const color = item.type.includes('土地') ? 'bg-amber-100 text-amber-800' : 'bg-indigo-100 text-indigo-800';
+                    row.className = 'hover:bg-slate-50/50 transition-colors';
+                    row.innerHTML = `
+                        <td class="px-4 py-3">
+                            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold ${color}">${item.type}</span>
+                        </td>
+                        <td class="px-4 py-3 text-slate-800">
+                            <div class="font-medium text-sm leading-snug">${item.location}</div>
+                            ${renderOwnerBadge(item.owner)}
+                        </td>
+                        <td class="px-4 py-3 text-right text-slate-600 font-mono text-xs">${item.area}</td>
+                        <td class="px-4 py-3 text-right text-slate-500 text-xs tracking-tight">${item.portion}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+            } else if (tabName === 'automobiles') {
+                thead.innerHTML = `
+                    <tr>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">廠牌/名稱</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">汽缸容量 (cc)</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">牌照號碼</th>
+                    </tr>
+                `;
+                list = data.automobiles || [];
+
+                if (list.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="3" class="px-6 py-8 text-center text-slate-500 text-sm">此期無需申報之汽車/動產</td></tr>`;
+                    return;
+                }
+
+                list.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-slate-50/50 transition-colors';
+                    row.innerHTML = `
+                        <td class="px-4 py-3 text-slate-800">
+                           <div class="font-medium">${item.brand}</div>
+                           ${renderOwnerBadge(item.owner)}
+                        </td>
+                        <td class="px-4 py-3 text-slate-600">${item.cc || '-'}</td>
+                        <td class="px-4 py-3 text-slate-600">${item.license || '-'}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+            } else if (tabName === 'insurance') {
+                thead.innerHTML = `
+                    <tr>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">保險公司</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">保險名稱</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">契約類型</th>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">狀態</th>
+                    </tr>
+                `;
+                list = data.insurance || [];
+
+                if (list.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="4" class="px-6 py-8 text-center text-slate-500 text-sm">此期無需申報之保單</td></tr>`;
+                    return;
+                }
+
+                list.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-slate-50/50 transition-colors';
+                    row.innerHTML = `
+                        <td class="px-4 py-3 text-slate-800">
+                           <div class="font-medium">${item.company}</div>
+                           ${renderOwnerBadge(item.owner)}
+                        </td>
+                        <td class="px-4 py-3 text-slate-600">${item.name}</td>
+                        <td class="px-4 py-3 text-slate-600 text-xs">${item.type}</td>
+                        <td class="px-4 py-3 text-slate-600 text-xs">${item.status}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+            } else if (tabName === 'investments') {
+                thead.innerHTML = `
+                    <tr>
+                        <th class="px-4 py-3 text-left font-semibold text-slate-600">投資事業名稱</th>
+                        <th class="px-4 py-3 text-right font-semibold text-slate-600">投資金額</th>
+                    </tr>
+                `;
+                list = data.investments || [];
+
+                if (list.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="2" class="px-6 py-8 text-center text-slate-500 text-sm">此期無事業投資紀錄</td></tr>`;
+                    return;
+                }
+
+                list.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-slate-50/50 transition-colors';
+                    row.innerHTML = `
+                        <td class="px-4 py-3 text-slate-800">
+                           <div class="font-medium">${item.business}</div>
+                           ${renderOwnerBadge(item.owner)}
+                        </td>
+                        <td class="px-4 py-3 text-right text-slate-600">${item.amount}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            }
+        }
+
+        // --- Initialization on Load ---
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchInitialData();
+
+            // Search Filtering
+            const searchInput = document.getElementById('search-input');
+            if (searchInput) {
+                searchInput.addEventListener('input', (e) => {
+                    const term = e.target.value.toLowerCase().trim();
+                    const groups = document.querySelectorAll('.council-group');
+                    const btns = document.querySelectorAll('.nav-btn');
+
+                    // Filter buttons
+                    btns.forEach(btn => {
+                        const name = btn.textContent.toLowerCase();
+                        if (name.includes(term)) {
+                            btn.style.display = 'flex';
+                        } else {
+                            btn.style.display = 'none';
+                        }
+                    });
+
+                    // Hide empty groups
+                    groups.forEach(group => {
+                        let hasVisibleChild = false;
+                        let nextSibling = group.nextElementSibling;
+                        // Check subsequent siblings until the next council-group
+                        while (nextSibling && !nextSibling.classList.contains('council-group')) {
+                            if (nextSibling.classList.contains('nav-btn') && nextSibling.style.display !== 'none') {
+                                hasVisibleChild = true;
+                                break;
+                            }
+                            nextSibling = nextSibling.nextElementSibling;
+                        }
+                        group.style.display = hasVisibleChild ? 'block' : 'none';
+                    });
+                });
+            }
+        });
+
+    </script>
+</body>
+
+</html>

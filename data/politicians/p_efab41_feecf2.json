@@ -1,0 +1,30 @@
+{
+  "id": "p_efab41_feecf2",
+  "councilId": "council_efab41",
+  "name": "陳宥丞",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "5,015,412",
+    "securities": "368,210",
+    "debt": "702,961",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    93,
+    7,
+    0,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "本田",
+      "cc": "1,498",
+      "owner": "陳宥丞",
+      "license": "111 年 12 月22日"
+    }
+  ],
+  "real_estate": []
+}

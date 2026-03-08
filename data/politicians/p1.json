@@ -1,0 +1,19 @@
+{
+  "id": "p1",
+  "councilId": "council_5529",
+  "name": "戴錫欽",
+  "title": "臺北市議會 議長",
+  "stats": {
+    "deposits": "1,653,290",
+    "securities": "50,000",
+    "debt": "899,825",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    97,
+    3,
+    0,
+    0
+  ],
+  "transactions": []
+}

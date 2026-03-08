@@ -1,0 +1,59 @@
+{
+  "id": "p_efab41_572fb5",
+  "councilId": "council_efab41",
+  "name": "王欣儀",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "4,390,257",
+    "securities": "2,976,860",
+    "debt": "5,891,652",
+    "realEstate": "4筆"
+  },
+  "chartData": [
+    9,
+    6,
+    84,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "FORD",
+      "cc": "2,953",
+      "owner": "王欣儀",
+      "license": "101 年 06 月06日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市大安區復興段三小段",
+      "area": "608",
+      "portion": "20分之1",
+      "owner": "王欣儀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大安區復興段三小段",
+      "area": "82",
+      "portion": "20分之1",
+      "owner": "王欣儀"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大安區復興段三小段",
+      "area": "141.20 (另附屬建 物 總 面 積:25.49)",
+      "portion": "全部",
+      "owner": "王欣儀"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大安區復興段三小段",
+      "area": "1,580.80",
+      "portion": "20分之1",
+      "owner": "王欣儀"
+    }
+  ]
+}

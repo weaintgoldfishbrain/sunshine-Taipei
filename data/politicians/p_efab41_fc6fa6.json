@@ -1,0 +1,272 @@
+{
+  "id": "p_efab41_fc6fa6",
+  "councilId": "council_efab41",
+  "name": "陳重文",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "5,530,818",
+    "securities": "0",
+    "debt": "50,213,239",
+    "realEstate": "10筆"
+  },
+  "chartData": [
+    5,
+    0,
+    95,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "168",
+      "date": "114年05月06日",
+      "amount": "336,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "167.50",
+      "date": "114年05月06日",
+      "amount": "167,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "169",
+      "date": "114年05月06日",
+      "amount": "169,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "166.50",
+      "date": "114年05月06日",
+      "amount": "166,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "170",
+      "date": "114年05月06日",
+      "amount": "170,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "193.50",
+      "date": "114年05月19日",
+      "amount": "1,741,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "188",
+      "date": "114年05月19日",
+      "amount": "376,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "191",
+      "date": "114年05月19日",
+      "amount": "191,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "185.50",
+      "date": "114年05月19日",
+      "amount": "185,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "189.50",
+      "date": "114年05月19日",
+      "amount": "189,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "國票-北投",
+      "owner": "白惠萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "190",
+      "date": "114年05月19日",
+      "amount": "190,000"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "PORSCHE",
+      "cc": "2,967",
+      "owner": "白惠萍",
+      "license": "104 年 04 月16日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市士林區溪山段三小段",
+      "area": "783.31",
+      "portion": "全部",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區三合段",
+      "area": "3,021.76",
+      "portion": "40000 分之 610",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區湖山段三小段",
+      "area": "820",
+      "portion": "6分之2",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區湖山段三小段",
+      "area": "1,807.60",
+      "portion": "6分之2",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區湖山段三小段",
+      "area": "820",
+      "portion": "6分之2",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區湖山段三小段",
+      "area": "820",
+      "portion": "6分之2",
+      "owner": "陳重文"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區湖山段三小段",
+      "area": "655.07",
+      "portion": "6分之2",
+      "owner": "陳重文"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區三合段",
+      "area": "154.23 (另附屬建 物 總 面 積:22.01)",
+      "portion": "全部",
+      "owner": "陳重文"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區三合段",
+      "area": "4,973.70",
+      "portion": "170000 分 之2573",
+      "owner": "陳重文"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區三合段",
+      "area": "5,021.18",
+      "portion": "1488 分之 24",
+      "owner": "陳重文"
+    }
+  ]
+}

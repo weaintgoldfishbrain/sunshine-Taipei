@@ -1,0 +1,164 @@
+{
+  "id": "p134",
+  "councilId": "council_1182",
+  "name": "洪佳君",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "121.50",
+      "date": "114年07月28日",
+      "amount": "5,103,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "149.50",
+      "date": "114年09月03日",
+      "amount": "149,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "156",
+      "date": "114年09月09日",
+      "amount": "156,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "962,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "548,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "275,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "137,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    }
+  ]
+}

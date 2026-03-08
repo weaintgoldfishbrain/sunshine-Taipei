@@ -1,0 +1,184 @@
+{
+  "id": "p_c2a14d_0d0669",
+  "councilId": "council_c2a14d",
+  "name": "蔡淑君",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "2,819,725",
+    "securities": "3,874,601",
+    "debt": "15,236,307",
+    "realEstate": "6筆"
+  },
+  "chartData": [
+    4,
+    6,
+    90,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "882",
+      "date": "114年04月11日",
+      "amount": "1,764,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "873",
+      "date": "114年04月11日",
+      "amount": "873,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "873",
+      "date": "114年04月11日",
+      "amount": "873,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "899",
+      "date": "114年04月14日",
+      "amount": "1,798,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "873",
+      "date": "114年04月14日",
+      "amount": "873,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "857",
+      "date": "114年04月16日",
+      "amount": "857,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "895",
+      "date": "114年04月29日",
+      "amount": "895,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "940",
+      "date": "114年05月02日",
+      "amount": "940,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,050",
+      "date": "114年06月18日",
+      "amount": "1,050,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-桃園",
+      "owner": "蔡淑君",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,100",
+      "date": "114年07月11日",
+      "amount": "1,100,000"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "台灣企銀埔墘分公 司",
+      "owner": "林光中",
+      "type": "審核撥轉 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "12.05",
+      "date": "114年05月09日",
+      "amount": "903,750"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "馬自達",
+      "cc": "1,598",
+      "owner": "林光中",
+      "license": "105 年 06 月28日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市林口區南勢段",
+      "area": "196.71",
+      "portion": "960分之22",
+      "owner": "林光中"
+    },
+    {
+      "type": "土地",
+      "location": "新北市林口區南勢段",
+      "area": "76.07",
+      "portion": "960分之22",
+      "owner": "林光中"
+    },
+    {
+      "type": "土地",
+      "location": "新北市林口區麗林段",
+      "area": "10,342.69",
+      "portion": "10000 分之 29",
+      "owner": "林光中"
+    },
+    {
+      "type": "建物",
+      "location": "新北市林口區麗林段",
+      "area": "198.41 (另附屬建 物 總 面 積:14.50)",
+      "portion": "全部",
+      "owner": "林光中"
+    },
+    {
+      "type": "建物",
+      "location": "新北市林口區麗林段",
+      "area": "1,969",
+      "portion": "10000 分之 158",
+      "owner": "林光中"
+    },
+    {
+      "type": "建物",
+      "location": "新北市林口區麗林段",
+      "area": "28,699.94",
+      "portion": "100000 分 之301",
+      "owner": "林光中"
+    }
+  ]
+}

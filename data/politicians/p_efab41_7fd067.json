@@ -1,0 +1,30 @@
+{
+  "id": "p_efab41_7fd067",
+  "councilId": "council_efab41",
+  "name": "楊植斗",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "2,850,122",
+    "securities": "482,277",
+    "debt": "611,614",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    86,
+    14,
+    0,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "曹羽婷",
+      "license": "110 年 01 月29日"
+    }
+  ],
+  "real_estate": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "p_efab41_130868",
+  "councilId": "council_efab41",
+  "name": "陳怡君",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "659,300",
+    "securities": "72,837",
+    "debt": "104,532",
+    "realEstate": "3筆"
+  },
+  "chartData": [
+    2,
+    0,
+    98,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,496",
+      "owner": "陳怡君",
+      "license": "108 年 09 月11日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "陳怡君",
+      "license": "113 年 02 月16日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市新店區直潭段灣潭小段",
+      "area": "291",
+      "portion": "291000 分 之1",
+      "owner": "陳怡君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區大龍段二小段",
+      "area": "129",
+      "portion": "6分之1",
+      "owner": "陳怡君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區大龍段二小段",
+      "area": "103.93 (另附屬建 物 總 面 積:26.46)",
+      "portion": "2分之1",
+      "owner": "陳怡君"
+    }
+  ]
+}

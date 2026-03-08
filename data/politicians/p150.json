@@ -1,0 +1,38 @@
+{
+  "id": "p150",
+  "councilId": "council_1182",
+  "name": "陳錦錠",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "玉山金",
+      "broker": "玉山金",
+      "type": "現增",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "10",
+      "date": "114年08月27日",
+      "amount": "4,430"
+    },
+    {
+      "stock": "元大金",
+      "broker": "元大金",
+      "type": "配股",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "10",
+      "date": "114年09月12日",
+      "amount": "105,830"
+    }
+  ]
+}

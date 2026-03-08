@@ -1,0 +1,264 @@
+{
+  "id": "p_c2a14d_bf8c7b",
+  "councilId": "council_c2a14d",
+  "name": "李倩萍",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "4,322,387",
+    "securities": "2,489,255",
+    "debt": "41,298,658",
+    "realEstate": "8筆"
+  },
+  "chartData": [
+    5,
+    3,
+    92,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "46.50",
+      "date": "113年11月04日",
+      "amount": "465,000"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "46.60",
+      "date": "113年11月04日",
+      "amount": "279,600"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "46.60",
+      "date": "113年11月04日",
+      "amount": "139,800"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "46.60",
+      "date": "113年11月04日",
+      "amount": "46,600"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "45.40",
+      "date": "113年11月06日",
+      "amount": "227,000"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "45",
+      "date": "113年11月06日",
+      "amount": "135,000"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "45",
+      "date": "113年11月06日",
+      "amount": "45,000"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "45",
+      "date": "113年11月06日",
+      "amount": "45,000"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.70",
+      "date": "113年12月03日",
+      "amount": "79,400"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.70",
+      "date": "113年12月03日",
+      "amount": "39,700"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.75",
+      "date": "113年12月03日",
+      "amount": "39,750"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.75",
+      "date": "113年12月03日",
+      "amount": "39,750"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.75",
+      "date": "113年12月04日",
+      "amount": "116,250"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.80",
+      "date": "113年12月04日",
+      "amount": "77,600"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.80",
+      "date": "113年12月04日",
+      "amount": "77,600"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.75",
+      "date": "113年12月04日",
+      "amount": "77,500"
+    },
+    {
+      "stock": "三芳",
+      "broker": "元大-蘆洲中正",
+      "owner": "李倩萍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.85",
+      "date": "113年12月04日",
+      "amount": "38,850"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "日產",
+      "cc": "1,997",
+      "owner": "李倩萍",
+      "license": "109 年 05 月11日"
+    },
+    {
+      "brand": "BMW",
+      "cc": "1,998",
+      "owner": "李倩萍",
+      "license": "110 年 08 月18日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市蘆洲區光華段",
+      "area": "1,702",
+      "portion": "10000 分之 181",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市蘆洲區光華段",
+      "area": "1,008.83",
+      "portion": "10000 分之 332",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "126.12 (另附屬建 物 總 面 積:9.71)",
+      "portion": "全部",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "224.90",
+      "portion": "1000 分之 78",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "1,198.75",
+      "portion": "10000 分之 178",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "2,432.15",
+      "portion": "55分之1",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "126.26 (另附屬建 物 總 面 積:20.32)",
+      "portion": "全部",
+      "owner": "李倩萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市蘆洲區光華段",
+      "area": "3,184.87",
+      "portion": "100000 分 之2885",
+      "owner": "李倩萍"
+    }
+  ]
+}

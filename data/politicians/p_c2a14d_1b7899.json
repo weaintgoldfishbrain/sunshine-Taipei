@@ -1,0 +1,218 @@
+{
+  "id": "p_c2a14d_1b7899",
+  "councilId": "council_c2a14d",
+  "name": "陳啟能",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "116,709,391",
+    "securities": "183,610",
+    "debt": "5,000,000",
+    "realEstate": "20筆"
+  },
+  "chartData": [
+    37,
+    0,
+    63,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "owner": "陳啟能",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "906,100"
+    },
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "owner": "陳啟能",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "53,300"
+    },
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "owner": "陳啟能",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "53,300"
+    },
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "owner": "陳啟能",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "53,300"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "PORSCHE",
+      "cc": "2,967",
+      "owner": "陳啟能",
+      "license": "105 年 07 月29日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,487",
+      "owner": "陳啟能",
+      "license": "114 年 06 月09日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三重區仁信段",
+      "area": "2,898.97",
+      "portion": "100000 分 之1516",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "803.26",
+      "portion": "100000 分 之2",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "7.70",
+      "portion": "100000 分 之97319",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "1,239.40",
+      "portion": "100000 分 之1803",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "495.08",
+      "portion": "100000 分 之5665",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市五股區五股坑二段",
+      "area": "40,590",
+      "portion": "50分之1",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市五股區五股坑二段",
+      "area": "21,449.96",
+      "portion": "50分之1",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "臺中市潭子區東寶七段",
+      "area": "141.83",
+      "portion": "16500 分之 250",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "臺中市潭子區東寶七段",
+      "area": "372.12",
+      "portion": "361 分 之 104",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三和段",
+      "area": "68.73",
+      "portion": "全部",
+      "owner": "劉瑞萍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市五股區五股坑二段",
+      "area": "40,590",
+      "portion": "50分之1",
+      "owner": "劉瑞萍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市五股區五股坑二段",
+      "area": "21,449.96",
+      "portion": "50分之1",
+      "owner": "劉瑞萍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區仁信段",
+      "area": "171.32 (另附屬建",
+      "portion": "全部",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區仁信段",
+      "area": "2,898.97",
+      "portion": "100000 分 之535",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區仁信段",
+      "area": "2,898.97",
+      "portion": "100000 分 之2",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "803.26",
+      "portion": "100000 分 之2",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍濱段",
+      "area": "1,239.40",
+      "portion": "100000 分 之1526",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍濱段",
+      "area": "103.69",
+      "portion": "全部",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍濱段",
+      "area": "1,007.13",
+      "portion": "10000 分之 893",
+      "owner": "陳啟能"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍濱段",
+      "area": "(共同使用 部分總面 積:9.20)",
+      "portion": "71分之2",
+      "owner": "陳啟能"
+    }
+  ]
+}

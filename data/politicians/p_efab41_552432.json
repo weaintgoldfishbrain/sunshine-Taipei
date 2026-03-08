@@ -1,0 +1,149 @@
+{
+  "id": "p_efab41_552432",
+  "councilId": "council_efab41",
+  "name": "洪健益",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "12,534,791",
+    "securities": "253,290",
+    "debt": "0",
+    "realEstate": "16筆"
+  },
+  "chartData": [
+    7,
+    0,
+    93,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "中華",
+      "cc": "1,488",
+      "owner": "洪健益",
+      "license": "112 年 05 月26日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,496",
+      "owner": "劉素君",
+      "license": "112 年 03 月31日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "3,946",
+      "portion": "10000 分之 66",
+      "owner": "洪健益"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市中山區中山段一小段",
+      "area": "63",
+      "portion": "10000 分之 6",
+      "owner": "劉素君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市中山區中山段一小段",
+      "area": "2,240",
+      "portion": "10000 分之 6",
+      "owner": "劉素君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "3,946",
+      "portion": "10000 分之 65",
+      "owner": "劉素君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市信義區雅祥段三小段",
+      "area": "78",
+      "portion": "4分之1",
+      "owner": "劉素君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市信義區雅祥段三小段",
+      "area": "19",
+      "portion": "4分之1",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "3,224.26",
+      "portion": "10000 分之 24",
+      "owner": "洪健益"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "2,709.03",
+      "portion": "10000 分之 60",
+      "owner": "洪健益"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "133.29 (另附屬建 物 總 面 積:11.32)",
+      "portion": "全部",
+      "owner": "洪健益"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區中山段一小段",
+      "area": "13.72 (另附屬建 物 總 面 積:3.40)",
+      "portion": "全部",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區中山段一小段",
+      "area": "5.26",
+      "portion": "5分之1",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區中山段一小段",
+      "area": "712.87",
+      "portion": "10000 分之 160",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市中山區中山段一小段",
+      "area": "624.40",
+      "portion": "10000 分之 9",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "3,224.26",
+      "portion": "10000 分之 24",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "2,709.03",
+      "portion": "10000 分之 75",
+      "owner": "劉素君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市松山區濱江段四小段",
+      "area": "129.27 (另附屬建 物 總 面",
+      "portion": "全部",
+      "owner": "劉素君"
+    }
+  ]
+}

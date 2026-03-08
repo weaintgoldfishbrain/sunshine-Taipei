@@ -1,0 +1,305 @@
+{
+  "id": "p_efab41_b35f9f",
+  "councilId": "council_efab41",
+  "name": "陳賢蔚",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "2,509,688",
+    "securities": "452,860",
+    "debt": "3,895,494",
+    "realEstate": "13筆"
+  },
+  "chartData": [
+    2,
+    0,
+    98,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "廣宇",
+      "broker": "元大-忠孝",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.10",
+      "date": "114年04月08日",
+      "amount": "38,100"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10.30",
+      "date": "114年09月12日",
+      "amount": "20,600"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10.30",
+      "date": "114年09月12日",
+      "amount": "10,300"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10.30",
+      "date": "114年09月12日",
+      "amount": "10,300"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10.30",
+      "date": "114年09月12日",
+      "amount": "10,300"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10.15",
+      "date": "114年10月16日",
+      "amount": "10,150"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "10",
+      "date": "114年10月29日",
+      "amount": "20,000"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "10",
+      "date": "114年10月29日",
+      "amount": "20,000"
+    },
+    {
+      "stock": "云辰",
+      "broker": "富邦-樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "10",
+      "date": "114年10月29日",
+      "amount": "20,000"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "12.25",
+      "date": "114年05月12日",
+      "amount": "36,750"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "12.25",
+      "date": "114年05月13日",
+      "amount": "12,250"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "12.25",
+      "date": "114年05月13日",
+      "amount": "12,250"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "11.80",
+      "date": "114年08月07日",
+      "amount": "23,600"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "11.80",
+      "date": "114年08月07日",
+      "amount": "11,800"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "11.80",
+      "date": "114年08月07日",
+      "amount": "11,800"
+    },
+    {
+      "stock": "元創精密",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "11.80",
+      "date": "114年08月07日",
+      "amount": "11,800"
+    },
+    {
+      "stock": "尚凡*",
+      "broker": "富邦樹林",
+      "owner": "陳賢蔚",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "33.50",
+      "date": "114年03月20日",
+      "amount": "67,000"
+    }
+  ],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "三陽",
+      "cc": "1,591",
+      "owner": "陳賢蔚",
+      "license": "109 年 03 月03日"
+    },
+    {
+      "brand": "中華",
+      "cc": "1,198",
+      "owner": "陳賢蔚",
+      "license": "111 年 10 月18日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "陳賢蔚",
+      "license": "113 年 02 月01日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "桃園市桃園區福元段",
+      "area": "4,138",
+      "portion": "10000 分之 26",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "土地",
+      "location": "新北市淡水區關渡段",
+      "area": "2,336.80",
+      "portion": "10000 分之 33",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "4,399.86",
+      "portion": "100000 分 之100",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市桃園區福元段",
+      "area": "13.10",
+      "portion": "242分之1",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市桃園區福元段",
+      "area": "64.70 (另附屬建 物 總 面 積:12.99)",
+      "portion": "全部",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市桃園區福元段",
+      "area": "327.82",
+      "portion": "10000 分之 299",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市桃園區福元段",
+      "area": "12,485.54",
+      "portion": "10000 分之 4840",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市桃園區福元段",
+      "area": "12,485.54",
+      "portion": "10000 分之 12",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市淡水區關渡段",
+      "area": "37.53 (另附屬建 物 總 面 積:4.30)",
+      "portion": "全部",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市淡水區關渡段",
+      "area": "867.11",
+      "portion": "10000 分之 80",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市淡水區關渡段",
+      "area": "7,053.45",
+      "portion": "10000 分之 68",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "24.14 (另附屬建 物 總 面 積:3.68)",
+      "portion": "全部",
+      "owner": "陳賢蔚"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "4,301.07",
+      "portion": "10000 分之 4",
+      "owner": "陳賢蔚"
+    }
+  ]
+}

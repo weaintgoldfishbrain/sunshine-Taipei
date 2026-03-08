@@ -1,0 +1,182 @@
+{
+  "id": "p132",
+  "councilId": "council_1182",
+  "name": "金瑞龍",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "322,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "290,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "258,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "223,650"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "461,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "338,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "307,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "153,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "61,500"
+    }
+  ]
+}

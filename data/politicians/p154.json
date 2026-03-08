@@ -1,0 +1,164 @@
+{
+  "id": "p154",
+  "councilId": "council_1182",
+  "name": "張維倩",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.30",
+      "date": "114年06月06日",
+      "amount": "471,600"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.30",
+      "date": "114年06月06日",
+      "amount": "314,400"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "39.05",
+      "date": "114年06月06日",
+      "amount": "273,350"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "39.05",
+      "date": "114年06月06日",
+      "amount": "195,250"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.80",
+      "date": "114年06月06日",
+      "amount": "155,200"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.80",
+      "date": "114年06月06日",
+      "amount": "116,400"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.30",
+      "date": "114年06月06日",
+      "amount": "117,900"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "39.05",
+      "date": "114年06月06日",
+      "amount": "78,100"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "39.30",
+      "date": "114年06月06日",
+      "amount": "78,600"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.80",
+      "date": "114年06月06日",
+      "amount": "38,800"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "39.05",
+      "date": "114年06月06日",
+      "amount": "39,050"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.80",
+      "date": "114年06月06日",
+      "amount": "38,800"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.80",
+      "date": "114年06月06日",
+      "amount": "38,800"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "48.05",
+      "date": "114年07月18日",
+      "amount": "480,500"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "47.90",
+      "date": "114年07月18日",
+      "amount": "287,400"
+    },
+    {
+      "stock": "富喬",
+      "broker": "富邦永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "47.90",
+      "date": "114年07月18日",
+      "amount": "95,800"
+    }
+  ]
+}

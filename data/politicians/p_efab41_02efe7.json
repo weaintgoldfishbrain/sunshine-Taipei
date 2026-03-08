@@ -1,0 +1,30 @@
+{
+  "id": "p_efab41_02efe7",
+  "councilId": "council_efab41",
+  "name": "耿葳",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "586,558",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    100,
+    0,
+    0,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "LANDROVER",
+      "cc": "1,999",
+      "owner": "耿葳",
+      "license": "106 年 01 月20日"
+    }
+  ],
+  "real_estate": []
+}

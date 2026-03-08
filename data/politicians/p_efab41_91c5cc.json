@@ -1,0 +1,44 @@
+{
+  "id": "p_efab41_91c5cc",
+  "councilId": "council_efab41",
+  "name": "陳慈慧",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "203,869",
+    "securities": "0",
+    "debt": "327,188",
+    "realEstate": "1筆"
+  },
+  "chartData": [
+    2,
+    0,
+    98,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "VOLVO",
+      "cc": "1,498",
+      "owner": "陳慈慧",
+      "license": "105 年 11 月10日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,987",
+      "owner": "陳慈慧",
+      "license": "112 年 05 月30日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "建物",
+      "location": "臺北市士林區延平北路 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "259.20",
+      "portion": "2分之1",
+      "owner": "陳慈慧"
+    }
+  ]
+}

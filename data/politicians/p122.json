@@ -1,0 +1,92 @@
+{
+  "id": "p122",
+  "councilId": "council_1182",
+  "name": "卓冠廷",
+  "title": "新北市議會 未知職稱",
+  "stats": {
+    "deposits": "0",
+    "securities": "0",
+    "debt": "0",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "中興電",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "162.50",
+      "date": "114年06月30日",
+      "amount": "162,500"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "834",
+      "date": "114年04月21日",
+      "amount": "834,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "940",
+      "date": "114年05月05日",
+      "amount": "940,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大證券南京分公 司",
+      "type": "擔保品撥 轉（提）",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "1,135",
+      "date": "114年08月04日",
+      "amount": "2,270,000"
+    },
+    {
+      "stock": "長榮航太",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "132.50",
+      "date": "114年08月05日",
+      "amount": "132,500"
+    },
+    {
+      "stock": "元太",
+      "broker": "元大–南京",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "215.50",
+      "date": "114年04月11日",
+      "amount": "215,500"
+    }
+  ]
+}
