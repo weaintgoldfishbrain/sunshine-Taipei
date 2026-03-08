@@ -179,6 +179,82 @@
             .constituency-section summary span:first-child {
                 font-size: 0.85rem !important;
             }
+
+            /* Responsive Table classes */
+            #table-head {
+                display: none;
+            }
+
+            #table-body {
+                display: block;
+                width: 100%;
+                border-top: none;
+            }
+
+            #table-body tr {
+                display: block;
+                margin-bottom: 0.75rem;
+                background: white;
+                border: 1px solid #e2e8f0;
+                border-radius: 0.75rem;
+                padding: 0.5rem;
+                box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+            }
+
+            .dark #table-body tr {
+                background: #1e293b;
+                border-color: #334155;
+            }
+
+            #table-body td {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 0.5rem 0.75rem !important;
+                border: none !important;
+                text-align: left !important;
+                width: 100% !important;
+            }
+
+            #table-body td::before {
+                content: attr(data-label);
+                font-weight: 600;
+                font-size: 0.75rem;
+                color: #64748b;
+                margin-right: 0.5rem;
+            }
+
+            .dark #table-body td::before {
+                color: #94a3b8;
+            }
+
+            /* Specific Cell Overrides for Mobile Cards */
+            .mobile-card-header {
+                flex-direction: column !important;
+                align-items: flex-start !important;
+                border-bottom: 1px solid #f1f5f9 !important;
+                margin-bottom: 0.25rem;
+                padding-bottom: 0.75rem !important;
+            }
+
+            .dark .mobile-card-header {
+                border-color: #334155 !important;
+            }
+
+            .mobile-card-header::before {
+                display: none !important;
+            }
+
+            .mobile-card-value {
+                font-size: 1rem !important;
+                font-weight: 700 !important;
+                color: #0d9488 !important;
+                /* teal-600 */
+            }
+
+            .dark .mobile-card-value {
+                color: #2dd4bf !important;
+            }
         }
     </style>
 
@@ -868,19 +944,19 @@
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
                     row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200">
-                            <div class="font-medium">${tx.stock}</div>
+                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
+                            <div class="font-bold text-base">${tx.stock}</div>
                             <div class="text-xs text-slate-500 dark:text-slate-400">${tx.broker}</div>
                             ${renderOwnerBadge(tx.owner)}
                         </td>
-                        <td class="px-4 py-3">
+                        <td class="px-4 py-3" data-label="類別">
                             <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${tx.typeColor}">
                                 ${tx.type}
                             </span>
                         </td>
-                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400">${tx.price}</td>
-                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 text-xs">${tx.date}</td>
-                        <td class="px-4 py-3 text-right font-medium text-slate-800 dark:text-slate-100">${tx.amount}</td>
+                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400" data-label="成交單價">${tx.price}</td>
+                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 text-xs" data-label="交易時間">${tx.date}</td>
+                        <td class="px-4 py-3 text-right font-medium text-slate-800 dark:text-slate-100 mobile-card-value" data-label="變動金額">${tx.amount}</td>
                     `;
                     tbody.appendChild(row);
                 });
@@ -906,15 +982,15 @@
                     const color = item.type.includes('土地') ? 'bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300' : 'bg-indigo-100 text-indigo-800 dark:bg-indigo-900/40 dark:text-indigo-300';
                     row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
                     row.innerHTML = `
-                        <td class="px-4 py-3">
-                            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold ${color}">${item.type}</span>
+                        <td class="px-4 py-3 mobile-card-header">
+                            <span class="inline-flex items-center px-1 py-0.5 rounded text-[10px] font-bold ${color}">${item.type}</span>
                         </td>
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200">
-                            <div class="font-medium text-sm leading-snug">${item.location}</div>
+                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200" data-label="坐落位置">
+                            <div class="font-bold text-sm md:font-medium leading-snug">${item.location}</div>
                             ${renderOwnerBadge(item.owner)}
                         </td>
-                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 font-mono text-xs">${item.area}</td>
-                        <td class="px-4 py-3 text-right text-slate-500 dark:text-slate-500 text-xs tracking-tight">${item.portion}</td>
+                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 font-mono text-xs" data-label="面積 (m²)">${item.area}</td>
+                        <td class="px-4 py-3 text-right text-slate-500 dark:text-slate-500 text-xs tracking-tight" data-label="權利範圍">${item.portion}</td>
                     `;
                     tbody.appendChild(row);
                 });
@@ -938,12 +1014,12 @@
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
                     row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200">
-                           <div class="font-medium">${item.brand}</div>
+                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
+                           <div class="font-bold text-base truncate w-full">${item.brand}</div>
                            ${renderOwnerBadge(item.owner)}
                         </td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400">${item.cc || '-'}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400">${item.license || '-'}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="汽缸容量 (cc)">${item.cc || '-'}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="掛牌日期">${item.license || '-'}</td>
                     `;
                     tbody.appendChild(row);
                 });
@@ -968,13 +1044,13 @@
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
                     row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200">
-                           <div class="font-medium">${item.company}</div>
+                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
+                           <div class="font-bold text-base truncate w-full">${item.company}</div>
                            ${renderOwnerBadge(item.owner)}
                         </td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400">${item.name}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs">${item.type}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs">${item.status}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="保險名稱">${item.name}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs" data-label="契約類型">${item.type}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs" data-label="狀態">${item.status}</td>
                     `;
                     tbody.appendChild(row);
                 });
@@ -997,11 +1073,11 @@
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
                     row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200">
-                           <div class="font-medium">${item.business}</div>
+                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
+                           <div class="font-bold text-base truncate w-full">${item.business}</div>
                            ${renderOwnerBadge(item.owner)}
                         </td>
-                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400">${item.amount}</td>
+                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 mobile-card-value" data-label="投資金額">${item.amount}</td>
                     `;
                     tbody.appendChild(row);
                 });
