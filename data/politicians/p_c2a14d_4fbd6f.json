@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "林銘仁",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "13,841,311",
     "securities": "8,586,495",
@@ -259,5 +260,6 @@
       "portion": "10000 分之 92",
       "owner": "江孝慈"
     }
-  ]
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
 }

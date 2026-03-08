@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "王孝維",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "1,509,408",
     "securities": "1,015,033",
@@ -399,5 +400,6 @@
       "portion": "全部",
       "owner": "江美玲"
     }
-  ]
+  ],
+  "constituency": "第二選區 (內湖、南港)"
 }

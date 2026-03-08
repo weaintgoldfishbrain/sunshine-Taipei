@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳錦錠",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "82,195,481",
     "securities": "242,172,760",
@@ -412,5 +413,6 @@
       "portion": "100000分之 17172",
       "owner": "陳錦錠"
     }
-  ]
+  ],
+  "constituency": "第六選區 (中和)"
 }

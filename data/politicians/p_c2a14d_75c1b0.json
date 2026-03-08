@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳儀君",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "17,525,315",
     "securities": "0",
@@ -90,5 +91,6 @@
       "portion": "10000 分之 248",
       "owner": "陳儀君"
     }
-  ]
+  ],
+  "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
 }

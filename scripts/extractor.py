@@ -2,15 +2,29 @@ import pdfplumber
 import os
 import json
 import re
+import sys
 from pathlib import Path
 
-# Setup paths
-BASE_DIR = Path(r"d:\AI_works\雙北議會財產申報")
+# Setup paths - use relative paths from this script's location
+BASE_DIR = Path(__file__).resolve().parent.parent
+PDFS_DIR = BASE_DIR / "pdfs"
 DATA_DIR = BASE_DIR / "data"
 POLITICIANS_DIR = DATA_DIR / "politicians"
 COUNCILS_JSON = DATA_DIR / "councils.json"
+MAP_JSON = BASE_DIR / "scripts" / "constituency_map.json"
+
+# Load constituency map
+CONSTITUENCY_MAP = {} # council_name -> zone_name -> set of clean_names
+if MAP_JSON.exists():
+    with open(MAP_JSON, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        for c_name, zones in data.items():
+            CONSTITUENCY_MAP[c_name] = {}
+            for z_name, names in zones.items():
+                CONSTITUENCY_MAP[c_name][z_name] = [n.replace(" ", "").replace("　", "") for n in names]
 
 os.makedirs(POLITICIANS_DIR, exist_ok=True)
+os.makedirs(PDFS_DIR, exist_ok=True)
 
 # Regex patterns for KPIs
 RE_DEPOSITS = re.compile(r'（七）存款.*?總金額：新臺幣\s*([\d,]+)\s*元')
@@ -29,6 +43,10 @@ def process_pdfs(pdf_paths):
     
     for pdf_path in pdf_paths:
         print(f"Processing {pdf_path.name}...")
+        # Extract issue number from filename like "【廉政專刊第295期】電子書.pdf"
+        issue_match = re.search(r'第(\d+)期', pdf_path.name)
+        issue_no = f"第{issue_match.group(1)}期" if issue_match else ""
+
         try:
             with pdfplumber.open(pdf_path) as pdf:
                 current_person = None
@@ -49,8 +67,10 @@ def process_pdfs(pdf_paths):
                             if not title and len(t0) > 1 and len(t0[1]) > 9:
                                 title = clean_str(t0[1][9]) # sometimes spans rows
                                 
-                            council_name = council_name.replace("1.", "").strip()
-                            title = title.replace("1.", "").strip()
+                            # Deep clean council name and title (remove "1.", "2.", " 1.", " 2." etc.)
+                            council_name = re.sub(r'\s*\d+\.?\s*$', '', council_name).strip()
+                            council_name = re.sub(r'^\s*\d+\.?\s*', '', council_name).strip()
+                            title = re.sub(r'^\s*\d+\.?\s*', '', title).strip()
                             
                             # Standardize council ID
                             cid_hash = hashlib.md5(council_name.encode()).hexdigest()[:6]
@@ -73,6 +93,7 @@ def process_pdfs(pdf_paths):
                                     'councilId': council_id,
                                     'name': name,
                                     'title': f"{council_name} {title}",
+                                    'source': issue_no,
                                     'stats': {
                                         'deposits': '0',
                                         'securities': '0',
@@ -88,6 +109,10 @@ def process_pdfs(pdf_paths):
                                     '_real_estate_count': 0
                                 }
                                 politicians_dict[p_id] = current_person
+                            
+                            # Update source if new information arrives
+                            if issue_no and not current_person.get('source'):
+                                current_person['source'] = issue_no
                     
                     if current_person:
                         # 2. Extract KPIs from text
@@ -241,11 +266,27 @@ def export_json(councils_dict, politicians_dict):
     # Save a master list of basic info for sidebar (to avoid loading all details)
     sidebar_politicians = {}
     for pid, p in politicians_dict.items():
+        # Tag constituency (Fuzzy match)
+        clean_name = p["name"].replace(" ", "").replace("　", "")
+        council_name = "臺北市議會" if p["councilId"] == "council_efab41" else "新北市議會"
+        
+        constituency = "其他/不詳"
+        c_map = CONSTITUENCY_MAP.get(council_name, {})
+        for zone, names in c_map.items():
+            for m_name in names:
+                if m_name in clean_name: # Simple substring match
+                    constituency = zone
+                    break
+            if constituency != "其他/不詳": break
+        
+        p["constituency"] = constituency
+        
         sidebar_politicians[pid] = {
             "id": p["id"],
             "councilId": p["councilId"],
             "name": p["name"],
-            "title": p["title"]
+            "title": p["title"],
+            "constituency": constituency
         }
     with open(DATA_DIR / "politicians_list.json", "w", encoding="utf-8") as f:
         json.dump(sidebar_politicians, f, ensure_ascii=False, indent=2)
@@ -259,16 +300,47 @@ def export_json(councils_dict, politicians_dict):
     print(f"Saved {len(politicians_dict)} politician profiles to {POLITICIANS_DIR}")
 
 if __name__ == "__main__":
-    pdf_files = [
-        BASE_DIR / "【廉政專刊第294期】電子書.pdf",
-        BASE_DIR / "【廉政專刊第295期】電子書.pdf"
-    ]
+    # Support CLI args or auto-scan pdfs/ folder
+    if len(sys.argv) > 1:
+        # User specified specific PDF files
+        pdf_files = [Path(p) for p in sys.argv[1:]]
+    else:
+        # Auto-scan pdfs/ folder for all .pdf files
+        pdf_files = sorted(PDFS_DIR.glob("*.pdf"))
     
     existing_pdfs = [p for p in pdf_files if p.exists()]
+    
     if not existing_pdfs:
-        print("No PDF files found!")
-        exit(1)
-        
+        print(f"\n❌ 找不到 PDF 檔案！")
+        print(f"   請將廉政專刊 PDF 放入以下目錄：")
+        print(f"   {PDFS_DIR}")
+        print(f"\n   或透過指令列指定路徑：")
+        print(f"   python {Path(__file__).name} path/to/file.pdf")
+        sys.exit(1)
+    
+    print(f"\n📂 找到 {len(existing_pdfs)} 個 PDF 檔案：")
+    for p in existing_pdfs:
+        print(f"   • {p.name}")
+    print()
+    
     councils_dict, politicians_dict = process_pdfs(existing_pdfs)
     export_json(councils_dict, politicians_dict)
-    print("Data extraction complete.")
+    
+    # Move processed PDFs to processed/ subfolder
+    import shutil
+    PROCESSED_DIR = PDFS_DIR / "processed"
+    os.makedirs(PROCESSED_DIR, exist_ok=True)
+    moved_count = 0
+    for pdf in existing_pdfs:
+        if pdf.parent.resolve() == PDFS_DIR.resolve():  # Only move files from pdfs/ root
+            dest = PROCESSED_DIR / pdf.name
+            try:
+                shutil.move(str(pdf), str(dest))
+                moved_count += 1
+            except Exception as e:
+                print(f"   ⚠️ 無法移動 {pdf.name}：{e}")
+    
+    print(f"\n✅ 資料抽取完成！共處理 {len(existing_pdfs)} 個 PDF。")
+    print(f"   JSON 已輸出至 {DATA_DIR}")
+    if moved_count > 0:
+        print(f"   📁 已將 {moved_count} 個 PDF 移至 {PROCESSED_DIR}")

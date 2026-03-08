@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "洪佳君",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "11,129,576",
     "securities": "6,952,168",
@@ -286,5 +287,6 @@
       "portion": "10000 分之 71",
       "owner": "黃志雄"
     }
-  ]
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "耿葳",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "586,558",
     "securities": "0",
@@ -26,5 +27,6 @@
       "license": "106 年 01 月20日"
     }
   ],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第六選區 (大安、文山)"
 }

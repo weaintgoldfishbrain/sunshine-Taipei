@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "翁震州",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "7,281,827",
     "securities": "0",
@@ -190,5 +191,6 @@
   "insurance": [],
   "investments": [],
   "automobiles": [],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第三選區 (新莊)"
 }

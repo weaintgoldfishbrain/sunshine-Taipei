@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "張維倩",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "6,639,439",
     "securities": "160,800",
@@ -195,5 +196,6 @@
       "portion": "4分之1",
       "owner": "張維倩"
     }
-  ]
+  ],
+  "constituency": "第六選區 (中和)"
 }

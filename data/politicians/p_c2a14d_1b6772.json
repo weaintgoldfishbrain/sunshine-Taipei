@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "彭佳芸",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "85,181,548",
     "securities": "11,420",
@@ -61,5 +62,6 @@
       "portion": "全部",
       "owner": "李昆鴻"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

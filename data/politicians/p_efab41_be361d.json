@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "葉林傳",
   "title": "臺北市議會 副議長",
+  "source": "第294期",
   "stats": {
     "deposits": "1,008,174",
     "securities": "0",
@@ -149,5 +150,6 @@
       "portion": "全部",
       "owner": "葉林傳"
     }
-  ]
+  ],
+  "constituency": "第四選區 (中山、大同)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "金瑞龍",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,448,693",
     "securities": "104,750",
@@ -313,5 +314,6 @@
       "portion": "315分之1",
       "owner": "陳美華"
     }
-  ]
+  ],
+  "constituency": "第六選區 (中和)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳錦祥",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "227,406",
     "securities": "1,660",
@@ -160,5 +161,6 @@
       "portion": "10000 分之 119",
       "owner": "陳錦祥"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

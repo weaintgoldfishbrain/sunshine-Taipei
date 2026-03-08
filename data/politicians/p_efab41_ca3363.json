@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "林珍羽",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "1,786,382",
     "securities": "153,280",
@@ -34,5 +35,6 @@
       "portion": "2分之1",
       "owner": "林珍羽"
     }
-  ]
+  ],
+  "constituency": "第四選區 (中山、大同)"
 }

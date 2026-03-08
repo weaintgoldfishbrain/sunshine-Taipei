@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "李傅中武",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "9,180,369",
     "securities": "0",
@@ -55,5 +56,6 @@
       "portion": "全部",
       "owner": "李傅中武"
     }
-  ]
+  ],
+  "constituency": "第八選區 (山地原住民)"
 }

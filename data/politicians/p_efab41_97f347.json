@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "李芳儒",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "14,853,111",
     "securities": "7,150,188",
@@ -313,5 +314,6 @@
       "portion": "全部",
       "owner": "張玲音"
     }
-  ]
+  ],
+  "constituency": "第七選區 (平地原住民)"
 }

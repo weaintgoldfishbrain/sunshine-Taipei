@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "曾煥嘉",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "10,773,515",
     "securities": "0",
@@ -230,5 +231,6 @@
       "portion": "10000 分之 49",
       "owner": "曾煥嘉"
     }
-  ]
+  ],
+  "constituency": "第五選區 (板橋)"
 }

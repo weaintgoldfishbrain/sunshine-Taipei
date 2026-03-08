@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "呂家愷",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "0",
     "securities": "0",
@@ -90,5 +91,6 @@
       "portion": "1000分之22",
       "owner": "呂家愷"
     }
-  ]
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
 }

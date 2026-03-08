@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "侯漢廷",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "327,782",
     "securities": "950,000",
@@ -205,5 +206,6 @@
       "portion": "全部",
       "owner": "侯漢廷"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳啟能",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "116,709,391",
     "securities": "183,610",
@@ -214,5 +215,6 @@
       "portion": "71分之2",
       "owner": "陳啟能"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

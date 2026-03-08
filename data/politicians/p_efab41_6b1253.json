@@ -2,16 +2,17 @@
   "id": "p_efab41_6b1253",
   "councilId": "council_efab41",
   "name": "林亮君",
-  "title": "臺北市議會 未知職稱",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "0",
-    "securities": "0",
+    "securities": "66,958",
     "debt": "0",
     "realEstate": "0筆"
   },
   "chartData": [
     0,
-    0,
+    100,
     0,
     0
   ],
@@ -39,6 +40,14 @@
   ],
   "insurance": [],
   "investments": [],
-  "automobiles": [],
-  "real_estate": []
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "1,798",
+      "owner": "林亮君",
+      "license": "114 年 03 月05日"
+    }
+  ],
+  "real_estate": [],
+  "constituency": "第四選區 (中山、大同)"
 }

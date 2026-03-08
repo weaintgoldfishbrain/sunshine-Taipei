@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "李翁月娥",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "2,689,198",
     "securities": "190,000",
@@ -289,5 +290,6 @@
       "portion": "全部",
       "owner": "李翁月娥"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

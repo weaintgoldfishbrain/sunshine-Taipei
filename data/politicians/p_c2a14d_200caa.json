@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "蔣根煌",
   "title": "新北市議會 議長",
+  "source": "第295期",
   "stats": {
     "deposits": "58,859,403",
     "securities": "8,911,950",
@@ -132,5 +133,6 @@
       "portion": "1000000 分 之8934",
       "owner": "蔣根煌"
     }
-  ]
+  ],
+  "constituency": "第三選區 (新莊)"
 }

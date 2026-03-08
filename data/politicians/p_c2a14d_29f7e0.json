@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "宋 雨 蓁 Nikar ． Falong",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "306,732",
     "securities": "1,510,731",
@@ -166,5 +167,6 @@
       "portion": "全部",
       "owner": "宋雨蓁 Nikar． Falong"
     }
-  ]
+  ],
+  "constituency": "第十二選區 (平地原住民)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "邱婷蔚",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "3,193,426",
     "securities": "18,281,646",
@@ -233,5 +234,6 @@
       "portion": "100000 分 之3230",
       "owner": "邱婷蔚"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

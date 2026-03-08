@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "游淑慧",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "6,444,834",
     "securities": "14,649,034",
@@ -247,5 +248,6 @@
       "portion": "256分之1",
       "owner": "游淑慧"
     }
-  ]
+  ],
+  "constituency": "第二選區 (內湖、南港)"
 }

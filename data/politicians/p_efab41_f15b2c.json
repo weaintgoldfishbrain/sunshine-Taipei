@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "闕枚莎",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "3,799,761",
     "securities": "7,907,893",
@@ -289,5 +290,6 @@
       "portion": "全部",
       "owner": "闕枚莎"
     }
-  ]
+  ],
+  "constituency": "第二選區 (內湖、南港)"
 }

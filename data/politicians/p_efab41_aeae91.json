@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "汪志冰",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "18,981,587",
     "securities": "21,356,102",
@@ -233,5 +234,6 @@
       "portion": "10000 分之 689",
       "owner": "汪志冰"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

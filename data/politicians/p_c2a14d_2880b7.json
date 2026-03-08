@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳明義",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "2,896,406",
     "securities": "0",
@@ -322,5 +323,6 @@
       "portion": "100000 分",
       "owner": "徐美惠"
     }
-  ]
+  ],
+  "constituency": "第二選區 (五股、泰山、林口)"
 }

@@ -2,22 +2,31 @@
   "id": "p_efab41_0ca8df",
   "councilId": "council_efab41",
   "name": "吳志剛",
-  "title": "臺北市議會 未知職稱",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
-    "deposits": "0",
-    "securities": "0",
-    "debt": "0",
+    "deposits": "226",
+    "securities": "73,446,190",
+    "debt": "2,102,700",
     "realEstate": "0筆"
   },
   "chartData": [
     0,
-    0,
+    100,
     0,
     0
   ],
   "transactions": [],
   "insurance": [],
   "investments": [],
-  "automobiles": [],
-  "real_estate": []
+  "automobiles": [
+    {
+      "brand": "日產",
+      "cc": "1,618",
+      "owner": "黃謙如",
+      "license": "103 年 08 月07日"
+    }
+  ],
+  "real_estate": [],
+  "constituency": "第五選區 (中正、萬華)"
 }

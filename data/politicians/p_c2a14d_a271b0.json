@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "周雅玲",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "504,757",
     "securities": "10,459,140",
@@ -55,5 +56,6 @@
       "portion": "10000 分之 90",
       "owner": "周雅玲"
     }
-  ]
+  ],
+  "constituency": "第十一選區 (金山、萬里、汐止)"
 }

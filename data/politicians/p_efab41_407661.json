@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "張志豪",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,569,218",
     "securities": "1,447,243",
@@ -90,5 +91,6 @@
       "portion": "1000 分之 14",
       "owner": "張志豪"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

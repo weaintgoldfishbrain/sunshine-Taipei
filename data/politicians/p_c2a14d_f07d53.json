@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "李余典",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,462,853",
     "securities": "16,484,850",
@@ -279,5 +280,6 @@
       "portion": "全部",
       "owner": "李余典"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

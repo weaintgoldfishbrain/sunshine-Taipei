@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳怡君",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "659,300",
     "securities": "72,837",
@@ -54,5 +55,6 @@
       "portion": "2分之1",
       "owner": "陳怡君"
     }
-  ]
+  ],
+  "constituency": "第四選區 (中山、大同)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳鴻源",
   "title": "新北市議會 副議長",
+  "source": "第295期",
   "stats": {
     "deposits": "170,909,648",
     "securities": "6,869,738",
@@ -367,5 +368,6 @@
       "portion": "全部",
       "owner": "陳鴻源"
     }
-  ]
+  ],
+  "constituency": "第七選區 (永和)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳賢蔚",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,509,688",
     "securities": "452,860",
@@ -301,5 +302,6 @@
       "portion": "10000 分之 4",
       "owner": "陳賢蔚"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

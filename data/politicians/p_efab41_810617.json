@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "黃瀞瑩",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,363,972",
     "securities": "414,660",
@@ -124,5 +125,6 @@
       "portion": "2分之1",
       "owner": "劉家耀"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

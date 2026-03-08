@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "李建昌",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,288,957",
     "securities": "12,606,591",
@@ -240,5 +241,6 @@
       "portion": "4分之1",
       "owner": "李建昌"
     }
-  ]
+  ],
+  "constituency": "第二選區 (內湖、南港)"
 }

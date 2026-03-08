@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "李柏毅",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "18,539,431",
     "securities": "153,030",
@@ -97,5 +98,6 @@
       "portion": "10000 分之 75",
       "owner": "李柏毅"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "卓冠廷",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "7,375,714",
     "securities": "17,617,276",
@@ -129,5 +130,6 @@
       "portion": "100000 分 之575",
       "owner": "卓冠廷"
     }
-  ]
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
 }

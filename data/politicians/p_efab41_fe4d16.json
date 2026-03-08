@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "戴錫欽",
   "title": "臺北市議會 議長",
+  "source": "第294期",
   "stats": {
     "deposits": "1,653,290",
     "securities": "50,000",
@@ -98,5 +99,6 @@
       "portion": "31255 分之 671",
       "owner": "戴錫欽"
     }
-  ]
+  ],
+  "constituency": "第三選區 (松山、信義)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳乃瑜",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "2,356,991",
     "securities": "6,592,385",
@@ -95,5 +96,6 @@
       "portion": "135分之1",
       "owner": "魏有德"
     }
-  ]
+  ],
+  "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
 }

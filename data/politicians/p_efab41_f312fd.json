@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳炳甫",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "27,405,729",
     "securities": "9,829,899",
@@ -336,5 +337,6 @@
       "portion": "全部",
       "owner": "陳炳甫"
     }
-  ]
+  ],
+  "constituency": "第四選區 (中山、大同)"
 }

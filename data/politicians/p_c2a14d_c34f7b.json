@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "宋明宗",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,769,707",
     "securities": "39,270",
@@ -19,5 +20,6 @@
   "insurance": [],
   "investments": [],
   "automobiles": [],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第二選區 (五股、泰山、林口)"
 }

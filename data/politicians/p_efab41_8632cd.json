@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "顏若芳",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,835,313",
     "securities": "0",
@@ -118,5 +119,6 @@
       "portion": "全部",
       "owner": "顏若芳"
     }
-  ]
+  ],
+  "constituency": "第四選區 (中山、大同)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "山田摩衣",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "6,545,846",
     "securities": "0",
@@ -26,5 +27,6 @@
       "license": "112 年 10 月13日"
     }
   ],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第五選區 (板橋)"
 }

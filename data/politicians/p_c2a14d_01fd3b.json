@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "黃桂蘭",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "3,678,718",
     "securities": "8,222,575",
@@ -188,5 +189,6 @@
       "portion": "全部",
       "owner": "李金池"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

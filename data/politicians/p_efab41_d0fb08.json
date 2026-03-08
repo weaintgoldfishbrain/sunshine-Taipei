@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "曾獻瑩",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "4,037,657",
     "securities": "2,007,606",
@@ -69,5 +70,6 @@
       "portion": "100000 分 之232",
       "owner": "曾獻瑩"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

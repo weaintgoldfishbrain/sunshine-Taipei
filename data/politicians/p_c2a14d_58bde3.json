@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "陳世軒",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "2,696,034",
     "securities": "4,260",
@@ -90,5 +91,6 @@
       "portion": "全部",
       "owner": "陳世軒"
     }
-  ]
+  ],
+  "constituency": "第三選區 (新莊)"
 }

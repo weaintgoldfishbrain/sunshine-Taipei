@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳宥丞",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "5,015,412",
     "securities": "368,210",
@@ -26,5 +27,6 @@
       "license": "111 年 12 月22日"
     }
   ],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第二選區 (內湖、南港)"
 }

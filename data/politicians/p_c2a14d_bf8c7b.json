@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "李倩萍",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "4,322,387",
     "securities": "2,489,255",
@@ -260,5 +261,6 @@
       "portion": "100000 分 之2885",
       "owner": "李倩萍"
     }
-  ]
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
 }

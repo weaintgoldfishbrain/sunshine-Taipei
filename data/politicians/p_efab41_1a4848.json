@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "許淑華",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "8,338,645",
     "securities": "10,172,009",
@@ -69,5 +70,6 @@
       "portion": "10000 分之 207",
       "owner": "許淑華"
     }
-  ]
+  ],
+  "constituency": "第三選區 (松山、信義)"
 }

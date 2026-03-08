@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "黃心華",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "3,306,958",
     "securities": "232,040",
@@ -81,5 +82,6 @@
       "portion": "10000 分之 405",
       "owner": "周怡妤"
     }
-  ]
+  ],
+  "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
 }

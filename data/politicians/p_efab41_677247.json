@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "徐弘庭",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "805,050",
     "securities": "6,061,410",
@@ -205,5 +206,6 @@
       "portion": "全部",
       "owner": "徐弘庭"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "邱烽堯",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,749,712",
     "securities": "8,963,514",
@@ -253,5 +254,6 @@
       "portion": "全部",
       "owner": "邱烽堯"
     }
-  ]
+  ],
+  "constituency": "第六選區 (中和)"
 }

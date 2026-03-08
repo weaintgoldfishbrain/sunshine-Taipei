@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "劉耀仁",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "614,788",
     "securities": "3,421,099",
@@ -165,5 +166,6 @@
       "portion": "10000 分之 36",
       "owner": "張慧嫻"
     }
-  ]
+  ],
+  "constituency": "第五選區 (中正、萬華)"
 }

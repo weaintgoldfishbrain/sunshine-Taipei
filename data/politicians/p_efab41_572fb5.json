@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "王欣儀",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "4,390,257",
     "securities": "2,976,860",
@@ -55,5 +56,6 @@
       "portion": "20分之1",
       "owner": "王欣儀"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

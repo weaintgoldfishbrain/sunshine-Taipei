@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "蔡錦賢",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "5,905,224",
     "securities": "15,701,516",
@@ -347,5 +348,6 @@
       "portion": "152分之8",
       "owner": "蔡蘇陳滿"
     }
-  ]
+  ],
+  "constituency": "第一選區 (淡水、石門、三芝、八里)"
 }

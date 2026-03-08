@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "張文潔",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "4,120,680",
     "securities": "350,000",
@@ -89,5 +90,6 @@
       "portion": "全部",
       "owner": "張文潔"
     }
-  ]
+  ],
+  "constituency": "第三選區 (松山、信義)"
 }

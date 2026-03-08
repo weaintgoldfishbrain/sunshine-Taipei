@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "蔡健棠",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "1,873,234",
     "securities": "89,340",
@@ -139,5 +140,6 @@
       "portion": "全部",
       "owner": "蔡健棠"
     }
-  ]
+  ],
+  "constituency": "第三選區 (新莊)"
 }

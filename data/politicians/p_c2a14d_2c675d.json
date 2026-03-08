@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "馬見 Lahuy．Ipin",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "0",
     "securities": "0",
@@ -125,5 +126,6 @@
       "portion": "全部",
       "owner": "吳湘純"
     }
-  ]
+  ],
+  "constituency": "第十三選區 (山地原住民)"
 }

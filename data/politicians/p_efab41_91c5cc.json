@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳慈慧",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "203,869",
     "securities": "0",
@@ -40,5 +41,6 @@
       "portion": "2分之1",
       "owner": "陳慈慧"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

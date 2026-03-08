@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "楊植斗",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,850,122",
     "securities": "482,277",
@@ -26,5 +27,6 @@
       "license": "110 年 01 月29日"
     }
   ],
-  "real_estate": []
+  "real_estate": [],
+  "constituency": "第六選區 (大安、文山)"
 }

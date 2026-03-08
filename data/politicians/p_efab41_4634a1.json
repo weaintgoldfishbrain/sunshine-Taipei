@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "洪婉臻",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "466,474",
     "securities": "1,084,880",
@@ -213,5 +214,6 @@
       "portion": "全部",
       "owner": "洪婉臻"
     }
-  ]
+  ],
+  "constituency": "第五選區 (中正、萬華)"
 }

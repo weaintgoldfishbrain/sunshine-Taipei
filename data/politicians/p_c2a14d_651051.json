@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "林裔綺",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "12,784,167",
     "securities": "2,455,570",
@@ -151,5 +152,6 @@
       "portion": "100000 分",
       "owner": "林裔綺"
     }
-  ]
+  ],
+  "constituency": "第十選區 (平溪、瑞芳、雙溪、貢寮)"
 }

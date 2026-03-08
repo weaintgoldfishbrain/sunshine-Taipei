@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "黃淑君",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "964,944",
     "securities": "763,433",
@@ -262,5 +263,6 @@
       "portion": "全部",
       "owner": "陳韋宗"
     }
-  ]
+  ],
+  "constituency": "第五選區 (板橋)"
 }

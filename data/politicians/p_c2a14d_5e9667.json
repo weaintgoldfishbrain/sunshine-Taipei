@@ -3,6 +3,7 @@
   "councilId": "council_c2a14d",
   "name": "游輝宂",
   "title": "新北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "2,096,493",
     "securities": "2,099,889",
@@ -140,5 +141,6 @@
       "portion": "3分之1",
       "owner": "許雅涵"
     }
-  ]
+  ],
+  "constituency": "第六選區 (中和)"
 }

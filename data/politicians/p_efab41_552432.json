@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "洪健益",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "12,534,791",
     "securities": "253,290",
@@ -145,5 +146,6 @@
       "portion": "全部",
       "owner": "劉素君"
     }
-  ]
+  ],
+  "constituency": "第三選區 (松山、信義)"
 }

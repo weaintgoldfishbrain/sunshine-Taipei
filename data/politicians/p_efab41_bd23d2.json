@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "林世宗",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "114,065,566",
     "securities": "6,296,426",
@@ -216,5 +217,6 @@
       "portion": "全部",
       "owner": "陳郁美"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

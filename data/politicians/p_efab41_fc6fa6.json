@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "陳重文",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "5,530,818",
     "securities": "0",
@@ -268,5 +269,6 @@
       "portion": "1488 分之 24",
       "owner": "陳重文"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

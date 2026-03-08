@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "鍾佩玲",
   "title": "臺北市議會 議員",
+  "source": "第295期",
   "stats": {
     "deposits": "30,909,413",
     "securities": "144,293,320",
@@ -194,5 +195,6 @@
       "portion": "1000000 分 之2558",
       "owner": "何利偉"
     }
-  ]
+  ],
+  "constituency": "第一選區 (北投、士林)"
 }

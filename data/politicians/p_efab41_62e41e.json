@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "鍾沛君",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,050,517",
     "securities": "245,590",
@@ -82,5 +83,6 @@
       "portion": "100000 分 之3808",
       "owner": "陳志偉"
     }
-  ]
+  ],
+  "constituency": "第六選區 (大安、文山)"
 }

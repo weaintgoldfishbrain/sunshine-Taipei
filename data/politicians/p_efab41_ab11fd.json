@@ -3,6 +3,7 @@
   "councilId": "council_efab41",
   "name": "秦慧珠",
   "title": "臺北市議會 議員",
+  "source": "第294期",
   "stats": {
     "deposits": "2,646,244",
     "securities": "1,436,230",
@@ -205,5 +206,6 @@
       "portion": "全部",
       "owner": "秦慧珠"
     }
-  ]
+  ],
+  "constituency": "第三選區 (松山、信義)"
 }
