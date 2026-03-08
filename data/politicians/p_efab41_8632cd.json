@@ -5,20 +5,24 @@
   "title": "臺北市議會 議員",
   "source": "第295期",
   "stats": {
+    "cash": "0",
     "deposits": "1,835,313",
     "securities": "0",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "10,537,999",
     "realEstate": "13筆"
   },
   "chartData": [
+    0,
     1,
     0,
-    99,
+    91,
+    0,
+    7,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "VOLVO XC40 Twin Motor",

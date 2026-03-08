@@ -5,15 +5,21 @@
   "title": "臺北市議會 議員",
   "source": "第295期",
   "stats": {
+    "cash": "239,970",
     "deposits": "6,444,834",
     "securities": "14,649,034",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "10,198,825",
     "realEstate": "8筆"
   },
   "chartData": [
+    0,
     6,
-    14,
-    79,
+    13,
+    72,
+    0,
+    9,
     0
   ],
   "transactions": [
@@ -188,8 +194,6 @@
       "amount": "652,500"
     }
   ],
-  "insurance": [],
-  "investments": [],
   "automobiles": [],
   "real_estate": [
     {

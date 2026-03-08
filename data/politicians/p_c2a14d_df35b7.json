@@ -5,15 +5,21 @@
   "title": "新北市議會 副議長",
   "source": "第295期",
   "stats": {
+    "cash": "0",
     "deposits": "170,909,648",
     "securities": "6,869,738",
+    "jewelry": "0",
+    "credit": "2,547,034,306",
     "debt": "4,566,000,000",
     "realEstate": "47筆"
   },
   "chartData": [
-    26,
-    1,
-    73,
+    0,
+    2,
+    0,
+    6,
+    33,
+    59,
     0
   ],
   "transactions": [
@@ -28,8 +34,6 @@
       "amount": "2,699,280"
     }
   ],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "Mercedes-Benz",

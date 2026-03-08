@@ -5,15 +5,21 @@
   "title": "臺北市議會 議長",
   "source": "第294期",
   "stats": {
+    "cash": "0",
     "deposits": "1,653,290",
     "securities": "50,000",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "899,825",
     "realEstate": "1筆"
   },
   "chartData": [
-    14,
     0,
-    85,
+    13,
+    0,
+    79,
+    0,
+    7,
     0
   ],
   "transactions": [
@@ -88,8 +94,6 @@
       "amount": "97,500"
     }
   ],
-  "insurance": [],
-  "investments": [],
   "automobiles": [],
   "real_estate": [
     {

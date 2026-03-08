@@ -5,15 +5,21 @@
   "title": "新北市議會 議員",
   "source": "第295期",
   "stats": {
+    "cash": "0",
     "deposits": "6,639,439",
     "securities": "160,800",
+    "jewelry": "0",
+    "credit": "17,799,200",
     "debt": "0",
     "realEstate": "1筆"
   },
   "chartData": [
-    40,
-    1,
-    60,
+    0,
+    19,
+    0,
+    29,
+    51,
+    0,
     0
   ],
   "transactions": [
@@ -178,8 +184,6 @@
       "amount": "95,800"
     }
   ],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "Yamaha",

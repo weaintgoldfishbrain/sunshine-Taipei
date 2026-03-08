@@ -27,8 +27,11 @@ os.makedirs(POLITICIANS_DIR, exist_ok=True)
 os.makedirs(PDFS_DIR, exist_ok=True)
 
 # Regex patterns for KPIs
+RE_CASH = re.compile(r'（六）現金.*?總金額：新臺幣\s*([\d,]+)\s*元')
 RE_DEPOSITS = re.compile(r'（七）存款.*?總金額：新臺幣\s*([\d,]+)\s*元')
 RE_SECURITIES = re.compile(r'（八）有價證券.*?總價額：新臺幣\s*([\d,]+)\s*元')
+RE_JEWELRY = re.compile(r'（九）珠寶、古董、字畫.*?總價額：新臺幣\s*([\d,]+)\s*元')
+RE_CREDIT = re.compile(r'（十）債權.*?總金額：新臺幣\s*([\d,]+)\s*元')
 RE_DEBT = re.compile(r'（十一）債務.*?總金額：新臺幣\s*([\d,]+)\s*元')
 
 def clean_str(s):
@@ -95,15 +98,16 @@ def process_pdfs(pdf_paths):
                                     'title': f"{council_name} {title}",
                                     'source': issue_no,
                                     'stats': {
+                                        'cash': '0',
                                         'deposits': '0',
                                         'securities': '0',
+                                        'jewelry': '0',
+                                        'credit': '0',
                                         'debt': '0',
                                         'realEstate': '0筆'
                                     },
-                                    'chartData': [0, 0, 0, 0],
+                                    'chartData': [0, 0, 0, 0, 0, 0, 0],
                                     'transactions': [],
-                                    'insurance': [],
-                                    'investments': [],
                                     'automobiles': [],
                                     'real_estate': [],
                                     '_real_estate_count': 0
@@ -116,11 +120,20 @@ def process_pdfs(pdf_paths):
                     
                     if current_person:
                         # 2. Extract KPIs from text
+                        cash_match = RE_CASH.search(text)
+                        if cash_match: current_person['stats']['cash'] = cash_match.group(1)
+                        
                         dep_match = RE_DEPOSITS.search(text)
                         if dep_match: current_person['stats']['deposits'] = dep_match.group(1)
                         
                         sec_match = RE_SECURITIES.search(text)
                         if sec_match: current_person['stats']['securities'] = sec_match.group(1)
+
+                        jewel_match = RE_JEWELRY.search(text)
+                        if jewel_match: current_person['stats']['jewelry'] = jewel_match.group(1)
+
+                        credit_match = RE_CREDIT.search(text)
+                        if credit_match: current_person['stats']['credit'] = credit_match.group(1)
                         
                         debt_match = RE_DEBT.search(text)
                         if debt_match: current_person['stats']['debt'] = debt_match.group(1)
@@ -189,31 +202,6 @@ def process_pdfs(pdf_paths):
                                             'license': clean_r[3] if len(clean_r) > 3 else '' # license might be missing or merged depending on format
                                         })
             
-                            # Insurance
-                            if '保險公司' in header_str and '保險名稱' in header_str:
-                                for row in table[1:]:
-                                    clean_r = [clean_str(c) for c in row]
-                                    if len(clean_r) >= 6 and clean_r[0] and '本欄空白' not in clean_r[0]:
-                                        current_person['insurance'].append({
-                                            'company': clean_r[0],
-                                            'name': clean_r[1],
-                                            'owner': clean_r[3] if len(clean_r) > 3 else '',
-                                            'type': clean_r[4] if len(clean_r) > 4 else '',
-                                            'status': clean_r[5] if len(clean_r) > 5 else ''
-                                        })
-                            
-                            # Investments
-                            if '投資事業名稱' in header_str and '投資金額' in header_str:
-                                for row in table[1:]:
-                                    clean_r = [clean_str(c) for c in row]
-                                    if len(clean_r) >= 4 and clean_r[0] and '本欄空白' not in clean_r[0]:
-                                        current_person['investments'].append({
-                                            'owner': clean_r[0],
-                                            'investor': clean_r[0], # same as owner here
-                                            'business': clean_r[1],
-                                            'amount': clean_r[3]
-                                        })
-                
                 # No need to explicitly save the last person since it's already in the dictionary by reference
 
         except Exception as e:
@@ -221,23 +209,32 @@ def process_pdfs(pdf_paths):
             
     # Process Chart Data
     for p in politicians_dict.values():
+        cash = int(p['stats']['cash'].replace(',', '') or 0)
         dep = int(p['stats']['deposits'].replace(',', '') or 0)
         sec = int(p['stats']['securities'].replace(',', '') or 0)
-        # Assuming each real estate is roughly 10M for chart weighting (just for visualization)
+        jewel = int(p['stats']['jewelry'].replace(',', '') or 0)
+        credit = int(p['stats']['credit'].replace(',', '') or 0)
+        debt = int(p['stats']['debt'].replace(',', '') or 0)
+        
+        # Assuming each real estate is roughly 10M for chart weighting
         re_val = p['_real_estate_count'] * 10000000 
         
-        total = dep + sec + re_val
+        # We calculate the total absolute value of all items to determine chart proportions
+        total = cash + dep + sec + jewel + credit + re_val + debt
         if total > 0:
             p['chartData'] = [
+                round((cash / total) * 100),
                 round((dep / total) * 100),
                 round((sec / total) * 100),
                 round((re_val / total) * 100),
-                0
+                round(((jewel + credit) / total) * 100), # 合併計算其他動產與債權
+                round((debt / total) * 100), # 債務
+                0 # other
             ]
         else:
-            p['chartData'] = [0, 0, 0, 0]
+            p['chartData'] = [0, 0, 0, 0, 0, 0, 0]
         
-        del p['_real_estate_count'] # Clean up internal temp field
+        del p['_real_estate_count'] 
 
     return councils_dict, politicians_dict
 

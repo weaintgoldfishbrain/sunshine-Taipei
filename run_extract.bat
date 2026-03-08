@@ -22,6 +22,11 @@ if not exist "pdfs\*.pdf" (
 echo 📂 偵測到以下 PDF 檔案：
 for %%f in (pdfs\*.pdf) do echo    • %%~nxf
 echo.
+
+:: Ensure dependencies are installed
+echo 🔍 檢查並安裝必要的相依套件 (pdfplumber)...
+python -m pip install pdfplumber --quiet
+
 echo 🔄 開始抽取資料...
 echo.
 

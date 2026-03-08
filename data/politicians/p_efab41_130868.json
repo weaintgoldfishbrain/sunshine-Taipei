@@ -5,20 +5,24 @@
   "title": "臺北市議會 議員",
   "source": "第294期",
   "stats": {
+    "cash": "0",
     "deposits": "659,300",
     "securities": "72,837",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "104,532",
     "realEstate": "3筆"
   },
   "chartData": [
+    0,
     2,
     0,
-    98,
+    97,
+    0,
+    0,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "國瑞",

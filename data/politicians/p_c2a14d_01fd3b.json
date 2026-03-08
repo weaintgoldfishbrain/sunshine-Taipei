@@ -5,20 +5,24 @@
   "title": "新北市議會 議員",
   "source": "第295期",
   "stats": {
+    "cash": "0",
     "deposits": "3,678,718",
     "securities": "8,222,575",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "51,176,984",
     "realEstate": "23筆"
   },
   "chartData": [
-    2,
+    0,
+    1,
     3,
-    95,
+    78,
+    0,
+    17,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "VOLKSWAGEN",

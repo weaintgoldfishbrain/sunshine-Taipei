@@ -5,20 +5,24 @@
   "title": "臺北市議會 議員",
   "source": "第294期",
   "stats": {
+    "cash": "0",
     "deposits": "226",
     "securities": "73,446,190",
+    "jewelry": "0",
+    "credit": "10,000,000",
     "debt": "2,102,700",
     "realEstate": "0筆"
   },
   "chartData": [
     0,
-    100,
     0,
+    86,
+    0,
+    12,
+    2,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "日產",

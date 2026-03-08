@@ -5,20 +5,24 @@
   "title": "臺北市議會 議員",
   "source": "第294期",
   "stats": {
+    "cash": "0",
     "deposits": "9,180,369",
     "securities": "0",
+    "jewelry": "0",
+    "credit": "63,750,000",
     "debt": "31,488,565",
     "realEstate": "4筆"
   },
   "chartData": [
-    19,
     0,
-    81,
+    6,
+    0,
+    28,
+    44,
+    22,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "三陽",

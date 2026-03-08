@@ -489,16 +489,6 @@
                                     data-target="automobiles">
                                     汽車/動產
                                 </button>
-                                <button
-                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 dark:text-slate-400 border-transparent hover:text-slate-700 dark:hover:text-slate-200 hover:border-slate-300 dark:hover:border-slate-600"
-                                    data-target="insurance">
-                                    保險單
-                                </button>
-                                <button
-                                    class="tab-btn whitespace-nowrap pb-3 px-1 border-b-2 font-medium text-sm text-slate-500 dark:text-slate-400 border-transparent hover:text-slate-700 dark:hover:text-slate-200 hover:border-slate-300 dark:hover:border-slate-600"
-                                    data-target="investments">
-                                    事業投資
-                                </button>
                             </nav>
                         </div>
 
@@ -850,13 +840,14 @@
             currentChart = new Chart(ctx, {
                 type: 'doughnut',
                 data: {
-                    labels: ['存款', '有價證券', '不動產估算比重', '其他'],
+                    labels: ['存款', '有價證券', '不動產估算', '債務(負資產)', '其他'],
                     datasets: [{
-                        data: dataArray,
+                        data: [dataArray[1], dataArray[2], dataArray[3], dataArray[5], dataArray[6]], // Map backend data correctly: dep=1, sec=2, re=3, debt=5, other=6
                         backgroundColor: [
-                            '#0ea5e9', // light blue
-                            '#10b981', // emerald
+                            '#0d9488', // teal
+                            '#3b82f6', // blue
                             '#f59e0b', // amber
+                            '#ef4444', // red (債務)
                             '#94a3b8'  // slate
                         ],
                         borderWidth: 2,
@@ -916,9 +907,25 @@
 
             let list = [];
 
+            // Helper to normalize names for comparison (handles spaces, middle dots, etc.)
+            const normalizeName = (name) => {
+                if (!name) return '';
+                return name.toString()
+                    .replace(/[\s\u3000]/g, '') // Remove all spaces (including full-width)
+                    .replace(/[·•.]/g, '·')     // Normalize middle dots
+                    .trim();
+            };
+
             // Helper function to render owner badge for spouse/children
             const renderOwnerBadge = (owner) => {
-                if (!owner || owner === data.name || owner.includes('同申報人') || owner.includes('本人')) return '';
+                const normalizedOwner = normalizeName(owner);
+                const normalizedSelf = normalizeName(data.name);
+
+                if (!owner ||
+                    normalizedOwner === normalizedSelf ||
+                    owner.includes('同申報人') ||
+                    owner.includes('本人')) return '';
+
                 return `<div class="mt-1 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-50 text-purple-700 border border-purple-100">
                            <span class="mr-1">👤</span>配偶/未成年子女：${owner.trim()}
                         </div>`;
@@ -1020,65 +1027,7 @@
                            ${renderOwnerBadge(item.owner)}
                         </td>
                         <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="汽缸容量 (cc)">${item.cc || '-'}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="掛牌日期">${item.license || '-'}</td>
-                    `;
-                    tbody.appendChild(row);
-                });
-
-            } else if (tabName === 'insurance') {
-                thead.innerHTML = `
-                    <tr>
-                        <th class="px-4 py-3 text-left font-semibold text-slate-600 dark:text-slate-400">保險公司</th>
-                        <th class="px-4 py-3 text-left font-semibold text-slate-600 dark:text-slate-400">保險名稱</th>
-                        <th class="px-4 py-3 text-left font-semibold text-slate-600 dark:text-slate-400">契約類型</th>
-                        <th class="px-4 py-3 text-left font-semibold text-slate-600 dark:text-slate-400">狀態</th>
-                    </tr>
-                `;
-                list = data.insurance || [];
-
-                if (list.length === 0) {
-                    tbody.innerHTML = `<tr><td colspan="4" class="px-6 py-8 text-center text-slate-500 dark:text-slate-500 text-sm italic">此期無需申報之保單</td></tr>`;
-                    return;
-                }
-
-                list.forEach(item => {
-                    const row = document.createElement('tr');
-                    row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
-                    row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
-                           <div class="font-bold text-base truncate w-full">${item.company}</div>
-                           ${renderOwnerBadge(item.owner)}
-                        </td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400" data-label="保險名稱">${item.name}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs" data-label="契約類型">${item.type}</td>
-                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs" data-label="狀態">${item.status}</td>
-                    `;
-                    tbody.appendChild(row);
-                });
-
-            } else if (tabName === 'investments') {
-                thead.innerHTML = `
-                    <tr>
-                        <th class="px-4 py-3 text-left font-semibold text-slate-600 dark:text-slate-400">投資事業名稱</th>
-                        <th class="px-4 py-3 text-right font-semibold text-slate-600 dark:text-slate-400">投資金額</th>
-                    </tr>
-                `;
-                list = data.investments || [];
-
-                if (list.length === 0) {
-                    tbody.innerHTML = `<tr><td colspan="2" class="px-6 py-8 text-center text-slate-500 dark:text-slate-500 text-sm italic">此期無事業投資紀錄</td></tr>`;
-                    return;
-                }
-
-                list.forEach(item => {
-                    const row = document.createElement('tr');
-                    row.className = 'hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors';
-                    row.innerHTML = `
-                        <td class="px-4 py-3 text-slate-800 dark:text-slate-200 mobile-card-header">
-                           <div class="font-bold text-base truncate w-full">${item.business}</div>
-                           ${renderOwnerBadge(item.owner)}
-                        </td>
-                        <td class="px-4 py-3 text-right text-slate-600 dark:text-slate-400 mobile-card-value" data-label="投資金額">${item.amount}</td>
+                        <td class="px-4 py-3 text-slate-600 dark:text-slate-400 text-xs" data-label="掛牌日期">${item.license || '-'}</td>
                     `;
                     tbody.appendChild(row);
                 });

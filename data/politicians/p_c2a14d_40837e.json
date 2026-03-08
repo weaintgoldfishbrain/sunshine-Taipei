@@ -5,20 +5,24 @@
   "title": "新北市議會 議員",
   "source": "第295期",
   "stats": {
+    "cash": "0",
     "deposits": "5,905,224",
     "securities": "15,701,516",
+    "jewelry": "0",
+    "credit": "0",
     "debt": "43,216,594",
     "realEstate": "44筆"
   },
   "chartData": [
+    0,
     1,
     3,
-    95,
+    87,
+    0,
+    9,
     0
   ],
   "transactions": [],
-  "insurance": [],
-  "investments": [],
   "automobiles": [
     {
       "brand": "BNW",
