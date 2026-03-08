@@ -1,0 +1,545 @@
+{
+  "id": "p_c2a14d_a72fa69c07",
+  "councilId": "council_c2a14d",
+  "name": "劉哲彰",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "8,045,969",
+    "securities": "421,256",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "91,151,021",
+    "realEstate": "70筆"
+  },
+  "chartData": [
+    0,
+    1,
+    0,
+    88,
+    0,
+    11,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "2,487",
+      "owner": "劉哲彰",
+      "license": "112 年 12 月13日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "3,456",
+      "owner": "林方",
+      "license": "105 年 01 月18日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,487",
+      "owner": "劉哲彰",
+      "license": "112 年 12 月13日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "3,456",
+      "owner": "林方",
+      "license": "105 年 01 月18日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三峽區白雞段紫微小段",
+      "area": "1,800",
+      "portion": "6分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "155",
+      "portion": "20分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "2,964",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "369",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "563",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "241",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "3,285",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "786",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "320",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市土城區瑞興段",
+      "area": "0.40",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "38",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "196",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "4",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "106.57",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "285.23",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "607.06",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區中正段",
+      "area": "673.82",
+      "portion": "15分之4",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區中正段",
+      "area": "198.71",
+      "portion": "3分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "233.01",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "9.66",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "9.03",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "227.08 (另附屬建 物 總 面 積:40.70)",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區文山段",
+      "area": "52.05",
+      "portion": "10000 分之 7387",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區民安段",
+      "area": "54.60",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區民安段",
+      "area": "65.94",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區光明段",
+      "area": "261.24",
+      "portion": "4分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區福園段",
+      "area": "85.46",
+      "portion": "15分之11",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "136.12 (另附屬建 物 總 面 積:17.33)",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "3,112.60",
+      "portion": "10000 分之 81",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "1,603.32",
+      "portion": "100000 分 之126",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "25,380.06",
+      "portion": "200000 分 之321",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區延平段一小段",
+      "area": "135.54",
+      "portion": "192分之7",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區中正段",
+      "area": "90.60",
+      "portion": "全部",
+      "owner": "林方"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區文中里北宜路",
+      "area": "181.80",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "2★新北市新店區中正段",
+      "area": "673.82",
+      "portion": "15分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區白雞段紫微小段",
+      "area": "1,800",
+      "portion": "6分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "155",
+      "portion": "20分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "2,964",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "369",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "563",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "241",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "3,285",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "786",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "320",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市土城區瑞興段",
+      "area": "0.40",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "38",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "196",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區仁愛段",
+      "area": "4",
+      "portion": "100分之20",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "106.57",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "285.23",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市深坑區埔新段",
+      "area": "607.06",
+      "portion": "38400 分之 77",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區中正段",
+      "area": "673.82",
+      "portion": "15分之4",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區中正段",
+      "area": "198.71",
+      "portion": "3分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "233.01",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "9.66",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新店區文山段",
+      "area": "9.03",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三峽區成福段小暗坑小 段",
+      "area": "227.08 (另附屬建 物 總 面 積:40.70)",
+      "portion": "100分之5",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區文山段",
+      "area": "52.05",
+      "portion": "10000 分之 7387",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區民安段",
+      "area": "54.60",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區民安段",
+      "area": "65.94",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區光明段",
+      "area": "261.24",
+      "portion": "4分之1",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區福園段",
+      "area": "85.46",
+      "portion": "15分之11",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "136.12 (另附屬建 物 總 面 積:17.33)",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "3,112.60",
+      "portion": "10000 分之 81",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "1,603.32",
+      "portion": "100000 分 之126",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區環河段",
+      "area": "25,380.06",
+      "portion": "200000 分 之321",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區延平段一小段",
+      "area": "135.54",
+      "portion": "192分之7",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區中正段",
+      "area": "90.60",
+      "portion": "全部",
+      "owner": "林方"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新店區文中里北宜路",
+      "area": "181.80",
+      "portion": "全部",
+      "owner": "劉哲彰"
+    },
+    {
+      "type": "土地",
+      "location": "2★新北市新店區中正段",
+      "area": "673.82",
+      "portion": "15分之1",
+      "owner": "劉哲彰"
+    }
+  ],
+  "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+}

@@ -1,0 +1,752 @@
+{
+  "id": "p_c2a14d_ab71a76402",
+  "councilId": "council_c2a14d",
+  "name": "黃淑君",
+  "title": "新北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "964,944",
+    "securities": "763,433",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "1,985,500",
+    "realEstate": "36筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    99,
+    0,
+    1,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "149",
+      "date": "114年02月17日",
+      "amount": "3,129"
+    },
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "136",
+      "date": "114年05月14日",
+      "amount": "3,944"
+    },
+    {
+      "stock": "興農",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.45",
+      "date": "114年07月21日",
+      "amount": "41,450"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.20",
+      "date": "113年12月04日",
+      "amount": "28,200"
+    },
+    {
+      "stock": "彰銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "19.40",
+      "date": "114年09月04日",
+      "amount": "1,144.60"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "2,303.60"
+    },
+    {
+      "stock": "臺企銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15.45",
+      "date": "114年09月09日",
+      "amount": "1,297.80"
+    },
+    {
+      "stock": "高雄銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.65",
+      "date": "114年08月29日",
+      "amount": "384.45"
+    },
+    {
+      "stock": "聯邦銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "17.90",
+      "date": "114年09月26日",
+      "amount": "3,830.60"
+    },
+    {
+      "stock": "遠東銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "12.45",
+      "date": "114年09月30日",
+      "amount": "348.60"
+    },
+    {
+      "stock": "華南金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "279"
+    },
+    {
+      "stock": "玉山金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "501"
+    },
+    {
+      "stock": "元大金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "34.60",
+      "date": "114年09月12日",
+      "amount": "1,141.80"
+    },
+    {
+      "stock": "台新金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "36,772.80"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "39,624.40"
+    },
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "149",
+      "date": "114年02月17日",
+      "amount": "3,129"
+    },
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "136",
+      "date": "114年05月14日",
+      "amount": "3,944"
+    },
+    {
+      "stock": "興農",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.45",
+      "date": "114年07月21日",
+      "amount": "41,450"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.20",
+      "date": "113年12月04日",
+      "amount": "28,200"
+    },
+    {
+      "stock": "彰銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "19.40",
+      "date": "114年09月04日",
+      "amount": "1,144.60"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "2,303.60"
+    },
+    {
+      "stock": "臺企銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15.45",
+      "date": "114年09月09日",
+      "amount": "1,297.80"
+    },
+    {
+      "stock": "高雄銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.65",
+      "date": "114年08月29日",
+      "amount": "384.45"
+    },
+    {
+      "stock": "聯邦銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "17.90",
+      "date": "114年09月26日",
+      "amount": "3,830.60"
+    },
+    {
+      "stock": "遠東銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "12.45",
+      "date": "114年09月30日",
+      "amount": "348.60"
+    },
+    {
+      "stock": "華南金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "279"
+    },
+    {
+      "stock": "玉山金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "501"
+    },
+    {
+      "stock": "元大金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "34.60",
+      "date": "114年09月12日",
+      "amount": "1,141.80"
+    },
+    {
+      "stock": "台新金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "36,772.80"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "39,624.40"
+    },
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "149",
+      "date": "114年02月17日",
+      "amount": "3,129"
+    },
+    {
+      "stock": "葡萄王",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "136",
+      "date": "114年05月14日",
+      "amount": "3,944"
+    },
+    {
+      "stock": "興農",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.45",
+      "date": "114年07月21日",
+      "amount": "41,450"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-板橋",
+      "owner": "黃淑君",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "28.20",
+      "date": "113年12月04日",
+      "amount": "28,200"
+    },
+    {
+      "stock": "彰銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "19.40",
+      "date": "114年09月04日",
+      "amount": "1,144.60"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "2,303.60"
+    },
+    {
+      "stock": "臺企銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15.45",
+      "date": "114年09月09日",
+      "amount": "1,297.80"
+    },
+    {
+      "stock": "高雄銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.65",
+      "date": "114年08月29日",
+      "amount": "384.45"
+    },
+    {
+      "stock": "聯邦銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "17.90",
+      "date": "114年09月26日",
+      "amount": "3,830.60"
+    },
+    {
+      "stock": "遠東銀",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "12.45",
+      "date": "114年09月30日",
+      "amount": "348.60"
+    },
+    {
+      "stock": "華南金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "279"
+    },
+    {
+      "stock": "玉山金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "501"
+    },
+    {
+      "stock": "元大金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "34.60",
+      "date": "114年09月12日",
+      "amount": "1,141.80"
+    },
+    {
+      "stock": "台新金",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "36,772.80"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "國泰證券板橋分公 司",
+      "owner": "黃淑君",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "39,624.40"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "2,362",
+      "owner": "陳韋宗",
+      "license": "112 年 06 月05日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,362",
+      "owner": "陳韋宗",
+      "license": "112 年 06 月05日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,362",
+      "owner": "陳韋宗",
+      "license": "112 年 06 月05日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "966",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "2,569.06",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "50.30",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "17.28",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.33 (另附屬建 物 總 面 積:3.29)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1,336.39",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "71.68 (另附屬建 物 總 面 積:9.71)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "2,930.34",
+      "portion": "10000 分之 69",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "953.39",
+      "portion": "10000 分之 38",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "56.55 (另附屬建 物 總 面 積:10.92)",
+      "portion": "全部",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "966",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "2,569.06",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "50.30",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "17.28",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.33 (另附屬建 物 總 面 積:3.29)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1,336.39",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "71.68 (另附屬建 物 總 面 積:9.71)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "2,930.34",
+      "portion": "10000 分之 69",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "953.39",
+      "portion": "10000 分之 38",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "56.55 (另附屬建 物 總 面 積:10.92)",
+      "portion": "全部",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "966",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "2,569.06",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "50.30",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺南市東區裕南段",
+      "area": "17.28",
+      "portion": "10000 分之 68",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "1,041",
+      "portion": "10000 分之 68",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.33 (另附屬建 物 總 面 積:3.29)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1,336.39",
+      "portion": "10000 分之 44",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "71.68 (另附屬建 物 總 面 積:9.71)",
+      "portion": "全部",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺南市東區裕南段",
+      "area": "2,930.34",
+      "portion": "10000 分之 69",
+      "owner": "黃淑君"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "953.39",
+      "portion": "10000 分之 38",
+      "owner": "陳韋宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段二小段",
+      "area": "56.55 (另附屬建 物 總 面 積:10.92)",
+      "portion": "全部",
+      "owner": "陳韋宗"
+    }
+  ],
+  "constituency": "第五選區 (板橋)"
+}

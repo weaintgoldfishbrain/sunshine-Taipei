@@ -1,0 +1,30 @@
+{
+  "id": "p_677fa8_0ca8df2ad3",
+  "councilId": "council_677fa8",
+  "name": "吳志剛",
+  "title": "臺北市議會 2. 議員",
+  "stats": {
+    "deposits": "226",
+    "securities": "73,446,190",
+    "debt": "2,102,700",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    100,
+    0,
+    0
+  ],
+  "transactions": [],
+  "insurance": [],
+  "investments": [],
+  "automobiles": [
+    {
+      "brand": "日產",
+      "cc": "1,618",
+      "owner": "黃謙如",
+      "license": "103 年 08 月07日"
+    }
+  ],
+  "real_estate": []
+}

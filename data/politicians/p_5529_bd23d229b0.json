@@ -1,0 +1,59 @@
+{
+  "id": "p_5529_bd23d229b0",
+  "councilId": "council_5529",
+  "name": "林世宗",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "114,065,566",
+    "securities": "6,296,426",
+    "debt": "467,468",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    95,
+    5,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "26,150"
+    },
+    {
+      "stock": "華南金",
+      "broker": "富邦證券建國分公 司",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "641.70"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

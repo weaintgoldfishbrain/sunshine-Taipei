@@ -1,0 +1,824 @@
+{
+  "id": "p_c2a14d_b17737fdd1",
+  "councilId": "council_c2a14d",
+  "name": "洪佳君",
+  "title": "新北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "11,129,576",
+    "securities": "6,952,168",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "319,226",
+    "realEstate": "42筆"
+  },
+  "chartData": [
+    0,
+    3,
+    2,
+    96,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "121.50",
+      "date": "114年07月28日",
+      "amount": "5,103,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "149.50",
+      "date": "114年09月03日",
+      "amount": "149,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "156",
+      "date": "114年09月09日",
+      "amount": "156,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "962,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "548,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "275,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "137,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "121.50",
+      "date": "114年07月28日",
+      "amount": "5,103,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "149.50",
+      "date": "114年09月03日",
+      "amount": "149,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "156",
+      "date": "114年09月09日",
+      "amount": "156,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "962,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "548,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "275,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "137,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "121.50",
+      "date": "114年07月28日",
+      "amount": "5,103,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "149.50",
+      "date": "114年09月03日",
+      "amount": "149,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "156",
+      "date": "114年09月09日",
+      "amount": "156,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "962,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "548,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137",
+      "date": "114年09月10日",
+      "amount": "274,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "275,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "273,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "137.50",
+      "date": "114年09月10日",
+      "amount": "137,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "136.50",
+      "date": "114年09月10日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "生合",
+      "broker": "中國信託證",
+      "owner": "黃志雄",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年09月10日",
+      "amount": "138,000"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "洪佳君",
+      "license": "112 年 07 月31日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "洪佳君",
+      "license": "112 年 07 月31日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "洪佳君",
+      "license": "112 年 07 月31日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區中正段",
+      "area": "92",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "1,626.96",
+      "portion": "100000 分 之969",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "139.09",
+      "portion": "6分之1",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區中正段",
+      "area": "275.61 (另附屬建 物 總 面 積:23.21)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "118.29 (另附屬建 物 總 面 積:12.43)",
+      "portion": "全部",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "554.83",
+      "portion": "10000 分之 71",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區中正段",
+      "area": "92",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "1,626.96",
+      "portion": "100000 分 之969",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "139.09",
+      "portion": "6分之1",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區中正段",
+      "area": "275.61 (另附屬建 物 總 面 積:23.21)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "118.29 (另附屬建 物 總 面 積:12.43)",
+      "portion": "全部",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "554.83",
+      "portion": "10000 分之 71",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區山佳段",
+      "area": "1,518.27",
+      "portion": "10000 分之 162",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區中正段",
+      "area": "92",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "1,626.96",
+      "portion": "100000 分 之969",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "土地",
+      "location": "新北市樹林區文林段",
+      "area": "139.09",
+      "portion": "6分之1",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "120.80 (另附屬建 物 總 面 積:10.95)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "749.25",
+      "portion": "10000 分之 159",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區山佳段",
+      "area": "481.30",
+      "portion": "10000 分之 554",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區中正段",
+      "area": "275.61 (另附屬建 物 總 面 積:23.21)",
+      "portion": "全部",
+      "owner": "洪佳君"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "118.29 (另附屬建 物 總 面 積:12.43)",
+      "portion": "全部",
+      "owner": "黃志雄"
+    },
+    {
+      "type": "建物",
+      "location": "新北市樹林區文林段",
+      "area": "554.83",
+      "portion": "10000 分之 71",
+      "owner": "黃志雄"
+    }
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+}

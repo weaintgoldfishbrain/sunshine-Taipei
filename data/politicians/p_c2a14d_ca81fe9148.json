@@ -1,0 +1,401 @@
+{
+  "id": "p_c2a14d_ca81fe9148",
+  "councilId": "council_c2a14d",
+  "name": "楊春妹",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "17,898,112",
+    "securities": "786,422",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "0",
+    "realEstate": "30筆"
+  },
+  "chartData": [
+    0,
+    6,
+    0,
+    94,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台新金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "391.20"
+    },
+    {
+      "stock": "台新金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "97.80"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "94.40"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "94.40"
+    },
+    {
+      "stock": "新光金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "94.40"
+    },
+    {
+      "stock": "台新金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "391.20"
+    },
+    {
+      "stock": "台新金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "97.80"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "94.40"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "94.40"
+    },
+    {
+      "stock": "新光金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "436.60"
+    },
+    {
+      "stock": "新光金",
+      "broker": "集保專戶",
+      "owner": "楊春妹",
+      "type": "換發轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "94.40"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁禮段",
+      "area": "92",
+      "portion": "全部",
+      "owner": "楊春妹"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁恥段",
+      "area": "3,646",
+      "portion": "全部",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁恥段",
+      "area": "143",
+      "portion": "8分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "490",
+      "portion": "4分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "12",
+      "portion": "5分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "1,147.64",
+      "portion": "10000 分之 195",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "321.67",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "494.04",
+      "portion": "10000 分之 1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "81.14",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "72.70",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "花蓮縣吉安鄉仁禮段",
+      "area": "110.70",
+      "portion": "全部",
+      "owner": "楊春妹"
+    },
+    {
+      "type": "建物",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "97.93 (另附屬建 物 總 面 積:27.93)",
+      "portion": "4分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "100.49 (另附屬建 物 總 面 積:9.93)",
+      "portion": "全部",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "1,608.35",
+      "portion": "10000 分之 76",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "371.55",
+      "portion": "10000 分之 74",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁禮段",
+      "area": "92",
+      "portion": "全部",
+      "owner": "楊春妹"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁恥段",
+      "area": "3,646",
+      "portion": "全部",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣吉安鄉仁恥段",
+      "area": "143",
+      "portion": "8分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "490",
+      "portion": "4分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "12",
+      "portion": "5分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "1,147.64",
+      "portion": "10000 分之 195",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "321.67",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "494.04",
+      "portion": "10000 分之 1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "81.14",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "72.70",
+      "portion": "10000 分之 286",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "花蓮縣吉安鄉仁禮段",
+      "area": "110.70",
+      "portion": "全部",
+      "owner": "楊春妹"
+    },
+    {
+      "type": "建物",
+      "location": "花蓮縣花蓮市德安段",
+      "area": "97.93 (另附屬建 物 總 面 積:27.93)",
+      "portion": "4分之1",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "100.49 (另附屬建 物 總 面 積:9.93)",
+      "portion": "全部",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "1,608.35",
+      "portion": "10000 分之 76",
+      "owner": "何新湖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "371.55",
+      "portion": "10000 分之 74",
+      "owner": "何新湖"
+    }
+  ],
+  "constituency": "第十二選區 (平地原住民)"
+}

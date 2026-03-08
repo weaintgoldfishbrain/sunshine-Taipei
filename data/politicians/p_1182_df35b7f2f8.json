@@ -1,0 +1,32 @@
+{
+  "id": "p_1182_df35b7f2f8",
+  "councilId": "council_1182",
+  "name": "陳鴻源",
+  "title": "新北市議會 副議長",
+  "stats": {
+    "deposits": "170,909,648",
+    "securities": "6,869,738",
+    "debt": "4,566,000,000",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    96,
+    4,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "藥祇生醫股份 有限公司",
+      "broker": "元大證券",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "10",
+      "date": "114年08月11日",
+      "amount": "2,699,280"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

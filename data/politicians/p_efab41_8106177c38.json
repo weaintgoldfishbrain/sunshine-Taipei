@@ -1,0 +1,338 @@
+{
+  "id": "p_efab41_8106177c38",
+  "councilId": "council_efab41",
+  "name": "黃瀞瑩",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "2,363,972",
+    "securities": "414,660",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "18,582,722",
+    "realEstate": "24筆"
+  },
+  "chartData": [
+    0,
+    1,
+    0,
+    92,
+    0,
+    7,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "玉山金",
+      "broker": "富邦證券台北分公 司",
+      "owner": "黃瀞瑩",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "367.40"
+    },
+    {
+      "stock": "台積電",
+      "broker": "康和-板橋",
+      "owner": "劉家耀",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "860",
+      "date": "114年04月16日",
+      "amount": "17,200"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "265.80"
+    },
+    {
+      "stock": "國票金",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15",
+      "date": "114年09月17日",
+      "amount": "75"
+    },
+    {
+      "stock": "玉山金",
+      "broker": "富邦證券台北分公 司",
+      "owner": "黃瀞瑩",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "367.40"
+    },
+    {
+      "stock": "台積電",
+      "broker": "康和-板橋",
+      "owner": "劉家耀",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "860",
+      "date": "114年04月16日",
+      "amount": "17,200"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "265.80"
+    },
+    {
+      "stock": "國票金",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15",
+      "date": "114年09月17日",
+      "amount": "75"
+    },
+    {
+      "stock": "玉山金",
+      "broker": "富邦證券台北分公 司",
+      "owner": "黃瀞瑩",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "33.40",
+      "date": "114年08月27日",
+      "amount": "367.40"
+    },
+    {
+      "stock": "台積電",
+      "broker": "康和-板橋",
+      "owner": "劉家耀",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "860",
+      "date": "114年04月16日",
+      "amount": "17,200"
+    },
+    {
+      "stock": "台中銀",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "22.15",
+      "date": "114年09月17日",
+      "amount": "265.80"
+    },
+    {
+      "stock": "國票金",
+      "broker": "群益金鼎證券三重 分公司",
+      "owner": "劉家耀",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "15",
+      "date": "114年09月17日",
+      "amount": "75"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "日產",
+      "cc": "1,598",
+      "owner": "黃瀞瑩",
+      "license": "108 年 08 月01日"
+    },
+    {
+      "brand": "日產",
+      "cc": "1,598",
+      "owner": "黃瀞瑩",
+      "license": "108 年 08 月01日"
+    },
+    {
+      "brand": "日產",
+      "cc": "1,598",
+      "owner": "黃瀞瑩",
+      "license": "108 年 08 月01日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "2,800.13",
+      "portion": "10000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "918.89",
+      "portion": "10000 分之 371",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "2,800.13",
+      "portion": "10000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "918.89",
+      "portion": "10000 分之 371",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "1,205.11",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78",
+      "portion": "20000 分之 142",
+      "owner": "劉家耀"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "2,800.13",
+      "portion": "10000 分之 142",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "918.89",
+      "portion": "10000 分之 371",
+      "owner": "黃瀞瑩"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區溫泉段四小段",
+      "area": "78.56 (另附屬建 物 總 面 積:7.46)",
+      "portion": "2分之1",
+      "owner": "劉家耀"
+    }
+  ],
+  "constituency": "第一選區 (北投、士林)"
+}

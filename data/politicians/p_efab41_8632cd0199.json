@@ -1,0 +1,322 @@
+{
+  "id": "p_efab41_8632cd0199",
+  "councilId": "council_efab41",
+  "name": "顏若芳",
+  "title": "臺北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,835,313",
+    "securities": "0",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "10,537,999",
+    "realEstate": "39筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    97,
+    0,
+    3,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "VOLVO XC40 Twin Motor",
+      "cc": "1",
+      "owner": "顏若芳",
+      "license": "113 年 07 月31日"
+    },
+    {
+      "brand": "VOLVO XC40 Twin Motor",
+      "cc": "1",
+      "owner": "顏若芳",
+      "license": "113 年 07 月31日"
+    },
+    {
+      "brand": "VOLVO XC40 Twin Motor",
+      "cc": "1",
+      "owner": "顏若芳",
+      "license": "113 年 07 月31日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "187",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "188",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "180",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "3",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "42",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "2",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "34",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "113",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區延平段二小段",
+      "area": "189",
+      "portion": "10000 分之 928",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "107.08",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.22",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區延平段二小段",
+      "area": "52.70",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "187",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "188",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "180",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "3",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "42",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "2",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "34",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "113",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區延平段二小段",
+      "area": "189",
+      "portion": "10000 分之 928",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "107.08",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.22",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區延平段二小段",
+      "area": "52.70",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "187",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "1",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "188",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "180",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "3",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "42",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "2",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "34",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "113",
+      "portion": "10000 分之 251",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市大同區延平段二小段",
+      "area": "189",
+      "portion": "10000 分之 928",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "107.08",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區玉泉段一小段",
+      "area": "30.22",
+      "portion": "全部",
+      "owner": "顏若芳"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市大同區延平段二小段",
+      "area": "52.70",
+      "portion": "全部",
+      "owner": "顏若芳"
+    }
+  ],
+  "constituency": "第四選區 (中山、大同)"
+}

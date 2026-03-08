@@ -1,0 +1,113 @@
+{
+  "id": "p_c2a14d_46d39cb6a2",
+  "councilId": "council_c2a14d",
+  "name": "蘇錦雄",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,432,106",
+    "securities": "0",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "368,367",
+    "realEstate": "10筆"
+  },
+  "chartData": [
+    0,
+    1,
+    0,
+    98,
+    0,
+    0,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "蘇錦雄",
+      "license": "110 年 08 月11日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "蘇錦雄",
+      "license": "110 年 08 月11日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "1,119.46",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "703.29",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "405.11",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉萬年段",
+      "area": "119",
+      "portion": "全部",
+      "owner": "徐秀英"
+    },
+    {
+      "type": "建物",
+      "location": "臺東縣東河鄉萬年段",
+      "area": "123.84 (另附屬建 物 總 面 積:7.56)",
+      "portion": "全部",
+      "owner": "徐秀英"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "1,119.46",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "703.29",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉北都蘭段",
+      "area": "405.11",
+      "portion": "全部",
+      "owner": "蘇錦雄"
+    },
+    {
+      "type": "土地",
+      "location": "臺東縣東河鄉萬年段",
+      "area": "119",
+      "portion": "全部",
+      "owner": "徐秀英"
+    },
+    {
+      "type": "建物",
+      "location": "臺東縣東河鄉萬年段",
+      "area": "123.84 (另附屬建 物 總 面 積:7.56)",
+      "portion": "全部",
+      "owner": "徐秀英"
+    }
+  ],
+  "constituency": "第十二選區 (平地原住民)"
+}

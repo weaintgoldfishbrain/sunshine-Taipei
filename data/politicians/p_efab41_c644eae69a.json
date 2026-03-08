@@ -1,0 +1,109 @@
+{
+  "id": "p_efab41_c644eae69a",
+  "councilId": "council_efab41",
+  "name": "郭昭巖",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "3,246,889",
+    "securities": "1,741,775",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "614,212",
+    "realEstate": "6筆"
+  },
+  "chartData": [
+    0,
+    5,
+    3,
+    91,
+    0,
+    1,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "福特六和",
+      "cc": "993",
+      "owner": "郭昭巖",
+      "license": "111 年 08 月10日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "郭昭巖",
+      "license": "113 年 12 月12日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "993",
+      "owner": "郭昭巖",
+      "license": "111 年 08 月10日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "郭昭巖",
+      "license": "113 年 12 月12日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "993",
+      "owner": "郭昭巖",
+      "license": "111 年 08 月10日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "郭昭巖",
+      "license": "113 年 12 月12日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市中和區大智段",
+      "area": "187.93",
+      "portion": "5分之1",
+      "owner": "郭昭巖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區大智段",
+      "area": "117.62 (另附屬建 物 總 面 積:9.92)",
+      "portion": "全部",
+      "owner": "郭昭巖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區大智段",
+      "area": "187.93",
+      "portion": "5分之1",
+      "owner": "郭昭巖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區大智段",
+      "area": "117.62 (另附屬建 物 總 面 積:9.92)",
+      "portion": "全部",
+      "owner": "郭昭巖"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區大智段",
+      "area": "187.93",
+      "portion": "5分之1",
+      "owner": "郭昭巖"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區大智段",
+      "area": "117.62 (另附屬建 物 總 面 積:9.92)",
+      "portion": "全部",
+      "owner": "郭昭巖"
+    }
+  ],
+  "constituency": "第五選區 (中正、萬華)"
+}

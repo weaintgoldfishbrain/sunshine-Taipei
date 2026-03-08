@@ -1,576 +1,674 @@
 {
-  "p_efab41_fe4d16": {
-    "id": "p_efab41_fe4d16",
-    "councilId": "council_efab41",
-    "name": "戴錫欽",
-    "title": "臺北市議會 議長",
-    "constituency": "第三選區 (松山、信義)"
-  },
-  "p_efab41_be361d": {
-    "id": "p_efab41_be361d",
-    "councilId": "council_efab41",
-    "name": "葉林傳",
-    "title": "臺北市議會 副議長",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_cee0f7": {
-    "id": "p_efab41_cee0f7",
-    "councilId": "council_efab41",
-    "name": "王孝維",
-    "title": "臺北市議會 議員",
-    "constituency": "第二選區 (內湖、南港)"
-  },
-  "p_efab41_572fb5": {
-    "id": "p_efab41_572fb5",
-    "councilId": "council_efab41",
-    "name": "王欣儀",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_0ca8df": {
-    "id": "p_efab41_0ca8df",
-    "councilId": "council_efab41",
-    "name": "吳志剛",
-    "title": "臺北市議會 議員",
-    "constituency": "第五選區 (中正、萬華)"
-  },
-  "p_efab41_97f347": {
-    "id": "p_efab41_97f347",
-    "councilId": "council_efab41",
-    "name": "李芳儒",
-    "title": "臺北市議會 議員",
-    "constituency": "第七選區 (平地原住民)"
-  },
-  "p_efab41_506c97": {
-    "id": "p_efab41_506c97",
-    "councilId": "council_efab41",
-    "name": "李建昌",
-    "title": "臺北市議會 議員",
-    "constituency": "第二選區 (內湖、南港)"
-  },
-  "p_efab41_ceae31": {
-    "id": "p_efab41_ceae31",
-    "councilId": "council_efab41",
-    "name": "李柏毅",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_6fcfe7": {
-    "id": "p_efab41_6fcfe7",
-    "councilId": "council_efab41",
-    "name": "李傅中武",
-    "title": "臺北市議會 議員",
-    "constituency": "第八選區 (山地原住民)"
-  },
-  "p_efab41_aeae91": {
-    "id": "p_efab41_aeae91",
-    "councilId": "council_efab41",
-    "name": "汪志冰",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_bd23d2": {
-    "id": "p_efab41_bd23d2",
-    "councilId": "council_efab41",
-    "name": "林世宗",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_a8974c": {
-    "id": "p_efab41_a8974c",
-    "councilId": "council_efab41",
-    "name": "林杏兒",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_6b1253": {
-    "id": "p_efab41_6b1253",
-    "councilId": "council_efab41",
-    "name": "林亮君",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_ca3363": {
-    "id": "p_efab41_ca3363",
-    "councilId": "council_efab41",
-    "name": "林珍羽",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_f8c1a4": {
-    "id": "p_efab41_f8c1a4",
-    "councilId": "council_efab41",
-    "name": "侯漢廷",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_468ae4": {
-    "id": "p_efab41_468ae4",
-    "councilId": "council_efab41",
-    "name": "柳采葳",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_552432": {
-    "id": "p_efab41_552432",
-    "councilId": "council_efab41",
-    "name": "洪健益",
-    "title": "臺北市議會 議員",
-    "constituency": "第三選區 (松山、信義)"
-  },
-  "p_efab41_4634a1": {
-    "id": "p_efab41_4634a1",
-    "councilId": "council_efab41",
-    "name": "洪婉臻",
-    "title": "臺北市議會 議員",
-    "constituency": "第五選區 (中正、萬華)"
-  },
-  "p_efab41_677247": {
-    "id": "p_efab41_677247",
-    "councilId": "council_efab41",
-    "name": "徐弘庭",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_ab11fd": {
-    "id": "p_efab41_ab11fd",
-    "councilId": "council_efab41",
-    "name": "秦慧珠",
-    "title": "臺北市議會 議員",
-    "constituency": "第三選區 (松山、信義)"
-  },
-  "p_efab41_02efe7": {
-    "id": "p_efab41_02efe7",
-    "councilId": "council_efab41",
-    "name": "耿葳",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_c644ea": {
-    "id": "p_efab41_c644ea",
-    "councilId": "council_efab41",
-    "name": "郭昭巖",
-    "title": "臺北市議會 議員",
-    "constituency": "第五選區 (中正、萬華)"
-  },
-  "p_efab41_130868": {
-    "id": "p_efab41_130868",
-    "councilId": "council_efab41",
-    "name": "陳怡君",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_feecf2": {
-    "id": "p_efab41_feecf2",
-    "councilId": "council_efab41",
-    "name": "陳宥丞",
-    "title": "臺北市議會 議員",
-    "constituency": "第二選區 (內湖、南港)"
-  },
-  "p_efab41_fc6fa6": {
-    "id": "p_efab41_fc6fa6",
-    "councilId": "council_efab41",
-    "name": "陳重文",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_91c5cc": {
-    "id": "p_efab41_91c5cc",
-    "councilId": "council_efab41",
-    "name": "陳慈慧",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_b35f9f": {
-    "id": "p_efab41_b35f9f",
-    "councilId": "council_efab41",
-    "name": "陳賢蔚",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_add37c": {
-    "id": "p_efab41_add37c",
-    "councilId": "council_efab41",
-    "name": "陳錦祥",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_f9d912": {
-    "id": "p_efab41_f9d912",
-    "councilId": "council_efab41",
-    "name": "張文潔",
-    "title": "臺北市議會 議員",
-    "constituency": "第三選區 (松山、信義)"
-  },
-  "p_efab41_407661": {
-    "id": "p_efab41_407661",
-    "councilId": "council_efab41",
-    "name": "張志豪",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_d5b147": {
-    "id": "p_efab41_d5b147",
-    "councilId": "council_efab41",
-    "name": "張斯綱",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_1a4848": {
-    "id": "p_efab41_1a4848",
-    "councilId": "council_efab41",
-    "name": "許淑華",
-    "title": "臺北市議會 議員",
-    "constituency": "第三選區 (松山、信義)"
-  },
-  "p_efab41_810617": {
-    "id": "p_efab41_810617",
-    "councilId": "council_efab41",
-    "name": "黃瀞瑩",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_7fd067": {
-    "id": "p_efab41_7fd067",
-    "councilId": "council_efab41",
-    "name": "楊植斗",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_62e41e": {
-    "id": "p_efab41_62e41e",
-    "councilId": "council_efab41",
-    "name": "鍾沛君",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_f27d1e": {
-    "id": "p_efab41_f27d1e",
-    "councilId": "council_efab41",
-    "name": "簡舒培",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_f312fd": {
-    "id": "p_efab41_f312fd",
-    "councilId": "council_efab41",
-    "name": "陳炳甫",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_efab41_d0fb08": {
-    "id": "p_efab41_d0fb08",
-    "councilId": "council_efab41",
-    "name": "曾獻瑩",
-    "title": "臺北市議會 議員",
-    "constituency": "第六選區 (大安、文山)"
-  },
-  "p_efab41_b73def": {
-    "id": "p_efab41_b73def",
-    "councilId": "council_efab41",
-    "name": "游淑慧",
-    "title": "臺北市議會 議員",
-    "constituency": "第二選區 (內湖、南港)"
-  },
-  "p_efab41_550d64": {
-    "id": "p_efab41_550d64",
-    "councilId": "council_efab41",
-    "name": "劉耀仁",
-    "title": "臺北市議會 議員",
-    "constituency": "第五選區 (中正、萬華)"
-  },
-  "p_efab41_a46164": {
-    "id": "p_efab41_a46164",
-    "councilId": "council_efab41",
-    "name": "鍾佩玲",
-    "title": "臺北市議會 議員",
-    "constituency": "第一選區 (北投、士林)"
-  },
-  "p_efab41_f15b2c": {
-    "id": "p_efab41_f15b2c",
-    "councilId": "council_efab41",
-    "name": "闕枚莎",
-    "title": "臺北市議會 議員",
-    "constituency": "第二選區 (內湖、南港)"
-  },
-  "p_efab41_8632cd": {
-    "id": "p_efab41_8632cd",
-    "councilId": "council_efab41",
-    "name": "顏若芳",
-    "title": "臺北市議會 議員",
-    "constituency": "第四選區 (中山、大同)"
-  },
-  "p_c2a14d_200caa": {
-    "id": "p_c2a14d_200caa",
-    "councilId": "council_c2a14d",
-    "name": "蔣根煌",
-    "title": "新北市議會 議長",
-    "constituency": "第三選區 (新莊)"
-  },
-  "p_c2a14d_df35b7": {
-    "id": "p_c2a14d_df35b7",
-    "councilId": "council_c2a14d",
-    "name": "陳鴻源",
-    "title": "新北市議會 副議長",
-    "constituency": "第七選區 (永和)"
-  },
-  "p_c2a14d_03b223": {
-    "id": "p_c2a14d_03b223",
-    "councilId": "council_c2a14d",
-    "name": "山田摩衣",
-    "title": "新北市議會 議員",
-    "constituency": "第五選區 (板橋)"
-  },
-  "p_c2a14d_4b7d90": {
-    "id": "p_c2a14d_4b7d90",
-    "councilId": "council_c2a14d",
-    "name": "呂家愷",
-    "title": "新北市議會 議員",
-    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
-  },
-  "p_c2a14d_c34f7b": {
-    "id": "p_c2a14d_c34f7b",
-    "councilId": "council_c2a14d",
-    "name": "宋明宗",
-    "title": "新北市議會 議員",
-    "constituency": "第二選區 (五股、泰山、林口)"
-  },
-  "p_c2a14d_29f7e0": {
-    "id": "p_c2a14d_29f7e0",
-    "councilId": "council_c2a14d",
-    "name": "宋 雨 蓁 Nikar ． Falong",
-    "title": "新北市議會 議員",
-    "constituency": "第十二選區 (平地原住民)"
-  },
-  "p_c2a14d_f07d53": {
-    "id": "p_c2a14d_f07d53",
-    "councilId": "council_c2a14d",
-    "name": "李余典",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_bf8c7b": {
-    "id": "p_c2a14d_bf8c7b",
-    "councilId": "council_c2a14d",
-    "name": "李倩萍",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_4df574": {
-    "id": "p_c2a14d_4df574",
-    "councilId": "council_c2a14d",
-    "name": "李翁月娥",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_21e016": {
-    "id": "p_c2a14d_21e016",
-    "councilId": "council_c2a14d",
-    "name": "邱烽堯",
-    "title": "新北市議會 議員",
-    "constituency": "第六選區 (中和)"
-  },
-  "p_c2a14d_b1741b": {
-    "id": "p_c2a14d_b1741b",
-    "councilId": "council_c2a14d",
-    "name": "邱婷蔚",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_c10780": {
-    "id": "p_c2a14d_c10780",
-    "councilId": "council_c2a14d",
-    "name": "卓冠廷",
-    "title": "新北市議會 議員",
-    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
-  },
-  "p_c2a14d_a271b0": {
-    "id": "p_c2a14d_a271b0",
-    "councilId": "council_c2a14d",
-    "name": "周雅玲",
-    "title": "新北市議會 議員",
-    "constituency": "第十一選區 (金山、萬里、汐止)"
-  },
-  "p_c2a14d_4d5903": {
-    "id": "p_c2a14d_4d5903",
-    "councilId": "council_c2a14d",
-    "name": "林國春",
-    "title": "新北市議會 議員",
-    "constituency": "第五選區 (板橋)"
-  },
-  "p_c2a14d_651051": {
-    "id": "p_c2a14d_651051",
-    "councilId": "council_c2a14d",
-    "name": "林裔綺",
-    "title": "新北市議會 議員",
-    "constituency": "第十選區 (平溪、瑞芳、雙溪、貢寮)"
-  },
-  "p_c2a14d_4fbd6f": {
-    "id": "p_c2a14d_4fbd6f",
-    "councilId": "council_c2a14d",
-    "name": "林銘仁",
-    "title": "新北市議會 議員",
-    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
-  },
-  "p_c2a14d_8e145c": {
-    "id": "p_c2a14d_8e145c",
-    "councilId": "council_c2a14d",
-    "name": "金瑞龍",
-    "title": "新北市議會 議員",
-    "constituency": "第六選區 (中和)"
-  },
-  "p_c2a14d_b17737": {
-    "id": "p_c2a14d_b17737",
-    "councilId": "council_c2a14d",
-    "name": "洪佳君",
-    "title": "新北市議會 議員",
-    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
-  },
-  "p_c2a14d_21e9d0": {
-    "id": "p_c2a14d_21e9d0",
-    "councilId": "council_c2a14d",
-    "name": "翁震州",
-    "title": "新北市議會 議員",
-    "constituency": "第三選區 (新莊)"
-  },
-  "p_c2a14d_fc6896": {
-    "id": "p_c2a14d_fc6896",
-    "councilId": "council_c2a14d",
-    "name": "陳乃瑜",
-    "title": "新北市議會 議員",
-    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
-  },
-  "p_c2a14d_58bde3": {
-    "id": "p_c2a14d_58bde3",
-    "councilId": "council_c2a14d",
-    "name": "陳世軒",
-    "title": "新北市議會 議員",
-    "constituency": "第三選區 (新莊)"
-  },
-  "p_c2a14d_9157ef": {
-    "id": "p_c2a14d_9157ef",
-    "councilId": "council_c2a14d",
-    "name": "陳永福",
-    "title": "新北市議會 議員",
-    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
-  },
-  "p_c2a14d_2880b7": {
-    "id": "p_c2a14d_2880b7",
-    "councilId": "council_c2a14d",
-    "name": "陳明義",
-    "title": "新北市議會 議員",
-    "constituency": "第二選區 (五股、泰山、林口)"
-  },
-  "p_c2a14d_1b7899": {
-    "id": "p_c2a14d_1b7899",
-    "councilId": "council_c2a14d",
-    "name": "陳啟能",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_75c1b0": {
-    "id": "p_c2a14d_75c1b0",
-    "councilId": "council_c2a14d",
-    "name": "陳儀君",
-    "title": "新北市議會 議員",
-    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
-  },
-  "p_c2a14d_bb5125": {
-    "id": "p_c2a14d_bb5125",
-    "councilId": "council_c2a14d",
-    "name": "陳錦錠",
-    "title": "新北市議會 議員",
-    "constituency": "第六選區 (中和)"
-  },
-  "p_c2a14d_2c675d": {
-    "id": "p_c2a14d_2c675d",
-    "councilId": "council_c2a14d",
-    "name": "馬見 Lahuy．Ipin",
-    "title": "新北市議會 議員",
-    "constituency": "第十三選區 (山地原住民)"
-  },
-  "p_c2a14d_04f5d5": {
-    "id": "p_c2a14d_04f5d5",
-    "councilId": "council_c2a14d",
-    "name": "張維倩",
-    "title": "新北市議會 議員",
-    "constituency": "第六選區 (中和)"
-  },
-  "p_c2a14d_77e734": {
-    "id": "p_c2a14d_77e734",
-    "councilId": "council_c2a14d",
-    "name": "黃心華",
-    "title": "新北市議會 議員",
-    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
-  },
-  "p_c2a14d_01fd3b": {
-    "id": "p_c2a14d_01fd3b",
+  "p_c2a14d_01fd3b76a1": {
+    "id": "p_c2a14d_01fd3b76a1",
     "councilId": "council_c2a14d",
     "name": "黃桂蘭",
     "title": "新北市議會 議員",
     "constituency": "第四選區 (三重、蘆洲)"
   },
-  "p_c2a14d_ab71a7": {
-    "id": "p_c2a14d_ab71a7",
+  "p_c2a14d_03b2235697": {
+    "id": "p_c2a14d_03b2235697",
     "councilId": "council_c2a14d",
-    "name": "黃淑君",
+    "name": "山田摩衣",
     "title": "新北市議會 議員",
     "constituency": "第五選區 (板橋)"
   },
-  "p_c2a14d_0d037b": {
-    "id": "p_c2a14d_0d037b",
+  "p_c2a14d_04f5d5eb2b": {
+    "id": "p_c2a14d_04f5d5eb2b",
+    "councilId": "council_c2a14d",
+    "name": "張維倩",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_0d037b1bb4": {
+    "id": "p_c2a14d_0d037b1bb4",
     "councilId": "council_c2a14d",
     "name": "彭一書",
     "title": "新北市議會 議員",
     "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
   },
-  "p_c2a14d_1b6772": {
-    "id": "p_c2a14d_1b6772",
-    "councilId": "council_c2a14d",
-    "name": "彭佳芸",
-    "title": "新北市議會 議員",
-    "constituency": "第四選區 (三重、蘆洲)"
-  },
-  "p_c2a14d_6a0b9d": {
-    "id": "p_c2a14d_6a0b9d",
-    "councilId": "council_c2a14d",
-    "name": "曾煥嘉",
-    "title": "新北市議會 議員",
-    "constituency": "第五選區 (板橋)"
-  },
-  "p_c2a14d_5e9667": {
-    "id": "p_c2a14d_5e9667",
-    "councilId": "council_c2a14d",
-    "name": "游輝宂",
-    "title": "新北市議會 議員",
-    "constituency": "第六選區 (中和)"
-  },
-  "p_c2a14d_f28217": {
-    "id": "p_c2a14d_f28217",
-    "councilId": "council_c2a14d",
-    "name": "蔡健棠",
-    "title": "新北市議會 議員",
-    "constituency": "第三選區 (新莊)"
-  },
-  "p_c2a14d_0d0669": {
-    "id": "p_c2a14d_0d0669",
+  "p_c2a14d_0d066992fe": {
+    "id": "p_c2a14d_0d066992fe",
     "councilId": "council_c2a14d",
     "name": "蔡淑君",
     "title": "新北市議會 議員",
     "constituency": "第二選區 (五股、泰山、林口)"
   },
-  "p_c2a14d_40837e": {
-    "id": "p_c2a14d_40837e",
+  "p_c2a14d_1b67729b4f": {
+    "id": "p_c2a14d_1b67729b4f",
+    "councilId": "council_c2a14d",
+    "name": "彭佳芸",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_1b78991684": {
+    "id": "p_c2a14d_1b78991684",
+    "councilId": "council_c2a14d",
+    "name": "陳啟能",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_200caa1182": {
+    "id": "p_c2a14d_200caa1182",
+    "councilId": "council_c2a14d",
+    "name": "蔣根煌",
+    "title": "新北市議會 議長",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_21e01665a3": {
+    "id": "p_c2a14d_21e01665a3",
+    "councilId": "council_c2a14d",
+    "name": "邱烽堯",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_21e9d02722": {
+    "id": "p_c2a14d_21e9d02722",
+    "councilId": "council_c2a14d",
+    "name": "翁震州",
+    "title": "新北市議會 議員",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_2880b7c923": {
+    "id": "p_c2a14d_2880b7c923",
+    "councilId": "council_c2a14d",
+    "name": "陳明義",
+    "title": "新北市議會 議員",
+    "constituency": "第二選區 (五股、泰山、林口)"
+  },
+  "p_c2a14d_29f7e0cb27": {
+    "id": "p_c2a14d_29f7e0cb27",
+    "councilId": "council_c2a14d",
+    "name": "宋雨蓁Nikar．Falong",
+    "title": "新北市議會 議員",
+    "constituency": "第十二選區 (平地原住民)"
+  },
+  "p_c2a14d_2c675d34ec": {
+    "id": "p_c2a14d_2c675d34ec",
+    "councilId": "council_c2a14d",
+    "name": "馬見Lahuy．Ipin",
+    "title": "新北市議會 議員",
+    "constituency": "第十三選區 (山地原住民)"
+  },
+  "p_c2a14d_40837e4e6c": {
+    "id": "p_c2a14d_40837e4e6c",
     "councilId": "council_c2a14d",
     "name": "蔡錦賢",
     "title": "新北市議會 議員",
     "constituency": "第一選區 (淡水、石門、三芝、八里)"
   },
-  "p_c2a14d_9baecc": {
-    "id": "p_c2a14d_9baecc",
+  "p_c2a14d_46d39cb6a2": {
+    "id": "p_c2a14d_46d39cb6a2",
+    "councilId": "council_c2a14d",
+    "name": "蘇錦雄",
+    "title": "新北市議會 議員",
+    "constituency": "第十二選區 (平地原住民)"
+  },
+  "p_c2a14d_4b7d901032": {
+    "id": "p_c2a14d_4b7d901032",
+    "councilId": "council_c2a14d",
+    "name": "呂家愷",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_4d59031c27": {
+    "id": "p_c2a14d_4d59031c27",
+    "councilId": "council_c2a14d",
+    "name": "林國春",
+    "title": "新北市議會 議員",
+    "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_4df5746ff8": {
+    "id": "p_c2a14d_4df5746ff8",
+    "councilId": "council_c2a14d",
+    "name": "李翁月娥",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_4fbd6f1e66": {
+    "id": "p_c2a14d_4fbd6f1e66",
+    "councilId": "council_c2a14d",
+    "name": "林銘仁",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_58bde30d32": {
+    "id": "p_c2a14d_58bde30d32",
+    "councilId": "council_c2a14d",
+    "name": "陳世軒",
+    "title": "新北市議會 議員",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_5e9667f93f": {
+    "id": "p_c2a14d_5e9667f93f",
+    "councilId": "council_c2a14d",
+    "name": "游輝宂",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_6510516ced": {
+    "id": "p_c2a14d_6510516ced",
+    "councilId": "council_c2a14d",
+    "name": "林裔綺",
+    "title": "新北市議會 議員",
+    "constituency": "第十選區 (平溪、瑞芳、雙溪、貢寮)"
+  },
+  "p_c2a14d_6a0b9d2366": {
+    "id": "p_c2a14d_6a0b9d2366",
+    "councilId": "council_c2a14d",
+    "name": "曾煥嘉",
+    "title": "新北市議會 議員",
+    "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_75c1b0a956": {
+    "id": "p_c2a14d_75c1b0a956",
+    "councilId": "council_c2a14d",
+    "name": "陳儀君",
+    "title": "新北市議會 議員",
+    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+  },
+  "p_c2a14d_77e7341d26": {
+    "id": "p_c2a14d_77e7341d26",
+    "councilId": "council_c2a14d",
+    "name": "黃心華",
+    "title": "新北市議會 議員",
+    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+  },
+  "p_c2a14d_7e976dbe09": {
+    "id": "p_c2a14d_7e976dbe09",
+    "councilId": "council_c2a14d",
+    "name": "黃永昌",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_8523169065": {
+    "id": "p_c2a14d_8523169065",
+    "councilId": "council_c2a14d",
+    "name": "張嘉玲",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_8c3cac0a50": {
+    "id": "p_c2a14d_8c3cac0a50",
+    "councilId": "council_c2a14d",
+    "name": "林金結",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_8e145c7dc8": {
+    "id": "p_c2a14d_8e145c7dc8",
+    "councilId": "council_c2a14d",
+    "name": "金瑞龍",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_8eb3617961": {
+    "id": "p_c2a14d_8eb3617961",
+    "councilId": "council_c2a14d",
+    "name": "蘇泓欽",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_9157ef6374": {
+    "id": "p_c2a14d_9157ef6374",
+    "councilId": "council_c2a14d",
+    "name": "陳永福",
+    "title": "新北市議會 議員",
+    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+  },
+  "p_c2a14d_92d29f4e5d": {
+    "id": "p_c2a14d_92d29f4e5d",
+    "councilId": "council_c2a14d",
+    "name": "林秉宥",
+    "title": "新北市議會 議員",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_955ac6598b": {
+    "id": "p_c2a14d_955ac6598b",
+    "councilId": "council_c2a14d",
+    "name": "周勝考",
+    "title": "新北市議會 議員",
+    "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_96dc6913fe": {
+    "id": "p_c2a14d_96dc6913fe",
+    "councilId": "council_c2a14d",
+    "name": "戴湘儀",
+    "title": "新北市議會 議員",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_9baeccbaf4": {
+    "id": "p_c2a14d_9baeccbaf4",
     "councilId": "council_c2a14d",
     "name": "劉美芳",
     "title": "新北市議會 議員",
     "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_a271b05205": {
+    "id": "p_c2a14d_a271b05205",
+    "councilId": "council_c2a14d",
+    "name": "周雅玲",
+    "title": "新北市議會 議員",
+    "constituency": "第十一選區 (金山、萬里、汐止)"
+  },
+  "p_c2a14d_a72fa69c07": {
+    "id": "p_c2a14d_a72fa69c07",
+    "councilId": "council_c2a14d",
+    "name": "劉哲彰",
+    "title": "新北市議會 議員",
+    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+  },
+  "p_c2a14d_a7c70b7332": {
+    "id": "p_c2a14d_a7c70b7332",
+    "councilId": "council_c2a14d",
+    "name": "白珮茹",
+    "title": "新北市議會 議員",
+    "constituency": "第十一選區 (金山、萬里、汐止)"
+  },
+  "p_c2a14d_ab71a76402": {
+    "id": "p_c2a14d_ab71a76402",
+    "councilId": "council_c2a14d",
+    "name": "黃淑君",
+    "title": "新北市議會 議員",
+    "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_b1741b6661": {
+    "id": "p_c2a14d_b1741b6661",
+    "councilId": "council_c2a14d",
+    "name": "邱婷蔚",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_b17737fdd1": {
+    "id": "p_c2a14d_b17737fdd1",
+    "councilId": "council_c2a14d",
+    "name": "洪佳君",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_bb51256dd1": {
+    "id": "p_c2a14d_bb51256dd1",
+    "councilId": "council_c2a14d",
+    "name": "陳錦錠",
+    "title": "新北市議會 議員",
+    "constituency": "第六選區 (中和)"
+  },
+  "p_c2a14d_bf8c7b7033": {
+    "id": "p_c2a14d_bf8c7b7033",
+    "councilId": "council_c2a14d",
+    "name": "李倩萍",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_c10780695c": {
+    "id": "p_c2a14d_c10780695c",
+    "councilId": "council_c2a14d",
+    "name": "卓冠廷",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_c34f7b8535": {
+    "id": "p_c2a14d_c34f7b8535",
+    "councilId": "council_c2a14d",
+    "name": "宋明宗",
+    "title": "新北市議會 議員",
+    "constituency": "第二選區 (五股、泰山、林口)"
+  },
+  "p_c2a14d_c3688cdb4e": {
+    "id": "p_c2a14d_c3688cdb4e",
+    "councilId": "council_c2a14d",
+    "name": "李宇翔",
+    "title": "新北市議會 議員",
+    "constituency": "第二選區 (五股、泰山、林口)"
+  },
+  "p_c2a14d_ca81fe9148": {
+    "id": "p_c2a14d_ca81fe9148",
+    "councilId": "council_c2a14d",
+    "name": "楊春妹",
+    "title": "新北市議會 議員",
+    "constituency": "第十二選區 (平地原住民)"
+  },
+  "p_c2a14d_d010c1b1a2": {
+    "id": "p_c2a14d_d010c1b1a2",
+    "councilId": "council_c2a14d",
+    "name": "廖宜琨",
+    "title": "新北市議會 議員",
+    "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+  },
+  "p_c2a14d_df35b7f2f8": {
+    "id": "p_c2a14d_df35b7f2f8",
+    "councilId": "council_c2a14d",
+    "name": "陳鴻源",
+    "title": "新北市議會 副議長",
+    "constituency": "第七選區 (永和)"
+  },
+  "p_c2a14d_f07d53f868": {
+    "id": "p_c2a14d_f07d53f868",
+    "councilId": "council_c2a14d",
+    "name": "李余典",
+    "title": "新北市議會 議員",
+    "constituency": "第四選區 (三重、蘆洲)"
+  },
+  "p_c2a14d_f282179c37": {
+    "id": "p_c2a14d_f282179c37",
+    "councilId": "council_c2a14d",
+    "name": "蔡健棠",
+    "title": "新北市議會 議員",
+    "constituency": "第三選區 (新莊)"
+  },
+  "p_c2a14d_f829e5719e": {
+    "id": "p_c2a14d_f829e5719e",
+    "councilId": "council_c2a14d",
+    "name": "戴瑋姍",
+    "title": "新北市議會 議員",
+    "constituency": "第五選區 (板橋)"
+  },
+  "p_c2a14d_fc6896e981": {
+    "id": "p_c2a14d_fc6896e981",
+    "councilId": "council_c2a14d",
+    "name": "陳乃瑜",
+    "title": "新北市議會 議員",
+    "constituency": "第九選區 (新店、深坑、石碇、坪林、烏來)"
+  },
+  "p_efab41_02efe73f7b": {
+    "id": "p_efab41_02efe73f7b",
+    "councilId": "council_efab41",
+    "name": "耿葳",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_0ca8df2ad3": {
+    "id": "p_efab41_0ca8df2ad3",
+    "councilId": "council_efab41",
+    "name": "吳志剛",
+    "title": "臺北市議會 議員",
+    "constituency": "第五選區 (中正、萬華)"
+  },
+  "p_efab41_1308681c0d": {
+    "id": "p_efab41_1308681c0d",
+    "councilId": "council_efab41",
+    "name": "陳怡君",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_1a48481381": {
+    "id": "p_efab41_1a48481381",
+    "councilId": "council_efab41",
+    "name": "許淑華",
+    "title": "臺北市議會 議員",
+    "constituency": "第三選區 (松山、信義)"
+  },
+  "p_efab41_4076611c35": {
+    "id": "p_efab41_4076611c35",
+    "councilId": "council_efab41",
+    "name": "張志豪",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_4634a17608": {
+    "id": "p_efab41_4634a17608",
+    "councilId": "council_efab41",
+    "name": "洪婉臻",
+    "title": "臺北市議會 議員",
+    "constituency": "第五選區 (中正、萬華)"
+  },
+  "p_efab41_468ae41e8d": {
+    "id": "p_efab41_468ae41e8d",
+    "councilId": "council_efab41",
+    "name": "柳采葳",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_506c972d54": {
+    "id": "p_efab41_506c972d54",
+    "councilId": "council_efab41",
+    "name": "李建昌",
+    "title": "臺北市議會 議員",
+    "constituency": "第二選區 (內湖、南港)"
+  },
+  "p_efab41_550d64bfa4": {
+    "id": "p_efab41_550d64bfa4",
+    "councilId": "council_efab41",
+    "name": "劉耀仁",
+    "title": "臺北市議會 議員",
+    "constituency": "第五選區 (中正、萬華)"
+  },
+  "p_efab41_55243293f7": {
+    "id": "p_efab41_55243293f7",
+    "councilId": "council_efab41",
+    "name": "洪健益",
+    "title": "臺北市議會 議員",
+    "constituency": "第三選區 (松山、信義)"
+  },
+  "p_efab41_572fb58c65": {
+    "id": "p_efab41_572fb58c65",
+    "councilId": "council_efab41",
+    "name": "王欣儀",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_62e41e666f": {
+    "id": "p_efab41_62e41e666f",
+    "councilId": "council_efab41",
+    "name": "鍾沛君",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_677247bcf5": {
+    "id": "p_efab41_677247bcf5",
+    "councilId": "council_efab41",
+    "name": "徐弘庭",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_6b12538874": {
+    "id": "p_efab41_6b12538874",
+    "councilId": "council_efab41",
+    "name": "林亮君",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_6fcfe735e8": {
+    "id": "p_efab41_6fcfe735e8",
+    "councilId": "council_efab41",
+    "name": "李傅中武",
+    "title": "臺北市議會 議員",
+    "constituency": "第八選區 (山地原住民)"
+  },
+  "p_efab41_7fd067bfb9": {
+    "id": "p_efab41_7fd067bfb9",
+    "councilId": "council_efab41",
+    "name": "楊植斗",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_8106177c38": {
+    "id": "p_efab41_8106177c38",
+    "councilId": "council_efab41",
+    "name": "黃瀞瑩",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_8632cd0199": {
+    "id": "p_efab41_8632cd0199",
+    "councilId": "council_efab41",
+    "name": "顏若芳",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_91c5cc88fc": {
+    "id": "p_efab41_91c5cc88fc",
+    "councilId": "council_efab41",
+    "name": "陳慈慧",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_97f3473124": {
+    "id": "p_efab41_97f3473124",
+    "councilId": "council_efab41",
+    "name": "李芳儒",
+    "title": "臺北市議會 議員",
+    "constituency": "第七選區 (平地原住民)"
+  },
+  "p_efab41_a46164b50a": {
+    "id": "p_efab41_a46164b50a",
+    "councilId": "council_efab41",
+    "name": "鍾佩玲",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_a8974cae79": {
+    "id": "p_efab41_a8974cae79",
+    "councilId": "council_efab41",
+    "name": "林杏兒",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_ab11fd7043": {
+    "id": "p_efab41_ab11fd7043",
+    "councilId": "council_efab41",
+    "name": "秦慧珠",
+    "title": "臺北市議會 議員",
+    "constituency": "第三選區 (松山、信義)"
+  },
+  "p_efab41_add37ccfaa": {
+    "id": "p_efab41_add37ccfaa",
+    "councilId": "council_efab41",
+    "name": "陳錦祥",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_aeae9162d1": {
+    "id": "p_efab41_aeae9162d1",
+    "councilId": "council_efab41",
+    "name": "汪志冰",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_b35f9f827a": {
+    "id": "p_efab41_b35f9f827a",
+    "councilId": "council_efab41",
+    "name": "陳賢蔚",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_b73def707d": {
+    "id": "p_efab41_b73def707d",
+    "councilId": "council_efab41",
+    "name": "游淑慧",
+    "title": "臺北市議會 議員",
+    "constituency": "第二選區 (內湖、南港)"
+  },
+  "p_efab41_bd23d229b0": {
+    "id": "p_efab41_bd23d229b0",
+    "councilId": "council_efab41",
+    "name": "林世宗",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_be361ddd2b": {
+    "id": "p_efab41_be361ddd2b",
+    "councilId": "council_efab41",
+    "name": "葉林傳",
+    "title": "臺北市議會 副議長",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_c644eae69a": {
+    "id": "p_efab41_c644eae69a",
+    "councilId": "council_efab41",
+    "name": "郭昭巖",
+    "title": "臺北市議會 議員",
+    "constituency": "第五選區 (中正、萬華)"
+  },
+  "p_efab41_ca33630b13": {
+    "id": "p_efab41_ca33630b13",
+    "councilId": "council_efab41",
+    "name": "林珍羽",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_ceae31cd2e": {
+    "id": "p_efab41_ceae31cd2e",
+    "councilId": "council_efab41",
+    "name": "李柏毅",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_cee0f725b3": {
+    "id": "p_efab41_cee0f725b3",
+    "councilId": "council_efab41",
+    "name": "王孝維",
+    "title": "臺北市議會 議員",
+    "constituency": "第二選區 (內湖、南港)"
+  },
+  "p_efab41_d0fb0852c7": {
+    "id": "p_efab41_d0fb0852c7",
+    "councilId": "council_efab41",
+    "name": "曾獻瑩",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_d5b14709b3": {
+    "id": "p_efab41_d5b14709b3",
+    "councilId": "council_efab41",
+    "name": "張斯綱",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_f15b2c698e": {
+    "id": "p_efab41_f15b2c698e",
+    "councilId": "council_efab41",
+    "name": "闕枚莎",
+    "title": "臺北市議會 議員",
+    "constituency": "第二選區 (內湖、南港)"
+  },
+  "p_efab41_f27d1e67a9": {
+    "id": "p_efab41_f27d1e67a9",
+    "councilId": "council_efab41",
+    "name": "簡舒培",
+    "title": "臺北市議會 議員",
+    "constituency": "第六選區 (大安、文山)"
+  },
+  "p_efab41_f312fd58fb": {
+    "id": "p_efab41_f312fd58fb",
+    "councilId": "council_efab41",
+    "name": "陳炳甫",
+    "title": "臺北市議會 議員",
+    "constituency": "第四選區 (中山、大同)"
+  },
+  "p_efab41_f8c1a46fd9": {
+    "id": "p_efab41_f8c1a46fd9",
+    "councilId": "council_efab41",
+    "name": "侯漢廷",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_f9d9126856": {
+    "id": "p_efab41_f9d9126856",
+    "councilId": "council_efab41",
+    "name": "張文潔",
+    "title": "臺北市議會 議員",
+    "constituency": "第三選區 (松山、信義)"
+  },
+  "p_efab41_fc6fa623a8": {
+    "id": "p_efab41_fc6fa623a8",
+    "councilId": "council_efab41",
+    "name": "陳重文",
+    "title": "臺北市議會 議員",
+    "constituency": "第一選區 (北投、士林)"
+  },
+  "p_efab41_fe4d16a2e6": {
+    "id": "p_efab41_fe4d16a2e6",
+    "councilId": "council_efab41",
+    "name": "戴錫欽",
+    "title": "臺北市議會 議長",
+    "constituency": "第三選區 (松山、信義)"
+  },
+  "p_efab41_feecf24130": {
+    "id": "p_efab41_feecf24130",
+    "councilId": "council_efab41",
+    "name": "陳宥丞",
+    "title": "臺北市議會 議員",
+    "constituency": "第二選區 (內湖、南港)"
   }
 }

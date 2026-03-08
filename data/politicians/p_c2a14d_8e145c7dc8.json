@@ -1,0 +1,907 @@
+{
+  "id": "p_c2a14d_8e145c7dc8",
+  "councilId": "council_c2a14d",
+  "name": "金瑞龍",
+  "title": "新北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,448,693",
+    "securities": "104,750",
+    "jewelry": "0",
+    "credit": "230,000,000",
+    "debt": "185,043,104",
+    "realEstate": "48筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    54,
+    26,
+    21,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "322,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "290,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "258,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "223,650"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "461,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "338,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "307,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "153,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "61,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "322,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "290,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "258,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "223,650"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "461,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "338,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "307,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "153,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "61,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "322,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "290,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "258,000"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "223,650"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "161,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "32.25",
+      "date": "114年10月09日",
+      "amount": "32,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "31.95",
+      "date": "114年10月09日",
+      "amount": "31,950"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "461,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "338,250"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "307,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "153,750"
+    },
+    {
+      "stock": "華新",
+      "broker": "元大-板橋",
+      "owner": "金瑞龍",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "30.75",
+      "date": "114年10月14日",
+      "amount": "61,500"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "10000 分之 31",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "100000 分 之30",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "3,439.59",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2133",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "49.59",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2061",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "83.37 (另附屬建 物 總 面 積:5.05)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "84.60",
+      "portion": "10分之1",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "79.80",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.77 (另附屬建 物 總 面 積:12.94)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1755",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之5870",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.78 (另附屬建 物 總 面 積:13.43)",
+      "portion": "全部",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1743",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之3718",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "1,102.42",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "10000 分之 31",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "100000 分 之30",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "3,439.59",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2133",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "49.59",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2061",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "83.37 (另附屬建 物 總 面 積:5.05)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "84.60",
+      "portion": "10分之1",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "79.80",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.77 (另附屬建 物 總 面 積:12.94)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1755",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之5870",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.78 (另附屬建 物 總 面 積:13.43)",
+      "portion": "全部",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1743",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之3718",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "1,102.42",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "10000 分之 31",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "10,002.02",
+      "portion": "100000 分 之30",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "3,439.59",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2133",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "49.59",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區民有段",
+      "area": "697.80",
+      "portion": "100000 分 之2061",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "83.37 (另附屬建 物 總 面 積:5.05)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "84.60",
+      "portion": "10分之1",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "79.80",
+      "portion": "100000 分 之305",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.77 (另附屬建 物 總 面 積:12.94)",
+      "portion": "全部",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1755",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之5870",
+      "owner": "金瑞龍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "80.78 (另附屬建 物 總 面 積:13.43)",
+      "portion": "全部",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "943.76",
+      "portion": "100000 分 之1743",
+      "owner": "陳美華"
+    },
+    {
+      "type": "建物",
+      "location": "新北市中和區民有段",
+      "area": "980.19",
+      "portion": "100000 分 之3718",
+      "owner": "陳美華"
+    },
+    {
+      "type": "土地",
+      "location": "新北市中和區三民段",
+      "area": "1,102.42",
+      "portion": "315分之1",
+      "owner": "陳美華"
+    }
+  ],
+  "constituency": "第六選區 (中和)"
+}

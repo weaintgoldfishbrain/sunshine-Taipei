@@ -1,0 +1,812 @@
+{
+  "id": "p_efab41_f27d1e67a9",
+  "councilId": "council_efab41",
+  "name": "簡舒培",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,213,767",
+    "securities": "1,713,954",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "12,395,713",
+    "realEstate": "42筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    96,
+    0,
+    3,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "975",
+      "date": "114年03月11日",
+      "amount": "975,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "871",
+      "date": "114年04月15日",
+      "amount": "871,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "985",
+      "date": "114年06月04日",
+      "amount": "985,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "120,910"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "92,660"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "12,430"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "3,575.40"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "2,902.80"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "975",
+      "date": "114年03月11日",
+      "amount": "975,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "871",
+      "date": "114年04月15日",
+      "amount": "871,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "985",
+      "date": "114年06月04日",
+      "amount": "985,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "120,910"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "92,660"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "12,430"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "3,575.40"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "2,902.80"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "仁寶",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "38.30",
+      "date": "114年03月11日",
+      "amount": "38,300"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "975",
+      "date": "114年03月11日",
+      "amount": "975,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "871",
+      "date": "114年04月15日",
+      "amount": "871,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "985",
+      "date": "114年06月04日",
+      "amount": "985,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "120,910"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "92,660"
+    },
+    {
+      "stock": "台積電",
+      "broker": "富邦-木柵",
+      "owner": "簡舒培",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,130",
+      "date": "114年08月06日",
+      "amount": "12,430"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達舊",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "3,575.40"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "30.15",
+      "date": "114年09月30日",
+      "amount": "3,045.15"
+    },
+    {
+      "stock": "佳世達",
+      "broker": "富邦綜合證券木柵 分公司",
+      "owner": "簡舒培",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "35.40",
+      "date": "114年10月07日",
+      "amount": "2,902.80"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "1,798",
+      "owner": "簡舒培",
+      "license": "107 年 02 月14日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "1,497",
+      "owner": "簡舒培",
+      "license": "112 年 12 月05日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,798",
+      "owner": "簡舒培",
+      "license": "107 年 02 月14日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "1,497",
+      "owner": "簡舒培",
+      "license": "112 年 12 月05日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,798",
+      "owner": "簡舒培",
+      "license": "107 年 02 月14日"
+    },
+    {
+      "brand": "福特六和",
+      "cc": "1,497",
+      "owner": "簡舒培",
+      "license": "112 年 12 月05日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "5,087.62",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "92.19",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "207.37",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "623.07",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區光明段",
+      "area": "582.33",
+      "portion": "2100 分之 99",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "14,002.76",
+      "portion": "10000 分之 31",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "3,272.81",
+      "portion": "10000 分之 32",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "904.93",
+      "portion": "10000 分之 34",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "522.40",
+      "portion": "10000 分之 30",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "73.42 (另附屬建 物 總 面 積:15.48)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "21,586.90",
+      "portion": "100000 分 之264",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "114.43 (另附屬建 物 總 面 積:10.87)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "892.19",
+      "portion": "21分之1",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "84.63 (另附屬建 物 總 面 積:10.60)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "5,087.62",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "92.19",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "207.37",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "623.07",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區光明段",
+      "area": "582.33",
+      "portion": "2100 分之 99",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "14,002.76",
+      "portion": "10000 分之 31",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "3,272.81",
+      "portion": "10000 分之 32",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "904.93",
+      "portion": "10000 分之 34",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "522.40",
+      "portion": "10000 分之 30",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "73.42 (另附屬建 物 總 面 積:15.48)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "21,586.90",
+      "portion": "100000 分 之264",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "114.43 (另附屬建 物 總 面 積:10.87)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "892.19",
+      "portion": "21分之1",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "84.63 (另附屬建 物 總 面 積:10.60)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "5,087.62",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "92.19",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "207.37",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區大同段",
+      "area": "623.07",
+      "portion": "10000 分之 27",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區光明段",
+      "area": "582.33",
+      "portion": "2100 分之 99",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "14,002.76",
+      "portion": "10000 分之 31",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "3,272.81",
+      "portion": "10000 分之 32",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "904.93",
+      "portion": "10000 分之 34",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "522.40",
+      "portion": "10000 分之 30",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "73.42 (另附屬建 物 總 面 積:15.48)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區大同段",
+      "area": "21,586.90",
+      "portion": "100000 分 之264",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "114.43 (另附屬建 物 總 面 積:10.87)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區光明段",
+      "area": "892.19",
+      "portion": "21分之1",
+      "owner": "簡舒培"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市文山區興泰段一小段",
+      "area": "84.63 (另附屬建 物 總 面 積:10.60)",
+      "portion": "全部",
+      "owner": "簡舒培"
+    }
+  ],
+  "constituency": "第六選區 (大安、文山)"
+}

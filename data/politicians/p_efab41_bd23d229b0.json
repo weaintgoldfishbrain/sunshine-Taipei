@@ -1,0 +1,614 @@
+{
+  "id": "p_efab41_bd23d229b0",
+  "councilId": "council_efab41",
+  "name": "林世宗",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "114,065,566",
+    "securities": "6,296,426",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "467,468",
+    "realEstate": "48筆"
+  },
+  "chartData": [
+    0,
+    19,
+    1,
+    80,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "26,150"
+    },
+    {
+      "stock": "華南金",
+      "broker": "富邦證券建國分公 司",
+      "owner": "陳郁美",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "641.70"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "26,150"
+    },
+    {
+      "stock": "華南金",
+      "broker": "富邦證券建國分公 司",
+      "owner": "陳郁美",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "641.70"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "130,750"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "52,300"
+    },
+    {
+      "stock": "華航",
+      "broker": "元富-城東",
+      "owner": "陳郁美",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "26.15",
+      "date": "114年01月06日",
+      "amount": "26,150"
+    },
+    {
+      "stock": "華南金",
+      "broker": "富邦證券建國分公 司",
+      "owner": "陳郁美",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "27.90",
+      "date": "114年08月29日",
+      "amount": "641.70"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "2,494",
+      "owner": "陳郁美",
+      "license": "102 年 11 月08日"
+    },
+    {
+      "brand": "BMW",
+      "cc": "3,260",
+      "owner": "陳郁美",
+      "license": "113 年 07 月26日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "2,494",
+      "owner": "陳郁美",
+      "license": "102 年 11 月08日"
+    },
+    {
+      "brand": "BMW",
+      "cc": "3,260",
+      "owner": "陳郁美",
+      "license": "113 年 07 月26日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "2,494",
+      "owner": "陳郁美",
+      "license": "102 年 11 月08日"
+    },
+    {
+      "brand": "BMW",
+      "cc": "3,260",
+      "owner": "陳郁美",
+      "license": "113 年 07 月26日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市八里區小八里坌段荖阡 坑小段",
+      "area": "26,918",
+      "portion": "122400 分 之215",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市金山區中角段西勢湖小 段",
+      "area": "119",
+      "portion": "10000 分之 3334",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,982",
+      "portion": "10000 分之 558",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "835",
+      "portion": "4分之1",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "743",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之1",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區立農段二小段",
+      "area": "2,741.76",
+      "portion": "160000 分 之934",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "196.69 (另附屬建 物 總 面 積:35.74)",
+      "portion": "全部",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "876.28",
+      "portion": "24分之4",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 470",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 24",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "187.45",
+      "portion": "10000 分之 561",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,049.17",
+      "portion": "10000 分之 2440",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區立農段二小段",
+      "area": "70.44",
+      "portion": "全部",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區小八里坌段荖阡 坑小段",
+      "area": "26,918",
+      "portion": "122400 分 之215",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市金山區中角段西勢湖小 段",
+      "area": "119",
+      "portion": "10000 分之 3334",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,982",
+      "portion": "10000 分之 558",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "835",
+      "portion": "4分之1",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "743",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之1",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區立農段二小段",
+      "area": "2,741.76",
+      "portion": "160000 分 之934",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "196.69 (另附屬建 物 總 面 積:35.74)",
+      "portion": "全部",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "876.28",
+      "portion": "24分之4",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 470",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 24",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "187.45",
+      "portion": "10000 分之 561",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,049.17",
+      "portion": "10000 分之 2440",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區立農段二小段",
+      "area": "70.44",
+      "portion": "全部",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區小八里坌段荖阡 坑小段",
+      "area": "26,918",
+      "portion": "122400 分 之215",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市金山區中角段西勢湖小 段",
+      "area": "119",
+      "portion": "10000 分之 3334",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,982",
+      "portion": "10000 分之 558",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "835",
+      "portion": "4分之1",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "743",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之1",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市北投區立農段二小段",
+      "area": "2,741.76",
+      "portion": "160000 分 之934",
+      "owner": "陳郁美"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "196.69 (另附屬建 物 總 面 積:35.74)",
+      "portion": "全部",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "876.28",
+      "portion": "24分之4",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 470",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "407.68",
+      "portion": "10000 分之 24",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "187.45",
+      "portion": "10000 分之 561",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區奇岩段一小段",
+      "area": "2,049.17",
+      "portion": "10000 分之 2440",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區洲美段二小段",
+      "area": "219.42 (另附屬建 物 總 面 積:54.08)",
+      "portion": "10000 分之 2262",
+      "owner": "林世宗"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市北投區立農段二小段",
+      "area": "70.44",
+      "portion": "全部",
+      "owner": "陳郁美"
+    }
+  ],
+  "constituency": "第一選區 (北投、士林)"
+}

@@ -1,0 +1,1163 @@
+{
+  "id": "p_efab41_cee0f725b3",
+  "councilId": "council_efab41",
+  "name": "王孝維",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,509,408",
+    "securities": "1,015,033",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "6,887,771",
+    "realEstate": "81筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    99,
+    0,
+    1,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "124,800"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "83,200"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "126,150"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "84,100"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "40.90",
+      "date": "114年09月19日",
+      "amount": "409,000"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "42.10",
+      "date": "114年09月22日",
+      "amount": "210,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.70",
+      "date": "114年09月23日",
+      "amount": "203,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "122,250"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "81,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,330",
+      "date": "114年09月24日",
+      "amount": "1,330,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,365",
+      "date": "114年10月02日",
+      "amount": "1,365,000"
+    },
+    {
+      "stock": "陽明",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55.90",
+      "date": "114年10月17日",
+      "amount": "559,000"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "124,800"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "83,200"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "126,150"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "84,100"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "40.90",
+      "date": "114年09月19日",
+      "amount": "409,000"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "42.10",
+      "date": "114年09月22日",
+      "amount": "210,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.70",
+      "date": "114年09月23日",
+      "amount": "203,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "122,250"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "81,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,330",
+      "date": "114年09月24日",
+      "amount": "1,330,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,365",
+      "date": "114年10月02日",
+      "amount": "1,365,000"
+    },
+    {
+      "stock": "陽明",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55.90",
+      "date": "114年10月17日",
+      "amount": "559,000"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "124,800"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "41.60",
+      "date": "114年09月04日",
+      "amount": "83,200"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "126,150"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "42.05",
+      "date": "114年09月11日",
+      "amount": "84,100"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "40.90",
+      "date": "114年09月19日",
+      "amount": "409,000"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "42.10",
+      "date": "114年09月22日",
+      "amount": "210,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.70",
+      "date": "114年09月23日",
+      "amount": "203,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "122,250"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "81,500"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "長興",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "40.75",
+      "date": "114年09月23日",
+      "amount": "40,750"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,330",
+      "date": "114年09月24日",
+      "amount": "1,330,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,365",
+      "date": "114年10月02日",
+      "amount": "1,365,000"
+    },
+    {
+      "stock": "陽明",
+      "broker": "元大-內湖",
+      "owner": "王孝維",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55.90",
+      "date": "114年10月17日",
+      "amount": "559,000"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "王孝維",
+      "license": "110 年 11 月16日"
+    },
+    {
+      "brand": "SKODA",
+      "cc": "1,498",
+      "owner": "王孝維",
+      "license": "112 年 04 月17日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,496",
+      "owner": "江美玲",
+      "license": "108 年 07 月30日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "王孝維",
+      "license": "110 年 11 月16日"
+    },
+    {
+      "brand": "SKODA",
+      "cc": "1,498",
+      "owner": "王孝維",
+      "license": "112 年 04 月17日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,496",
+      "owner": "江美玲",
+      "license": "108 年 07 月30日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "2,494",
+      "owner": "王孝維",
+      "license": "110 年 11 月16日"
+    },
+    {
+      "brand": "SKODA",
+      "cc": "1,498",
+      "owner": "王孝維",
+      "license": "112 年 04 月17日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,496",
+      "owner": "江美玲",
+      "license": "108 年 07 月30日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "286",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "233",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "490",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "856",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "4,011",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "720.21",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "37.84",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "137.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "21.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1,743.48",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "30.18",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "3.49",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1.98",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "54.85",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "353.30",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "281.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "17.02",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "61.35",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "109.36",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "303.13 (另附屬建 物 總 面 積:26.63)",
+      "portion": "全部",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "5,576.53",
+      "portion": "10000 分之 67",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "6,179.44",
+      "portion": "100000 分 之204",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "3,769.14",
+      "portion": "100000 分 之280",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "286",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "233",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "490",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "856",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "4,011",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "720.21",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "37.84",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "137.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "21.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1,743.48",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "30.18",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "3.49",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1.98",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "54.85",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "353.30",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "281.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "17.02",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "61.35",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "109.36",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "303.13 (另附屬建 物 總 面 積:26.63)",
+      "portion": "全部",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "5,576.53",
+      "portion": "10000 分之 67",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "6,179.44",
+      "portion": "100000 分 之204",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "3,769.14",
+      "portion": "100000 分 之280",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "286",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "233",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "490",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "856",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區石底段菁桐坑小 段",
+      "area": "4,011",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "720.21",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "37.84",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "137.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "21.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1,743.48",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "30.18",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "3.49",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "1.98",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "54.85",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "353.30",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.69",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "0.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "281.34",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "17.02",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "61.35",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "土地",
+      "location": "新北市平溪區菁桐段",
+      "area": "109.36",
+      "portion": "88分之43",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "303.13 (另附屬建 物 總 面 積:26.63)",
+      "portion": "全部",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "5,576.53",
+      "portion": "10000 分之 67",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "6,179.44",
+      "portion": "100000 分 之204",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "新北市汐止區金龍段",
+      "area": "3,769.14",
+      "portion": "100000 分 之280",
+      "owner": "王孝維"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市內湖區康寧段二小段",
+      "area": "117.46 (另附屬建 物 總 面 積:14.65)",
+      "portion": "全部",
+      "owner": "江美玲"
+    }
+  ],
+  "constituency": "第二選區 (內湖、南港)"
+}

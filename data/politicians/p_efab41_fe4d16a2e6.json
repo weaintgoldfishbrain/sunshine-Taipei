@@ -1,0 +1,262 @@
+{
+  "id": "p_efab41_fe4d16a2e6",
+  "councilId": "council_efab41",
+  "name": "戴錫欽",
+  "title": "臺北市議會 議長",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,653,290",
+    "securities": "50,000",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "899,825",
+    "realEstate": "3筆"
+  },
+  "chartData": [
+    0,
+    5,
+    0,
+    92,
+    0,
+    3,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台積電",
+      "broker": "國票-長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "814",
+      "date": "114年04月09日",
+      "amount": "1,628,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "487,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國票-長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "814",
+      "date": "114年04月09日",
+      "amount": "1,628,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "487,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國票-長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "814",
+      "date": "114年04月09日",
+      "amount": "1,628,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "鈊象",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "741",
+      "date": "114年04月09日",
+      "amount": "741,000"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "487,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "金居",
+      "broker": "國票長城",
+      "owner": "戴錫欽",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年07月25日",
+      "amount": "97,500"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "宜蘭縣壯圍鄉壯東段",
+      "area": "4,465",
+      "portion": "31255 分之 671",
+      "owner": "戴錫欽"
+    },
+    {
+      "type": "土地",
+      "location": "宜蘭縣壯圍鄉壯東段",
+      "area": "4,465",
+      "portion": "31255 分之 671",
+      "owner": "戴錫欽"
+    },
+    {
+      "type": "土地",
+      "location": "宜蘭縣壯圍鄉壯東段",
+      "area": "4,465",
+      "portion": "31255 分之 671",
+      "owner": "戴錫欽"
+    }
+  ],
+  "constituency": "第三選區 (松山、信義)"
+}

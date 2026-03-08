@@ -1,0 +1,128 @@
+{
+  "id": "p_c2a14d_92d29f4e5d",
+  "councilId": "council_c2a14d",
+  "name": "林秉宥",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "966,947",
+    "securities": "1,067,412",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "28,103,733",
+    "realEstate": "14筆"
+  },
+  "chartData": [
+    0,
+    1,
+    1,
+    82,
+    0,
+    17,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "103",
+      "portion": "10分之1",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區富國段",
+      "area": "106.22",
+      "portion": "5分之1",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區後港段",
+      "area": "1,877.40",
+      "portion": "10000 分之 151",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "94.41 (另附屬建 物 總 面 積:8.61)",
+      "portion": "全部",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區後港段",
+      "area": "154.92 (另附屬建 物 總 面 積:15.02)",
+      "portion": "全部",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區後港段後港小 段",
+      "area": "1,877.40",
+      "portion": "10000 分之 151",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市新莊區後港段",
+      "area": "154.92 (另附屬建 物 總 面 積:15.02)",
+      "portion": "全部",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "土地",
+      "location": "新北市新莊區富國段",
+      "area": "103",
+      "portion": "10分之1",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區富國段",
+      "area": "106.22",
+      "portion": "5分之1",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區後港段",
+      "area": "1,877.40",
+      "portion": "10000 分之 151",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區富國段",
+      "area": "94.41 (另附屬建 物 總 面 積:8.61)",
+      "portion": "全部",
+      "owner": "林秉宥"
+    },
+    {
+      "type": "建物",
+      "location": "新北市新莊區後港段",
+      "area": "154.92 (另附屬建 物 總 面 積:15.02)",
+      "portion": "全部",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市新莊區後港段後港小 段",
+      "area": "1,877.40",
+      "portion": "10000 分之 151",
+      "owner": "王瑞琳"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市新莊區後港段",
+      "area": "154.92 (另附屬建 物 總 面 積:15.02)",
+      "portion": "全部",
+      "owner": "王瑞琳"
+    }
+  ],
+  "constituency": "第三選區 (新莊)"
+}

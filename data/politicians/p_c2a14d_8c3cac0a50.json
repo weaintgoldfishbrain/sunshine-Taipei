@@ -1,0 +1,457 @@
+{
+  "id": "p_c2a14d_8c3cac0a50",
+  "councilId": "council_c2a14d",
+  "name": "林金結",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "27,477,542",
+    "securities": "23,533,648",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "74,385,025",
+    "realEstate": "38筆"
+  },
+  "chartData": [
+    0,
+    5,
+    5,
+    75,
+    0,
+    15,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "瑞軒舊",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.35",
+      "date": "114年09月30日",
+      "amount": "93,717"
+    },
+    {
+      "stock": "瑞軒舊",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.70",
+      "date": "114年10月07日",
+      "amount": "96,174"
+    },
+    {
+      "stock": "瑞軒",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.35",
+      "date": "114年09月30日",
+      "amount": "93,717"
+    },
+    {
+      "stock": "瑞軒",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.70",
+      "date": "114年10月07日",
+      "amount": "86,268.90"
+    },
+    {
+      "stock": "台新金",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "173,806.90"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "187,254.20"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "187,254.20"
+    },
+    {
+      "stock": "新光金",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "187,254.20"
+    },
+    {
+      "stock": "瑞軒舊",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.35",
+      "date": "114年09月30日",
+      "amount": "93,717"
+    },
+    {
+      "stock": "瑞軒舊",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.70",
+      "date": "114年10月07日",
+      "amount": "96,174"
+    },
+    {
+      "stock": "瑞軒",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.35",
+      "date": "114年09月30日",
+      "amount": "93,717"
+    },
+    {
+      "stock": "瑞軒",
+      "broker": "凱基證券埔墘分公 司",
+      "owner": "林金結",
+      "type": "減資轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "13.70",
+      "date": "114年10月07日",
+      "amount": "86,268.90"
+    },
+    {
+      "stock": "台新金",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "16.30",
+      "date": "114年07月24日",
+      "amount": "173,806.90"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉入 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "187,254.20"
+    },
+    {
+      "stock": "新光金舊",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月24日",
+      "amount": "187,254.20"
+    },
+    {
+      "stock": "新光金",
+      "broker": "元大證券和平分公 司",
+      "owner": "林金結",
+      "type": "合併轉出 (提)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "11.80",
+      "date": "114年07月16日",
+      "amount": "187,254.20"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "宜蘭縣蘇澳鎮朝陽段",
+      "area": "133.18",
+      "portion": "全部",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "3,382.89",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "4,845.55",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "4,374.48",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市八德區中華段",
+      "area": "63.41",
+      "portion": "4分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市八德區中華段",
+      "area": "84.71",
+      "portion": "4分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區五寮段五寮小段",
+      "area": "3,306",
+      "portion": "10分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市雙溪區丁子蘭坑段",
+      "area": "126,336",
+      "portion": "126分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市雙溪區大平段竹子山小 段",
+      "area": "7,953",
+      "portion": "10000 分之 2520",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區新板段三小段",
+      "area": "4,390.16",
+      "portion": "100000 分 之562",
+      "owner": "潘素文"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區新板段三小段",
+      "area": "4,390.16",
+      "portion": "100000 分 之450",
+      "owner": "潘素文"
+    },
+    {
+      "type": "土地",
+      "location": "新北市泰山區泰山段三小段",
+      "area": "1,901.47",
+      "portion": "2分之1",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市八德區中華段",
+      "area": "92.96 (另附屬建 物 總 面 積:17.17)",
+      "portion": "全部",
+      "owner": "林金結"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新板段三小段",
+      "area": "166.01 (另附屬建 物 總 面 積:27)",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新板段三小段",
+      "area": "224.06 (另附屬建 物 總 面 積:31.13)",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "166.01",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "8,908.85",
+      "portion": "100000 分 之448",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "18,340.51",
+      "portion": "100000 分 之465",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "620.34",
+      "portion": "49分之1",
+      "owner": "潘素文"
+    },
+    {
+      "type": "土地",
+      "location": "宜蘭縣蘇澳鎮朝陽段",
+      "area": "133.18",
+      "portion": "全部",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "3,382.89",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "4,845.55",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "屏東縣枋寮鄉內寮村段",
+      "area": "4,374.48",
+      "portion": "100000 分 之18278",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市八德區中華段",
+      "area": "63.41",
+      "portion": "4分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市八德區中華段",
+      "area": "84.71",
+      "portion": "4分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三峽區五寮段五寮小段",
+      "area": "3,306",
+      "portion": "10分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市雙溪區丁子蘭坑段",
+      "area": "126,336",
+      "portion": "126分之1",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市雙溪區大平段竹子山小 段",
+      "area": "7,953",
+      "portion": "10000 分之 2520",
+      "owner": "林金結"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區新板段三小段",
+      "area": "4,390.16",
+      "portion": "100000 分 之562",
+      "owner": "潘素文"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區新板段三小段",
+      "area": "4,390.16",
+      "portion": "100000 分 之450",
+      "owner": "潘素文"
+    },
+    {
+      "type": "土地",
+      "location": "新北市泰山區泰山段三小段",
+      "area": "1,901.47",
+      "portion": "2分之1",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "桃園市八德區中華段",
+      "area": "92.96 (另附屬建 物 總 面 積:17.17)",
+      "portion": "全部",
+      "owner": "林金結"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新板段三小段",
+      "area": "166.01 (另附屬建 物 總 面 積:27)",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新板段三小段",
+      "area": "224.06 (另附屬建 物 總 面 積:31.13)",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "166.01",
+      "portion": "全部",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "8,908.85",
+      "portion": "100000 分 之448",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "18,340.51",
+      "portion": "100000 分 之465",
+      "owner": "潘素文"
+    },
+    {
+      "type": "建物",
+      "location": "1★新北市板橋區新板段三小段",
+      "area": "620.34",
+      "portion": "49分之1",
+      "owner": "潘素文"
+    }
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+}

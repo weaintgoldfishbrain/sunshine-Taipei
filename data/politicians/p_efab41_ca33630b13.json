@@ -1,0 +1,72 @@
+{
+  "id": "p_efab41_ca33630b13",
+  "councilId": "council_efab41",
+  "name": "林珍羽",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,786,382",
+    "securities": "153,280",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "301,080",
+    "realEstate": "6筆"
+  },
+  "chartData": [
+    0,
+    3,
+    0,
+    96,
+    0,
+    0,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "1,020",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "2,606",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "1,020",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "2,606",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "1,020",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    },
+    {
+      "type": "土地",
+      "location": "基隆市七堵區瑪陵坑段西勢面 桶寮小段",
+      "area": "2,606",
+      "portion": "2分之1",
+      "owner": "林珍羽"
+    }
+  ],
+  "constituency": "第四選區 (中山、大同)"
+}

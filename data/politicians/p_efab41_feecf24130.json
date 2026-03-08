@@ -1,0 +1,48 @@
+{
+  "id": "p_efab41_feecf24130",
+  "councilId": "council_efab41",
+  "name": "陳宥丞",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "5,015,412",
+    "securities": "368,210",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "702,961",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    0,
+    82,
+    6,
+    0,
+    0,
+    12,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "本田",
+      "cc": "1,498",
+      "owner": "陳宥丞",
+      "license": "111 年 12 月22日"
+    },
+    {
+      "brand": "本田",
+      "cc": "1,498",
+      "owner": "陳宥丞",
+      "license": "111 年 12 月22日"
+    },
+    {
+      "brand": "本田",
+      "cc": "1,498",
+      "owner": "陳宥丞",
+      "license": "111 年 12 月22日"
+    }
+  ],
+  "real_estate": [],
+  "constituency": "第二選區 (內湖、南港)"
+}

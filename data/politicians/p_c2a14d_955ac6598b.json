@@ -1,0 +1,463 @@
+{
+  "id": "p_c2a14d_955ac6598b",
+  "councilId": "council_c2a14d",
+  "name": "周勝考",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "775,419",
+    "securities": "93,790",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "4,369,000",
+    "realEstate": "16筆"
+  },
+  "chartData": [
+    0,
+    0,
+    0,
+    97,
+    0,
+    3,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "卜蜂",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "97.40",
+      "date": "114年04月08日",
+      "amount": "97,400"
+    },
+    {
+      "stock": "卜蜂",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年04月08日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "新紡",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "76.90",
+      "date": "114年05月27日",
+      "amount": "230,700"
+    },
+    {
+      "stock": "新紡",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "71.50",
+      "date": "114年05月29日",
+      "amount": "214,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "185.50",
+      "date": "114年05月27日",
+      "amount": "185,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "183",
+      "date": "114年05月27日",
+      "amount": "183,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "184.50",
+      "date": "114年05月27日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "183",
+      "date": "114年05月27日",
+      "amount": "183,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "184",
+      "date": "114年05月27日",
+      "amount": "184,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "183.50",
+      "date": "114年05月27日",
+      "amount": "183,500"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55",
+      "date": "114年08月04日",
+      "amount": "165,000"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55.40",
+      "date": "114年08月04日",
+      "amount": "55,400"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "卜蜂",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "97.40",
+      "date": "114年04月08日",
+      "amount": "97,400"
+    },
+    {
+      "stock": "卜蜂",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "97.50",
+      "date": "114年04月08日",
+      "amount": "97,500"
+    },
+    {
+      "stock": "新紡",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "76.90",
+      "date": "114年05月27日",
+      "amount": "230,700"
+    },
+    {
+      "stock": "新紡",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "71.50",
+      "date": "114年05月29日",
+      "amount": "214,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "185.50",
+      "date": "114年05月27日",
+      "amount": "185,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "183",
+      "date": "114年05月27日",
+      "amount": "183,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "184.50",
+      "date": "114年05月27日",
+      "amount": "184,500"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "183",
+      "date": "114年05月27日",
+      "amount": "183,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "184",
+      "date": "114年05月27日",
+      "amount": "184,000"
+    },
+    {
+      "stock": "士電",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "183.50",
+      "date": "114年05月27日",
+      "amount": "183,500"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55",
+      "date": "114年08月04日",
+      "amount": "165,000"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "55.40",
+      "date": "114年08月04日",
+      "amount": "55,400"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    },
+    {
+      "stock": "東元",
+      "broker": "大昌證券",
+      "owner": "周勝考",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "54.10",
+      "date": "114年08月04日",
+      "amount": "54,100"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,595.59",
+      "portion": "2分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,499.09",
+      "portion": "2分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,281.98",
+      "portion": "4分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區中山段",
+      "area": "5,461",
+      "portion": "10000 分之 35",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區埤頭段",
+      "area": "513.31",
+      "portion": "10000 分之 35",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "62.95 (另附屬建 物 總 面 積:5.04)",
+      "portion": "全部",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "3,865.36",
+      "portion": "100000 分 之352",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "14,139.34",
+      "portion": "100000 分 之353",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,595.59",
+      "portion": "2分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,499.09",
+      "portion": "2分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "南投縣魚池鄉新興段",
+      "area": "1,281.98",
+      "portion": "4分之1",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區中山段",
+      "area": "5,461",
+      "portion": "10000 分之 35",
+      "owner": "周勝考"
+    },
+    {
+      "type": "土地",
+      "location": "新北市八里區埤頭段",
+      "area": "513.31",
+      "portion": "10000 分之 35",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "62.95 (另附屬建 物 總 面 積:5.04)",
+      "portion": "全部",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "3,865.36",
+      "portion": "100000 分 之352",
+      "owner": "周勝考"
+    },
+    {
+      "type": "建物",
+      "location": "新北市八里區中山段",
+      "area": "14,139.34",
+      "portion": "100000 分 之353",
+      "owner": "周勝考"
+    }
+  ],
+  "constituency": "第五選區 (板橋)"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "p_5529_f9d9126856",
+  "councilId": "council_5529",
+  "name": "張文潔",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "4,120,680",
+    "securities": "350,000",
+    "debt": "6,937,429",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    92,
+    8,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台積電",
+      "broker": "國泰-新莊",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "1,050",
+      "date": "114年02月26日",
+      "amount": "1,050,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "國泰-新莊",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "1,090",
+      "date": "114年07月01日",
+      "amount": "1,090,000"
+    },
+    {
+      "stock": "國泰金",
+      "broker": "國泰-新莊",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "65.40",
+      "date": "114年01月20日",
+      "amount": "65,400"
+    },
+    {
+      "stock": "國泰金",
+      "broker": "國泰-新莊",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "65.60",
+      "date": "114年01月21日",
+      "amount": "65,600"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

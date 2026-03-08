@@ -1,0 +1,41 @@
+{
+  "id": "p_1182_1b78991684",
+  "councilId": "council_1182",
+  "name": "陳啟能",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "116,709,391",
+    "securities": "183,610",
+    "debt": "5,000,000",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    100,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "906,100"
+    },
+    {
+      "stock": "佳能",
+      "broker": "聯邦-三重",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "53.30",
+      "date": "113年12月16日",
+      "amount": "53,300"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

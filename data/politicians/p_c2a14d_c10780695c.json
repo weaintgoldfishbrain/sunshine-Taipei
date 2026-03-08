@@ -1,0 +1,355 @@
+{
+  "id": "p_c2a14d_c10780695c",
+  "councilId": "council_c2a14d",
+  "name": "卓冠廷",
+  "title": "新北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "7,375,714",
+    "securities": "17,617,276",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "11,429,961",
+    "realEstate": "12筆"
+  },
+  "chartData": [
+    0,
+    5,
+    11,
+    77,
+    0,
+    7,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "中興電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "162.50",
+      "date": "114年06月30日",
+      "amount": "162,500"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "834",
+      "date": "114年04月21日",
+      "amount": "834,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "940",
+      "date": "114年05月05日",
+      "amount": "940,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大證券南京分公 司",
+      "owner": "卓冠廷",
+      "type": "擔保品撥 轉（提）",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "1,135",
+      "date": "114年08月04日",
+      "amount": "2,270,000"
+    },
+    {
+      "stock": "長榮航太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "132.50",
+      "date": "114年08月05日",
+      "amount": "132,500"
+    },
+    {
+      "stock": "元太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "215.50",
+      "date": "114年04月11日",
+      "amount": "215,500"
+    },
+    {
+      "stock": "中興電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "162.50",
+      "date": "114年06月30日",
+      "amount": "162,500"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "834",
+      "date": "114年04月21日",
+      "amount": "834,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "940",
+      "date": "114年05月05日",
+      "amount": "940,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大證券南京分公 司",
+      "owner": "卓冠廷",
+      "type": "擔保品撥 轉（提）",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "1,135",
+      "date": "114年08月04日",
+      "amount": "2,270,000"
+    },
+    {
+      "stock": "長榮航太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "132.50",
+      "date": "114年08月05日",
+      "amount": "132,500"
+    },
+    {
+      "stock": "元太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "215.50",
+      "date": "114年04月11日",
+      "amount": "215,500"
+    },
+    {
+      "stock": "中興電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "162.50",
+      "date": "114年06月30日",
+      "amount": "162,500"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "和大",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "51",
+      "date": "114年04月11日",
+      "amount": "51,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "834",
+      "date": "114年04月21日",
+      "amount": "834,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "940",
+      "date": "114年05月05日",
+      "amount": "940,000"
+    },
+    {
+      "stock": "台積電",
+      "broker": "元大證券南京分公 司",
+      "owner": "卓冠廷",
+      "type": "擔保品撥 轉（提）",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "1,135",
+      "date": "114年08月04日",
+      "amount": "2,270,000"
+    },
+    {
+      "stock": "長榮航太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "132.50",
+      "date": "114年08月05日",
+      "amount": "132,500"
+    },
+    {
+      "stock": "元太",
+      "broker": "元大–南京",
+      "owner": "卓冠廷",
+      "type": "買進",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "215.50",
+      "date": "114年04月11日",
+      "amount": "215,500"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "臺中市北屯區東峰段",
+      "area": "1,766",
+      "portion": "10000 分之 56",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "90.11 (另附屬建 物 總 面 積:13.68)",
+      "portion": "全部",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "6,727.72",
+      "portion": "100000 分 之678",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "3,714.17",
+      "portion": "100000 分 之575",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "土地",
+      "location": "臺中市北屯區東峰段",
+      "area": "1,766",
+      "portion": "10000 分之 56",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "90.11 (另附屬建 物 總 面 積:13.68)",
+      "portion": "全部",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "6,727.72",
+      "portion": "100000 分 之678",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "3,714.17",
+      "portion": "100000 分 之575",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "土地",
+      "location": "臺中市北屯區東峰段",
+      "area": "1,766",
+      "portion": "10000 分之 56",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "90.11 (另附屬建 物 總 面 積:13.68)",
+      "portion": "全部",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "6,727.72",
+      "portion": "100000 分 之678",
+      "owner": "卓冠廷"
+    },
+    {
+      "type": "建物",
+      "location": "臺中市北屯區東峰段",
+      "area": "3,714.17",
+      "portion": "100000 分 之575",
+      "owner": "卓冠廷"
+    }
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+}

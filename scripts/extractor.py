@@ -39,9 +39,37 @@ def clean_str(s):
         return ""
     return str(s).replace('\n', ' ').strip()
 
-def process_pdfs(pdf_paths):
-    councils_dict = {} # council_name -> id
-    politicians_dict = {} # p_id -> details
+def load_existing_data():
+    councils_dict = {}
+    politicians_dict = {}
+    
+    if COUNCILS_JSON.exists():
+        try:
+            with open(COUNCILS_JSON, "r", encoding="utf-8") as f:
+                councils = json.load(f)
+                for c in councils:
+                    councils_dict[c["name"]] = c["id"]
+        except Exception as e:
+            print(f"Warning: Could not load existing {COUNCILS_JSON}: {e}")
+            
+    if POLITICIANS_DIR.exists():
+        for p_path in POLITICIANS_DIR.glob("*.json"):
+            try:
+                with open(p_path, "r", encoding="utf-8") as f:
+                    p_data = json.load(f)
+                    # 回復隱藏的計數以供 process_pdfs 結尾重新計算圖表
+                    re_str = p_data.get('stats', {}).get('realEstate', '0')
+                    re_count = int(re.sub(r'[^\d]', '', str(re_str)) or 0)
+                    p_data['_real_estate_count'] = re_count
+                    politicians_dict[p_data["id"]] = p_data
+            except Exception as e:
+                print(f"Warning: Could not load existing {p_path}: {e}")
+                
+    return councils_dict, politicians_dict
+
+def process_pdfs(pdf_paths, init_councils=None, init_politicians=None):
+    councils_dict = init_councils if init_councils is not None else {}
+    politicians_dict = init_politicians if init_politicians is not None else {}
     import hashlib
     
     for pdf_path in pdf_paths:
@@ -82,8 +110,8 @@ def process_pdfs(pdf_paths):
                                 councils_dict[council_name] = council_id
                             
                             # Clean name thoroughly for hash to eliminate spaces
-                            clean_name_hash = name.replace(' ', '').replace('　', '')
-                            p_hash = hashlib.md5(clean_name_hash.encode()).hexdigest()[:6]
+                            clean_name_base = name.replace(' ', '').replace('　', '').strip()
+                            p_hash = hashlib.md5(clean_name_base.encode()).hexdigest()[:10]
                             p_id = f"p_{cid_hash}_{p_hash}"
                             
                             if p_id in politicians_dict:
@@ -209,12 +237,13 @@ def process_pdfs(pdf_paths):
             
     # Process Chart Data
     for p in politicians_dict.values():
-        cash = int(p['stats']['cash'].replace(',', '') or 0)
-        dep = int(p['stats']['deposits'].replace(',', '') or 0)
-        sec = int(p['stats']['securities'].replace(',', '') or 0)
-        jewel = int(p['stats']['jewelry'].replace(',', '') or 0)
-        credit = int(p['stats']['credit'].replace(',', '') or 0)
-        debt = int(p['stats']['debt'].replace(',', '') or 0)
+        stats = p.get('stats', {})
+        cash = int(str(stats.get('cash', '0')).replace(',', '') or 0)
+        dep = int(str(stats.get('deposits', '0')).replace(',', '') or 0)
+        sec = int(str(stats.get('securities', '0')).replace(',', '') or 0)
+        jewel = int(str(stats.get('jewelry', '0')).replace(',', '') or 0)
+        credit = int(str(stats.get('credit', '0')).replace(',', '') or 0)
+        debt = int(str(stats.get('debt', '0')).replace(',', '') or 0)
         
         # Assuming each real estate is roughly 10M for chart weighting
         re_val = p['_real_estate_count'] * 10000000 
@@ -320,7 +349,12 @@ if __name__ == "__main__":
         print(f"   • {p.name}")
     print()
     
-    councils_dict, politicians_dict = process_pdfs(existing_pdfs)
+    # 載入現有資料避免覆蓋
+    print("🔄 載入現有資料庫...")
+    existing_councils, existing_politicians = load_existing_data()
+    print(f"   已載入 {len(existing_councils)} 個議會與 {len(existing_politicians)} 位政治人物資料。")
+    
+    councils_dict, politicians_dict = process_pdfs(existing_pdfs, existing_councils, existing_politicians)
     export_json(councils_dict, politicians_dict)
     
     # Move processed PDFs to processed/ subfolder

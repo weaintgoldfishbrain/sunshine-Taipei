@@ -1,0 +1,835 @@
+{
+  "id": "p_efab41_f15b2c698e",
+  "councilId": "council_efab41",
+  "name": "闕枚莎",
+  "title": "臺北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "3,799,761",
+    "securities": "7,907,893",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "0",
+    "realEstate": "42筆"
+  },
+  "chartData": [
+    0,
+    1,
+    2,
+    97,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "576",
+      "date": "114年03月12日",
+      "amount": "576,000"
+    },
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "641",
+      "date": "114年05月08日",
+      "amount": "641,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "83.50",
+      "date": "113年12月03日",
+      "amount": "83,500"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "81.70",
+      "date": "113年12月03日",
+      "amount": "81,700"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "82",
+      "date": "113年12月03日",
+      "amount": "82,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.60",
+      "date": "113年12月05日",
+      "amount": "175,200"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.80",
+      "date": "113年12月05日",
+      "amount": "87,800"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.60",
+      "date": "113年12月05日",
+      "amount": "86,600"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106.50",
+      "date": "114年01月22日",
+      "amount": "213,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "88.50",
+      "date": "114年08月25日",
+      "amount": "88,500"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "75.80",
+      "date": "113年12月02日",
+      "amount": "75,800"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76.30",
+      "date": "113年12月03日",
+      "amount": "152,600"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月03日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "576",
+      "date": "114年03月12日",
+      "amount": "576,000"
+    },
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "641",
+      "date": "114年05月08日",
+      "amount": "641,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "83.50",
+      "date": "113年12月03日",
+      "amount": "83,500"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "81.70",
+      "date": "113年12月03日",
+      "amount": "81,700"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "82",
+      "date": "113年12月03日",
+      "amount": "82,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.60",
+      "date": "113年12月05日",
+      "amount": "175,200"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.80",
+      "date": "113年12月05日",
+      "amount": "87,800"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.60",
+      "date": "113年12月05日",
+      "amount": "86,600"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106.50",
+      "date": "114年01月22日",
+      "amount": "213,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "88.50",
+      "date": "114年08月25日",
+      "amount": "88,500"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "75.80",
+      "date": "113年12月02日",
+      "amount": "75,800"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76.30",
+      "date": "113年12月03日",
+      "amount": "152,600"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月03日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "576",
+      "date": "114年03月12日",
+      "amount": "576,000"
+    },
+    {
+      "stock": "台光電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "641",
+      "date": "114年05月08日",
+      "amount": "641,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "83.50",
+      "date": "113年12月03日",
+      "amount": "83,500"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "81.70",
+      "date": "113年12月03日",
+      "amount": "81,700"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "82",
+      "date": "113年12月03日",
+      "amount": "82,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.60",
+      "date": "113年12月05日",
+      "amount": "175,200"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.80",
+      "date": "113年12月05日",
+      "amount": "87,800"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.60",
+      "date": "113年12月05日",
+      "amount": "86,600"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106.50",
+      "date": "114年01月22日",
+      "amount": "213,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "106",
+      "date": "114年01月22日",
+      "amount": "106,000"
+    },
+    {
+      "stock": "立隆電",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "88.50",
+      "date": "114年08月25日",
+      "amount": "88,500"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "75.80",
+      "date": "113年12月02日",
+      "amount": "75,800"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月02日",
+      "amount": "76,000"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76.30",
+      "date": "113年12月03日",
+      "amount": "152,600"
+    },
+    {
+      "stock": "皇翔",
+      "broker": "元大-仁愛",
+      "owner": "闕枚莎",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "76",
+      "date": "113年12月03日",
+      "amount": "76,000"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "509.07",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "318",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "436",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "2,215",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "223",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "8,857.93",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "524.37",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "5,429.93",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "175",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "1,547.01",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "139",
+      "portion": "3分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "1,202",
+      "portion": "1000 分之 175",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "124.80",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "806.22 (另附屬建 物 總 面 積:86.53)",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "509.07",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "318",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "436",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "2,215",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "223",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "8,857.93",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "524.37",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "5,429.93",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "175",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "1,547.01",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "139",
+      "portion": "3分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "1,202",
+      "portion": "1000 分之 175",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "124.80",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "806.22 (另附屬建 物 總 面 積:86.53)",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "509.07",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "318",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "436",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "2,215",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "223",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區白匏段",
+      "area": "8,857.93",
+      "portion": "90分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "524.37",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "5,429.93",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "175",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "新北市汐止區汐碇段",
+      "area": "1,547.01",
+      "portion": "2分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "139",
+      "portion": "3分之1",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "土地",
+      "location": "臺北市南港區南港段二小段",
+      "area": "1,202",
+      "portion": "1000 分之 175",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "124.80",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市南港區南港段二小段",
+      "area": "806.22 (另附屬建 物 總 面 積:86.53)",
+      "portion": "全部",
+      "owner": "闕枚莎"
+    }
+  ],
+  "constituency": "第二選區 (內湖、南港)"
+}

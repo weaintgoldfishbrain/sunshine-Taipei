@@ -1,0 +1,59 @@
+{
+  "id": "p_5529_550d64bfa4",
+  "councilId": "council_5529",
+  "name": "劉耀仁",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "614,788",
+    "securities": "3,421,099",
+    "debt": "12,202,550",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    15,
+    85,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "台達電",
+      "broker": "國泰-館前",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "385",
+      "date": "114年03月04日",
+      "amount": "385,000"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-館前",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "27.75",
+      "date": "114年03月03日",
+      "amount": "111,000"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-館前",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "27.75",
+      "date": "114年03月03日",
+      "amount": "55,500"
+    },
+    {
+      "stock": "台灣高鐵",
+      "broker": "國泰-館前",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "27.75",
+      "date": "114年03月03日",
+      "amount": "27,750"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

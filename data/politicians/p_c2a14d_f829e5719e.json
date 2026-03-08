@@ -1,0 +1,72 @@
+{
+  "id": "p_c2a14d_f829e5719e",
+  "councilId": "council_c2a14d",
+  "name": "戴瑋姍",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "2,752,079",
+    "securities": "0",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "5,428,021",
+    "realEstate": "6筆"
+  },
+  "chartData": [
+    0,
+    4,
+    0,
+    88,
+    0,
+    8,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市板橋區新都段",
+      "area": "4,354.40",
+      "portion": "100000 分 之287",
+      "owner": "戴瑋姍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新都段",
+      "area": "49.70 (另附屬建 物 總 面 積:6.41)",
+      "portion": "全部",
+      "owner": "戴瑋姍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新都段",
+      "area": "18,482.35",
+      "portion": "100000 分 之324",
+      "owner": "戴瑋姍"
+    },
+    {
+      "type": "土地",
+      "location": "新北市板橋區新都段",
+      "area": "4,354.40",
+      "portion": "100000 分 之287",
+      "owner": "戴瑋姍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新都段",
+      "area": "49.70 (另附屬建 物 總 面 積:6.41)",
+      "portion": "全部",
+      "owner": "戴瑋姍"
+    },
+    {
+      "type": "建物",
+      "location": "新北市板橋區新都段",
+      "area": "18,482.35",
+      "portion": "100000 分 之324",
+      "owner": "戴瑋姍"
+    }
+  ],
+  "constituency": "第五選區 (板橋)"
+}

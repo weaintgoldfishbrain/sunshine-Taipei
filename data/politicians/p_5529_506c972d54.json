@@ -1,0 +1,158 @@
+{
+  "id": "p_5529_506c972d54",
+  "councilId": "council_5529",
+  "name": "李建昌",
+  "title": "臺北市議會 議員",
+  "stats": {
+    "deposits": "2,288,957",
+    "securities": "12,606,591",
+    "debt": "3,845,000",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    15,
+    85,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "宏碁",
+      "broker": "合庫-自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "29.80",
+      "date": "114年08月12日",
+      "amount": "59,600"
+    },
+    {
+      "stock": "群光",
+      "broker": "合庫-自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "136.50",
+      "date": "114年08月19日",
+      "amount": "136,500"
+    },
+    {
+      "stock": "義隆",
+      "broker": "合庫-自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "118.50",
+      "date": "114年08月19日",
+      "amount": "118,500"
+    },
+    {
+      "stock": "義隆",
+      "broker": "合庫-自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "131",
+      "date": "114年09月12日",
+      "amount": "262,000"
+    },
+    {
+      "stock": "王品",
+      "broker": "合庫-自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "225.50",
+      "date": "114年07月03日",
+      "amount": "225,500"
+    },
+    {
+      "stock": "聯陽",
+      "broker": "合庫-自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "138",
+      "date": "114年06月18日",
+      "amount": "138,000"
+    },
+    {
+      "stock": "亞信",
+      "broker": "合庫自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.60",
+      "date": "114年08月12日",
+      "amount": "87,600"
+    },
+    {
+      "stock": "亞信",
+      "broker": "合庫自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "101.50",
+      "date": "114年08月19日",
+      "amount": "101,500"
+    },
+    {
+      "stock": "優群",
+      "broker": "合庫自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "156",
+      "date": "114年05月13日",
+      "amount": "156,000"
+    },
+    {
+      "stock": "優群",
+      "broker": "合庫自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "159",
+      "date": "114年06月18日",
+      "amount": "159,000"
+    },
+    {
+      "stock": "原相",
+      "broker": "合庫自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "240.50",
+      "date": "114年03月28日",
+      "amount": "240,500"
+    },
+    {
+      "stock": "原相",
+      "broker": "合庫自強",
+      "type": "賣",
+      "typeColor": "bg-green-100 text-green-700",
+      "price": "253.50",
+      "date": "114年07月03日",
+      "amount": "253,500"
+    },
+    {
+      "stock": "原相",
+      "broker": "合庫自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "192.50",
+      "date": "114年08月12日",
+      "amount": "192,500"
+    },
+    {
+      "stock": "聰泰",
+      "broker": "合庫自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "171",
+      "date": "114年06月18日",
+      "amount": "171,000"
+    },
+    {
+      "stock": "力成",
+      "broker": "合庫-自強",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "115.50",
+      "date": "114年05月13日",
+      "amount": "115,500"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

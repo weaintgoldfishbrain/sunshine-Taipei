@@ -1,0 +1,68 @@
+{
+  "id": "p_1182_21e01665a3",
+  "councilId": "council_1182",
+  "name": "邱烽堯",
+  "title": "新北市議會 議員",
+  "stats": {
+    "deposits": "1,749,712",
+    "securities": "8,963,514",
+    "debt": "188,589,631",
+    "realEstate": "0筆"
+  },
+  "chartData": [
+    16,
+    84,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "興富發",
+      "broker": "富邦-永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.40",
+      "date": "114年04月09日",
+      "amount": "115,200"
+    },
+    {
+      "stock": "興富發",
+      "broker": "富邦-永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "37.75",
+      "date": "114年04月09日",
+      "amount": "75,500"
+    },
+    {
+      "stock": "興富發",
+      "broker": "富邦-永和",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "38.20",
+      "date": "114年04月09日",
+      "amount": "76,400"
+    },
+    {
+      "stock": "興富發",
+      "broker": "富邦證券永和分公 司",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "39",
+      "date": "114年10月31日",
+      "amount": "13,650"
+    },
+    {
+      "stock": "第一金",
+      "broker": "富邦證券永和分公 司",
+      "type": "劃撥配發 (存)",
+      "typeColor": "bg-slate-100 text-slate-700",
+      "price": "29.40",
+      "date": "114年09月17日",
+      "amount": "735"
+    }
+  ],
+  "automobiles": [],
+  "real_estate": [],
+  "source": ""
+}

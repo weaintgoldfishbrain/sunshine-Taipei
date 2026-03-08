@@ -1,0 +1,88 @@
+{
+  "id": "p_efab41_91c5cc88fc",
+  "councilId": "council_efab41",
+  "name": "陳慈慧",
+  "title": "臺北市議會 議員",
+  "source": "第294期",
+  "stats": {
+    "cash": "0",
+    "deposits": "203,869",
+    "securities": "0",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "327,188",
+    "realEstate": "3筆"
+  },
+  "chartData": [
+    0,
+    1,
+    0,
+    98,
+    0,
+    1,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "VOLVO",
+      "cc": "1,498",
+      "owner": "陳慈慧",
+      "license": "105 年 11 月10日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,987",
+      "owner": "陳慈慧",
+      "license": "112 年 05 月30日"
+    },
+    {
+      "brand": "VOLVO",
+      "cc": "1,498",
+      "owner": "陳慈慧",
+      "license": "105 年 11 月10日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,987",
+      "owner": "陳慈慧",
+      "license": "112 年 05 月30日"
+    },
+    {
+      "brand": "VOLVO",
+      "cc": "1,498",
+      "owner": "陳慈慧",
+      "license": "105 年 11 月10日"
+    },
+    {
+      "brand": "TOYOTA",
+      "cc": "1,987",
+      "owner": "陳慈慧",
+      "license": "112 年 05 月30日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "建物",
+      "location": "臺北市士林區延平北路 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "259.20",
+      "portion": "2分之1",
+      "owner": "陳慈慧"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區延平北路 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "259.20",
+      "portion": "2分之1",
+      "owner": "陳慈慧"
+    },
+    {
+      "type": "建物",
+      "location": "臺北市士林區延平北路 (稅籍號碼:○○○○○○○○ ○○○)",
+      "area": "259.20",
+      "portion": "2分之1",
+      "owner": "陳慈慧"
+    }
+  ],
+  "constituency": "第一選區 (北投、士林)"
+}

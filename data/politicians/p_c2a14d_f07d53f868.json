@@ -1,0 +1,805 @@
+{
+  "id": "p_c2a14d_f07d53f868",
+  "councilId": "council_c2a14d",
+  "name": "李余典",
+  "title": "新北市議會 議員",
+  "source": "第295期",
+  "stats": {
+    "cash": "0",
+    "deposits": "1,462,853",
+    "securities": "16,484,850",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "59,865,187",
+    "realEstate": "108筆"
+  },
+  "chartData": [
+    0,
+    0,
+    1,
+    93,
+    0,
+    5,
+    0
+  ],
+  "transactions": [],
+  "automobiles": [
+    {
+      "brand": "本田",
+      "cc": "1,799",
+      "owner": "黃書禹",
+      "license": "107 年 05 月10日"
+    },
+    {
+      "brand": "本田",
+      "cc": "1,799",
+      "owner": "黃書禹",
+      "license": "107 年 05 月10日"
+    },
+    {
+      "brand": "本田",
+      "cc": "1,799",
+      "owner": "黃書禹",
+      "license": "107 年 05 月10日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "86.53",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "112.38",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "101.03",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "54.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "9.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "27.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "37.84",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "48.42",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "72.31",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "18.62",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "22.06",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "91.67",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "14.27",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.20",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "20.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "12.32",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "0.77",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "115.96",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "28.07",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "1.68",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區三民段",
+      "area": "87",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "49",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:6.16)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:9.36)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "75.85",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "80.65",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區集美段",
+      "area": "103.78 (另附屬建 物 總 面 積:22.93)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區錦田段",
+      "area": "166.64 (另附屬建 物 總 面 積:24.57)",
+      "portion": "2分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.53",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.78",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "86.53",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "112.38",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "101.03",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "54.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "9.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "27.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "37.84",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "48.42",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "72.31",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "18.62",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "22.06",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "91.67",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "14.27",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.20",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "20.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "12.32",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "0.77",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "115.96",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "28.07",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "1.68",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區三民段",
+      "area": "87",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "49",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:6.16)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:9.36)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "75.85",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "80.65",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區集美段",
+      "area": "103.78 (另附屬建 物 總 面 積:22.93)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區錦田段",
+      "area": "166.64 (另附屬建 物 總 面 積:24.57)",
+      "portion": "2分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.53",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.78",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "86.53",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "112.38",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "101.03",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "54.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "9.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "27.55",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "37.84",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "48.42",
+      "portion": "48分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "72.31",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "18.62",
+      "portion": "60分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "22.06",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "91.67",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "14.27",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "10.20",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "20.12",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "12.32",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "0.77",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "115.96",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "28.07",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區三民段",
+      "area": "1.68",
+      "portion": "180分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區三民段",
+      "area": "87",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "49",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區中民段",
+      "area": "69",
+      "portion": "4分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:6.16)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區永德段",
+      "area": "94.26 (另附屬建 物 總 面 積:9.36)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "75.85",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區田安段",
+      "area": "80.65",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區集美段",
+      "area": "103.78 (另附屬建 物 總 面 積:22.93)",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區錦田段",
+      "area": "166.64 (另附屬建 物 總 面 積:24.57)",
+      "portion": "2分之1",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.53",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三重區龍門段",
+      "area": "52.78",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    },
+    {
+      "type": "建物",
+      "location": "新北市三重區龍門段",
+      "area": "117.03",
+      "portion": "全部",
+      "owner": "李余典"
+    }
+  ],
+  "constituency": "第四選區 (三重、蘆洲)"
+}

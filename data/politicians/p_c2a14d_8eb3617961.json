@@ -1,0 +1,686 @@
+{
+  "id": "p_c2a14d_8eb3617961",
+  "councilId": "council_c2a14d",
+  "name": "蘇泓欽",
+  "title": "新北市議會 議員",
+  "source": "第297期",
+  "stats": {
+    "cash": "0",
+    "deposits": "14,434,016",
+    "securities": "7,788,092",
+    "jewelry": "0",
+    "credit": "0",
+    "debt": "0",
+    "realEstate": "38筆"
+  },
+  "chartData": [
+    0,
+    4,
+    2,
+    94,
+    0,
+    0,
+    0
+  ],
+  "transactions": [
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "89.30",
+      "date": "113年11月01日",
+      "amount": "1,339"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "88.50",
+      "date": "113年11月04日",
+      "amount": "1,770"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "89.50",
+      "date": "113年11月06日",
+      "amount": "2,237"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.90",
+      "date": "113年11月08日",
+      "amount": "2,197"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.70",
+      "date": "113年11月11日",
+      "amount": "1,040"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.20",
+      "date": "113年11月12日",
+      "amount": "862"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87",
+      "date": "113年11月13日",
+      "amount": "1,566"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月13日",
+      "amount": "430"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月13日",
+      "amount": "430"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85.90",
+      "date": "113年11月15日",
+      "amount": "1,288"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月18日",
+      "amount": "1,032"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85",
+      "date": "113年11月18日",
+      "amount": "1,020"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84",
+      "date": "113年11月19日",
+      "amount": "924"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84",
+      "date": "113年11月19日",
+      "amount": "84"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84.40",
+      "date": "113年11月20日",
+      "amount": "1,603"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85.40",
+      "date": "113年11月21日",
+      "amount": "854"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.80",
+      "date": "113年11月25日",
+      "amount": "1,736"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "89.30",
+      "date": "113年11月01日",
+      "amount": "1,339"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "88.50",
+      "date": "113年11月04日",
+      "amount": "1,770"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "89.50",
+      "date": "113年11月06日",
+      "amount": "2,237"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87.90",
+      "date": "113年11月08日",
+      "amount": "2,197"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.70",
+      "date": "113年11月11日",
+      "amount": "1,040"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.20",
+      "date": "113年11月12日",
+      "amount": "862"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "87",
+      "date": "113年11月13日",
+      "amount": "1,566"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月13日",
+      "amount": "430"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月13日",
+      "amount": "430"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85.90",
+      "date": "113年11月15日",
+      "amount": "1,288"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86",
+      "date": "113年11月18日",
+      "amount": "1,032"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85",
+      "date": "113年11月18日",
+      "amount": "1,020"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84",
+      "date": "113年11月19日",
+      "amount": "924"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84",
+      "date": "113年11月19日",
+      "amount": "84"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "84.40",
+      "date": "113年11月20日",
+      "amount": "1,603"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "85.40",
+      "date": "113年11月21日",
+      "amount": "854"
+    },
+    {
+      "stock": "統一",
+      "broker": "元大-新店中正",
+      "owner": "蕭韻玲",
+      "type": "買",
+      "typeColor": "bg-red-100 text-red-700",
+      "price": "86.80",
+      "date": "113年11月25日",
+      "amount": "1,736"
+    }
+  ],
+  "automobiles": [
+    {
+      "brand": "國瑞",
+      "cc": "1,998",
+      "owner": "蘇泓欽",
+      "license": "98年07月 02日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,998",
+      "owner": "蕭韻玲",
+      "license": "94年07月 07日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,497",
+      "owner": "蕭韻玲",
+      "license": "104 年 07 月30日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "蕭韻玲",
+      "license": "113 年 11 月28日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,998",
+      "owner": "蘇泓欽",
+      "license": "98年07月 02日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,998",
+      "owner": "蕭韻玲",
+      "license": "94年07月 07日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,497",
+      "owner": "蕭韻玲",
+      "license": "104 年 07 月30日"
+    },
+    {
+      "brand": "國瑞",
+      "cc": "1,798",
+      "owner": "蕭韻玲",
+      "license": "113 年 11 月28日"
+    }
+  ],
+  "real_estate": [
+    {
+      "type": "土地",
+      "location": "桃園市大溪區信義段",
+      "area": "3,018.71",
+      "portion": "10000 分之 220",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "254.36",
+      "portion": "8分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "311.99",
+      "portion": "8分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "4,796.73",
+      "portion": "72分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "32.67",
+      "portion": "15分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "61.77",
+      "portion": "20分之3",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "24.16",
+      "portion": "4分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "72.36",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "152.48",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "592.03",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "949.20",
+      "portion": "360分之71",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "504.05",
+      "portion": "360分之47",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國慶段",
+      "area": "1,560",
+      "portion": "30000 分之 363",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之3",
+      "owner": "蕭韻玲"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區二橋段",
+      "area": "5,163.07",
+      "portion": "100000 分 之763",
+      "owner": "蕭韻玲"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國姓段",
+      "area": "151.38",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國姓段",
+      "area": "283",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國慶段",
+      "area": "83.33 (另附屬建 物 總 面",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市三芝區土地公埔段八 連溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之3",
+      "owner": "蕭韻玲"
+    },
+    {
+      "type": "土地",
+      "location": "桃園市大溪區信義段",
+      "area": "3,018.71",
+      "portion": "10000 分之 220",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "254.36",
+      "portion": "8分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "311.99",
+      "portion": "8分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區尖山腳段",
+      "area": "4,796.73",
+      "portion": "72分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "32.67",
+      "portion": "15分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "61.77",
+      "portion": "20分之3",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "24.16",
+      "portion": "4分之1",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "72.36",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "152.48",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "592.03",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "949.20",
+      "portion": "360分之71",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國姓段",
+      "area": "504.05",
+      "portion": "360分之47",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區國慶段",
+      "area": "1,560",
+      "portion": "30000 分之 363",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "新北市三芝區土地公埔段八連 溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之3",
+      "owner": "蕭韻玲"
+    },
+    {
+      "type": "土地",
+      "location": "新北市鶯歌區二橋段",
+      "area": "5,163.07",
+      "portion": "100000 分 之763",
+      "owner": "蕭韻玲"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國姓段",
+      "area": "151.38",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國姓段",
+      "area": "283",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "建物",
+      "location": "新北市鶯歌區國慶段",
+      "area": "83.33 (另附屬建 物 總 面",
+      "portion": "全部",
+      "owner": "蘇泓欽"
+    },
+    {
+      "type": "土地",
+      "location": "1★新北市三芝區土地公埔段八 連溪頭小段",
+      "area": "41,906",
+      "portion": "410000 分 之3",
+      "owner": "蕭韻玲"
+    }
+  ],
+  "constituency": "第八選區 (土城、樹林、三峽、鶯歌)"
+}
