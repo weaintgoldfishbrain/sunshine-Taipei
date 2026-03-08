@@ -217,6 +217,19 @@ def process_pdfs(pdf_paths):
     return councils_dict, politicians_dict
 
 def export_json(councils_dict, politicians_dict):
+    # Filter out non-Taipei/New Taipei councils
+    filtered_c = {}
+    for name, cid in councils_dict.items():
+        if '臺北市' in name or '新北市' in name:
+            filtered_c[name] = cid
+    councils_dict = filtered_c
+
+    filtered_p = {}
+    for pid, p in politicians_dict.items():
+        if p["councilId"] in councils_dict.values():
+            filtered_p[pid] = p
+    politicians_dict = filtered_p
+
     # Create councils structure
     councils = [{"id": cid, "name": name} for name, cid in councils_dict.items()]
     

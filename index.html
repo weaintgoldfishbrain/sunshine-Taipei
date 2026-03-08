@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>廉政專刊 - 財產申報互動儀表板</title>
+    <title>雙北民代財產申報儀表板</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
@@ -71,50 +71,80 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
             <div class="flex items-center gap-3">
                 <span class="text-2xl">🏛️</span>
-                <h1 class="text-xl font-bold tracking-wider">雙北民意代表財產申報<span
-                        class="text-teal-400 text-sm ml-2 font-normal">財產申報互動儀表板d</span></h1>
+                <h1 class="text-xl font-bold tracking-wider">雙北民代財產申報<span
+                        class="text-teal-400 text-sm ml-2 font-normal">快速查詢</span></h1>
             </div>
             <div class="text-sm text-slate-400 hidden sm:block">
-                透明公開，監督民意代表
+                透明公開，監督雙北民意代表
             </div>
         </div>
     </header>
 
     <!-- Main App Container -->
-    <div class="flex-1 flex overflow-hidden">
+    <div class="flex-1 flex flex-col md:flex-row overflow-hidden relative">
+
+        <!-- Mobile Selected Display & Toggle Button -->
+        <div class="md:hidden bg-white border-b border-slate-200 p-3 shadow-sm z-20 sticky top-0 w-full shrink-0">
+            <button id="mobile-menu-btn"
+                class="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-left flex justify-between items-center shadow-sm">
+                <div>
+                    <span
+                        class="text-[10px] text-slate-500 block mb-1 font-semibold tracking-wide uppercase">當前選擇</span>
+                    <span id="mobile-current-name" class="font-bold text-slate-800 text-base">請自名單選擇...</span>
+                </div>
+                <span
+                    class="text-slate-500 text-xs bg-white px-2 py-1 flex items-center gap-1 rounded border border-slate-200 shadow-sm font-medium"><span
+                        id="menu-arrow">▼</span> 展開名單</span>
+            </button>
+        </div>
 
         <!-- Sidebar Navigation -->
-        <aside
-            class="w-64 bg-white border-r border-slate-200 flex flex-col overflow-y-auto custom-scrollbar shadow-sm z-0">
-            <div class="p-4 border-b border-slate-100">
+        <aside id="sidebar-container"
+            class="hidden md:flex w-full md:w-64 bg-white border-r border-slate-200 flex-col overflow-y-auto custom-scrollbar shadow-lg md:shadow-sm z-30 absolute md:relative h-[calc(100%-84px)] md:h-full top-[84px] md:top-0">
+            <div class="p-4 border-b border-slate-100 bg-slate-50 md:bg-white sticky top-0 z-10">
                 <h2 class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">申報目錄 (依機關)</h2>
-                <p class="text-xs text-slate-500 mb-3">點擊下方姓名以載入該公職人員之財產申報視覺化資料。</p>
                 <div class="relative">
                     <input type="text" id="search-input" placeholder="過濾搜尋姓名..."
-                        class="w-full pl-8 pr-3 py-1.5 bg-slate-50 border border-slate-200 rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-teal-500 focus:border-teal-500 transition-colors">
+                        class="w-full pl-8 pr-3 py-1.5 bg-white border border-slate-200 rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-teal-500 focus:border-teal-500 transition-colors shadow-inner">
                     <span class="absolute left-2.5 top-2 text-slate-400 text-sm">🔍</span>
                 </div>
             </div>
 
-            <nav class="flex-1 p-2 space-y-1" id="nav-menu">
+            <nav class="flex-1 p-2 space-y-1 bg-white" id="nav-menu">
                 <!-- Navigation populated by JS -->
             </nav>
         </aside>
 
         <!-- Main Content Area -->
-        <main class="flex-1 overflow-y-auto custom-scrollbar p-6 bg-slate-50 relative" id="main-content">
+        <main class="flex-1 overflow-y-auto custom-scrollbar p-4 md:p-6 bg-slate-50 relative w-full" id="main-content">
 
             <div class="max-w-5xl mx-auto space-y-6">
 
-                <!-- Intro Paragraph -->
+                <!-- Intro Paragraph & Disclaimer -->
                 <section class="bg-white p-6 rounded-xl shadow-sm border border-slate-200">
                     <h2 class="text-2xl font-bold text-slate-800 mb-2 flex items-center gap-2" id="profile-name">
-                        請由左側選擇申報人
+                        請自名單選擇欲查詢之民意代表
                     </h2>
-                    <p class="text-teal-600 font-medium mb-4" id="profile-title">機關與職稱</p>
-                    <p class="text-slate-600 leading-relaxed text-sm">
-                        本區域將紙本廉政專刊（第295期）之冗長文字與表格數據，轉換為即時互動的視覺化儀表板。透過此介面，您可以快速掌握該申報人的財產結構、主要資產與負債狀況，並可向下鑽取查閱詳細的交易紀錄。此設計旨在降低民眾閱讀門檻，落實陽光法案之透明監督精神。
+                    <p class="text-teal-600 font-medium mb-4" id="profile-title">
+                        此為雙北議會專屬的民間陽光法案儀表板
                     </p>
+                    <p class="text-slate-600 leading-relaxed text-sm mb-4">
+                        本區域將紙本廉政專刊（第294、295期）之冗長文字與表格數據，轉換為即時互動的視覺化儀表板。透過此介面，您可以快速掌握該申報人的財產結構、主要資產與負債狀況，並可向下鑽取查閱詳細的交易紀錄。此設計旨在降低民眾閱讀門檻，落實陽光法案之透明監督精神。
+                    </p>
+
+                    <!-- 顯眼免責聲明區塊 -->
+                    <div
+                        class="bg-amber-50 border border-amber-200 rounded-lg p-4 flex gap-3 text-sm text-amber-800 shadow-inner">
+                        <span class="text-amber-500 text-lg shrink-0">⚠️</span>
+                        <div>
+                            <strong class="font-bold block mb-1">免責聲明 (Disclaimer)</strong>
+                            <p class="leading-relaxed">本網站所有資料皆由程式自動從監察院公開之《廉政專刊》PDF
+                                檔案擷取轉換而來。受限於原始文件格式異常、掃描辨識誤差或排版不一等因素，<strong>本站不保證數據之絕對準確性與完整性</strong>。本站資訊僅供學術交流與社會監督參考，若需引用做為法律證據、新聞報導或重大決策依據，請務必自行至
+                                <a href="https://sunshine.cy.gov.tw" target="_blank" rel="noopener noreferrer"
+                                    class="text-amber-600 hover:text-amber-700 underline underline-offset-2 font-medium">監察院陽光法案主題網</a>
+                                查閱紙本/原始電子檔。因使用本站延伸之任何損失、爭議或法律責任，開發者與維護團隊概不負責。</p>
+                        </div>
+                    </div>
                 </section>
 
                 <!-- KPI Cards Section -->
@@ -233,20 +263,37 @@
 
     <!-- Footer -->
     <footer
-        class="text-center py-8 text-slate-500 text-sm mt-auto bg-slate-100 border-t border-slate-200 w-full relative z-10 hidden md:block">
-        <p>本站旨在促進公職人員財產透明化，非官方發布平台。所有資料皆透過程式自動拮取自監察院《廉政專刊》。</p>
-        <p class="mt-2 font-medium text-slate-600">透明的資訊是監督力量的基礎，民主社會需要您的關注與參與。</p>
+        class="w-full bg-slate-50 border-t border-slate-200 mt-auto relative z-10 px-4 py-4 md:py-6 text-xs text-slate-500">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
 
-        <div class="mt-6 pt-5 border-t border-slate-200 mx-auto max-w-4xl flex flex-col items-center gap-4">
-            <div class="text-xs text-slate-500 flex items-center justify-center gap-2 tracking-wide">
-                <span>Made by <strong>Andesign</strong></span>
-                <span class="text-slate-300">|</span>
-                <span>Powered by ✨ <strong>Gemini</strong></span>
+            <!-- 左側：法律與專案宣告 -->
+            <div class="text-center md:text-left leading-relaxed">
+                <p class="font-semibold text-slate-700 mb-0.5 tracking-wide">公職人員財產透明化儀表板 <span
+                        class="text-[10px] bg-slate-200 text-slate-600 px-1 py-0.5 rounded ml-1 transition-colors hover:bg-slate-300">非官方</span>
+                </p>
+                <p class="text-[10px] sm:text-[11px] text-slate-400">資料拮取自監察院《廉政專刊》・民主政治始於透明關注</p>
             </div>
-            <a href="https://buymeacoffee.com/andesign" target="_blank" rel="noopener noreferrer"
-                class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-300 rounded-full text-xs font-bold text-slate-700 hover:bg-[#FFDD00] hover:border-[#FFDD00] hover:text-slate-900 transition-all shadow-sm">
-                ☕ 請 Andesign 喝咖啡
-            </a>
+
+            <!-- 中間：版權膠囊 (Credit Capsule) -->
+            <div
+                class="flex items-center justify-center gap-2 bg-slate-200/50 hover:bg-slate-200 transition-colors px-3 py-1.5 rounded-full select-none border border-slate-200/50">
+                <span class="tracking-wide text-[10px] sm:text-[11px]">Made by <strong
+                        class="text-slate-600 font-bold">Andesign</strong></span>
+                <span class="text-slate-300">|</span>
+                <span class="tracking-wide text-[10px] sm:text-[11px]">Powered by ✨ <strong
+                        class="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent font-bold">Gemini</strong></span>
+            </div>
+
+            <!-- 右側：贊助按鈕 -->
+            <div class="flex justify-center md:justify-end">
+                <a href="https://buymeacoffee.com/andesign" target="_blank" rel="noopener noreferrer"
+                    class="group inline-flex items-center gap-2 px-5 py-2 md:px-4 md:py-1.5 bg-white border border-slate-200 hover:border-amber-300 rounded-full font-bold text-slate-600 hover:bg-amber-50 hover:text-amber-900 transition-all shadow-sm">
+                    <span
+                        class="text-amber-500 group-hover:scale-[1.15] group-hover:rotate-6 transition-transform duration-300 text-sm">☕</span>
+                    <span>請 Andesign 喝咖啡</span>
+                </a>
+            </div>
+
         </div>
     </footer>
 
@@ -356,6 +403,16 @@
                     <span class="ml-2 px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-600 border border-slate-200">財產申報紀錄</span>
                 `;
                 document.getElementById('profile-title').innerText = data.title;
+
+                // Update Mobile Header Name & Auto Close Sidebar
+                document.getElementById('mobile-current-name').textContent = data.name;
+                const sidebar = document.getElementById('sidebar-container');
+                const menuArrow = document.getElementById('menu-arrow');
+                if (window.innerWidth < 768 && sidebar && !sidebar.classList.contains('hidden')) {
+                    sidebar.classList.add('hidden');
+                    sidebar.classList.remove('flex');
+                    if (menuArrow) menuArrow.textContent = '▼';
+                }
 
                 const formatVal = (v) => (!v || v === '未列示' || v === '0') ? '無/未列示' : `$${v}`;
 
@@ -683,6 +740,24 @@
                         }
                         group.style.display = hasVisibleChild ? 'block' : 'none';
                     });
+                });
+            }
+
+            // Mobile Menu Toggle
+            const mobileBtn = document.getElementById('mobile-menu-btn');
+            const sidebarBtnArrow = document.getElementById('menu-arrow');
+            const sidebarContainer = document.getElementById('sidebar-container');
+            if (mobileBtn && sidebarContainer) {
+                mobileBtn.addEventListener('click', () => {
+                    if (sidebarContainer.classList.contains('hidden')) {
+                        sidebarContainer.classList.remove('hidden');
+                        sidebarContainer.classList.add('flex');
+                        if (sidebarBtnArrow) sidebarBtnArrow.textContent = '▲';
+                    } else {
+                        sidebarContainer.classList.add('hidden');
+                        sidebarContainer.classList.remove('flex');
+                        if (sidebarBtnArrow) sidebarBtnArrow.textContent = '▼';
+                    }
                 });
             }
         });
